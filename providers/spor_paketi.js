@@ -1,121 +1,92 @@
 /**
- * Project Aslan - Pure Turkish Sports Package Provider (Nuvio Extension)
+ * Project Aslan - Pure Turkish Sports Package Provider (Self-Contained Nuvio QuickJS Engine)
  * 
- * Delivers verified, low-latency, freeze-free Turkish sports channels.
- * Automatically serves the highest-scoring stream as primary,
- * while grouping alternative feeds underneath for one-click manual fallback.
+ * ZERO DEPENDENCIES: No node require('fs'), require('path'), or external relative imports.
+ * Compatible with Nuvio QuickJS sandboxed runtime.
  */
 
-'use strict';
+var REMOTE_VERIFIED_URL = 'https://raw.githubusercontent.com/miskin1702/aslan/main/data/verified-sports.json';
 
-const fs = require('fs');
-const path = require('path');
-
-const VERIFIED_DATA_PATH = path.join(__dirname, '../data/verified-sports.json');
-const REGISTRY_PATH = path.join(__dirname, '../src/data/turkish-sports-registry.json');
-
-let cachedDatabase = null;
-let lastCacheRead = 0;
-const CACHE_TTL_MS = 60000; // In-memory cache for 60 seconds
-
-function loadVerifiedDatabase() {
-    const now = Date.now();
-    if (cachedDatabase && (now - lastCacheRead < CACHE_TTL_MS)) {
-        return cachedDatabase;
-    }
-
-    try {
-        if (fs.existsSync(VERIFIED_DATA_PATH)) {
-            const raw = fs.readFileSync(VERIFIED_DATA_PATH, 'utf8');
-            cachedDatabase = JSON.parse(raw);
-            lastCacheRead = now;
-            return cachedDatabase;
+// High-Availability Embedded Fallback Streams
+var EMBEDDED_SPORTS_FALLBACK = {
+    'bein-sports-1': [
+        {
+            title: '[★ EN İYİ PERFORMANS] beIN SPORTS 1 HD (1080p - Otomatik)',
+            url: 'https://live-freeshot.mark-clark.workers.dev/?ID=beINSPORTS1TR',
+            headers: {}
+        },
+        {
+            title: '[KAYNAK 2] beIN SPORTS 1 HD (Ravenclaw CDN)',
+            url: 'http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT1/tracks-v1a1/mono.m3u8',
+            headers: {}
+        },
+        {
+            title: '[KAYNAK 3] beIN SPORTS 1 HD (TVClub HLS)',
+            url: 'http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6781/index.m3u8',
+            headers: {}
+        },
+        {
+            title: '[KAYNAK 4] beIN SPORTS 1 HD (TRGoals Direct)',
+            url: 'https://d0.4928d54d950ee70q4.lat/yayin1.m3u8',
+            headers: { 'User-Agent': 'googleusercontent', 'Referer': 'https://trgoals1332.xyz/' }
         }
-    } catch (_) {}
-
-    // Fallback to registry if verified data is not yet generated
-    try {
-        if (fs.existsSync(REGISTRY_PATH)) {
-            const registry = JSON.parse(fs.readFileSync(REGISTRY_PATH, 'utf8'));
-            const fallbackDb = {
-                updatedAt: new Date().toISOString(),
-                channels: {}
-            };
-            for (const chan of registry.channels) {
-                fallbackDb.channels[chan.id] = {
-                    id: chan.id,
-                    name: chan.name,
-                    formattedStreams: (chan.defaultStreams || []).map((url, idx) => ({
-                        name: '⌜ ASLAN SPOR ⌟',
-                        title: idx === 0 ? `[★ EN İYİ PERFORMANS] ${chan.name}` : `[KAYNAK ${idx + 1}] ${chan.name}`,
-                        url: url,
-                        quality: '1080p',
-                        isLive: true,
-                        headers: {}
-                    }))
-                };
-            }
-            return fallbackDb;
+    ],
+    's-sport-1': [
+        {
+            title: '[★ EN İYİ PERFORMANS] S SPORT 1 HD (1080p)',
+            url: 'https://d0.4928d54d950ee70q4.lat/yayinss.m3u8',
+            headers: { 'User-Agent': 'Mozilla/5.0', 'Referer': 'https://trgoals1332.xyz/' }
         }
-    } catch (_) {}
-
-    return { channels: {} };
-}
-
-function resolveChannelKey(targetId) {
-    if (!targetId) return null;
-    const clean = targetId.toLowerCase().replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-').trim();
-    const db = loadVerifiedDatabase();
-
-    // Exact ID match
-    if (db.channels[clean]) return clean;
-
-    // Search by name / alias match
-    for (const [key, chan] of Object.entries(db.channels)) {
-        const chanNameClean = (chan.name || '').toLowerCase();
-        if (chanNameClean.includes(targetId.toLowerCase()) || targetId.toLowerCase().includes(key)) {
-            return key;
+    ],
+    's-sport-2': [
+        {
+            title: '[★ EN İYİ PERFORMANS] S SPORT 2 HD (1080p)',
+            url: 'https://d0.4928d54d950ee70q4.lat/yayinss2.m3u8',
+            headers: { 'User-Agent': 'Mozilla/5.0', 'Referer': 'https://trgoals1332.xyz/' }
         }
-    }
-    return null;
-}
-
-/**
- * Main Nuvio Provider Entry Point
- * @param {string} channelId - Canonical channel ID or query name
- * @param {string} mediaType - 'tv' or 'live'
- */
-async function getStreams(channelId, mediaType = 'tv') {
-    const db = loadVerifiedDatabase();
-    const key = resolveChannelKey(channelId);
-
-    if (!key || !db.channels[key]) {
-        // Return default top sports stream if no specific channel is provided
-        const firstActive = Object.values(db.channels).find(c => c.formattedStreams && c.formattedStreams.length > 0);
-        if (firstActive) {
-            return firstActive.formattedStreams.map(s => toNuvioStream(s));
+    ],
+    'exxen-spor-1': [
+        {
+            title: '[★ EN İYİ PERFORMANS] EXXEN SPOR 1 HD (1080p)',
+            url: 'https://d0.4928d54d950ee70q4.lat/yayinex1.m3u8',
+            headers: { 'User-Agent': 'Mozilla/5.0', 'Referer': 'https://trgoals1332.xyz/' }
         }
-        return [];
-    }
+    ],
+    'trt-spor': [
+        {
+            title: '[★ EN İYİ PERFORMANS] TRT SPOR HD (Resmi HLS)',
+            url: 'https://tv-trtspor1.medya.trt.com.tr/master.m3u8',
+            headers: {}
+        },
+        {
+            title: '[KAYNAK 2] TRT SPOR HD (Daion CDN)',
+            url: 'https://trt.daioncdn.net/trt-spor/master.m3u8',
+            headers: {}
+        }
+    ],
+    'a-spor': [
+        {
+            title: '[★ EN İYİ PERFORMANS] A SPOR HD (TurkNet CDN)',
+            url: 'https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8',
+            headers: {}
+        }
+    ],
+    'tv8-5': [
+        {
+            title: '[★ EN İYİ PERFORMANS] TV8.5 HD (Daion CDN)',
+            url: 'https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web',
+            headers: {}
+        }
+    ]
+};
 
-    const channelData = db.channels[key];
-    const streams = channelData.formattedStreams || [];
-
-    if (streams.length === 0) {
-        return [];
-    }
-
-    // Convert to normalized Nuvio Stream Schema
-    return streams.map(s => toNuvioStream(s));
-}
-
-function toNuvioStream(s) {
+function formatNuvioLiveStream(stream) {
     return {
-        name: s.name || '⌜ ASLAN SPOR ⌟',
-        title: s.title,
-        url: s.url,
-        quality: s.quality || '1080p',
-        headers: s.headers || {},
+        name: '⌜ ASLAN SPOR ⌟',
+        title: stream.title || 'Spor Yayını',
+        url: stream.url,
+        quality: stream.quality || '1080p',
+        headers: stream.headers || {},
         behaviorHints: {
             isLive: true,
             notWebReady: false
@@ -123,22 +94,53 @@ function toNuvioStream(s) {
     };
 }
 
-/**
- * Export channel list for Nuvio Live Catalog & EPG
- */
-function getChannelCatalog() {
-    const db = loadVerifiedDatabase();
-    return Object.values(db.channels).map(c => ({
-        id: c.id,
-        name: c.name,
-        category: c.category || 'Spor',
-        logo: c.logo || '',
-        activeStreamsCount: (c.formattedStreams || []).length
-    }));
+async function getStreams(channelId, mediaType, seasonNum, episodeNum) {
+    var target = String(channelId || '').toLowerCase().trim();
+
+    // 1. Try fetching dynamically synced database from GitHub
+    try {
+        var res = await fetch(REMOTE_VERIFIED_URL);
+        if (res.ok) {
+            var data = await res.json();
+            if (data && data.channels) {
+                // If specific channel requested
+                if (target && data.channels[target]) {
+                    var ch = data.channels[target];
+                    if (ch.formattedStreams && ch.formattedStreams.length > 0) {
+                        return ch.formattedStreams.map(formatNuvioLiveStream);
+                    }
+                }
+
+                // If test call or channel not directly matched by ID, try alias search
+                for (var key in data.channels) {
+                    var chan = data.channels[key];
+                    if (target.includes(key) || (chan.name && target.includes(chan.name.toLowerCase()))) {
+                        if (chan.formattedStreams && chan.formattedStreams.length > 0) {
+                            return chan.formattedStreams.map(formatNuvioLiveStream);
+                        }
+                    }
+                }
+
+                // If Nuvio runs "[Sağlayıcıyı Test Et]" with a movie/test ID, return top active sports stream
+                for (var k in data.channels) {
+                    var activeChan = data.channels[k];
+                    if (activeChan.formattedStreams && activeChan.formattedStreams.length > 0) {
+                        return activeChan.formattedStreams.map(formatNuvioLiveStream);
+                    }
+                }
+            }
+        }
+    } catch (_) {}
+
+    // 2. High-Availability Embedded Fallback
+    if (target && EMBEDDED_SPORTS_FALLBACK[target]) {
+        return EMBEDDED_SPORTS_FALLBACK[target].map(formatNuvioLiveStream);
+    }
+
+    // Default test response
+    return EMBEDDED_SPORTS_FALLBACK['bein-sports-1'].map(formatNuvioLiveStream);
 }
 
-module.exports = {
-    getStreams,
-    getChannelCatalog,
-    loadVerifiedDatabase
-};
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = { getStreams: getStreams };
+}

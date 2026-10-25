@@ -129,6 +129,16 @@
         "https://ydfvfdizipanel.ru/public/api",
         "https://sinewix.com"
       ]
+    },
+    "inat": {
+      "name": "İnat Box API",
+      "type": "api",
+      "testPath": "/CDN/001/SPR/v2/spor_v3.php",
+      "mirrors": [
+        "https://sprboxs.bar",
+        "https://dizilabmedia.click",
+        "https://inattv257.cfd"
+      ]
     }
   }
 }

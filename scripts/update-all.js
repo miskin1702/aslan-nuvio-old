@@ -199,6 +199,7 @@ async function refreshApiTokens() {
 // ============================================================================
 
 const { runSync: runSportsSync } = require('./sync-sports');
+const { runSync: runNetvGoldSync } = require('./sync-netv-gold');
 
 // ============================================================================
 // MAIN RUNNER
@@ -221,6 +222,13 @@ async function runMasterUpdate() {
     console.log('\n[Module 3] Running Pure Turkish Sports Synchronization & Probing...');
     await runSportsSync();
 
+    // 4. Synchronize NetTV Gold Feeds (Decrypted IPTV & Sports)
+    console.log('\n[Module 4] Running NetTV Gold Channel Decryption & Extraction...');
+    try {
+        runNetvGoldSync();
+    } catch (e) {
+        console.warn('  [!] NetTV Gold sync warning:', e.message);
+    }
     const totalDuration = ((performance.now() - t0) / 1000).toFixed(2);
     console.log('\n========================================================================');
     console.log(`  ✓ MASTER UPDATE FINISHED IN ${totalDuration}s`);

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T21:17:40.840Z",
+  "updatedAt": "2026-10-25T22:08:54.951Z",
   "version": "1.0.0",
   "totalChannels": 33,
   "activeChannels": 27,
@@ -41,7 +41,25 @@
           "isVerifiedLive": false
         },
         {
+          "url": "http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49218.ts",
+          "headers": {},
+          "latencyMs": 950,
+          "score": 25,
+          "feedSource": "IPTV Multi-Backup Sports",
+          "feedRepo": "https://github.com/berkaygulerr/IPTV",
+          "isVerifiedLive": false
+        },
+        {
           "url": "https://serveranon1.online:8443/701/index.m3u8",
+          "headers": {},
+          "latencyMs": 950,
+          "score": 25,
+          "feedSource": "IPTV Multi-Backup Sports",
+          "feedRepo": "https://github.com/berkaygulerr/IPTV",
+          "isVerifiedLive": false
+        },
+        {
+          "url": "https://sporligtv600.live/restrm/cek.m3u8?u=https://h0.b4c8d3e9f1a2b7c5d58.cfd/yayint24.m3u8&a=&aa=h0.b4c8d3e9f1a2b7c5d58.cfd",
           "headers": {},
           "latencyMs": 950,
           "score": 25,
@@ -69,24 +87,6 @@
         },
         {
           "url": "https://217.30.11.74/e/6570.m3u8",
-          "headers": {},
-          "latencyMs": 950,
-          "score": 25,
-          "feedSource": "IPTV Multi-Backup Sports",
-          "feedRepo": "https://github.com/berkaygulerr/IPTV",
-          "isVerifiedLive": false
-        },
-        {
-          "url": "http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49218.ts",
-          "headers": {},
-          "latencyMs": 950,
-          "score": 25,
-          "feedSource": "IPTV Multi-Backup Sports",
-          "feedRepo": "https://github.com/berkaygulerr/IPTV",
-          "isVerifiedLive": false
-        },
-        {
-          "url": "https://sporligtv600.live/restrm/cek.m3u8?u=https://h0.b4c8d3e9f1a2b7c5d58.cfd/yayint24.m3u8&a=&aa=h0.b4c8d3e9f1a2b7c5d58.cfd",
           "headers": {},
           "latencyMs": 950,
           "score": 25,
@@ -144,50 +144,6 @@
         {
           "name": "⌜ ASLAN SPOR ⌟",
           "title": "[KAYNAK 4] beIN SPORTS 1 HD (Yedek Hat)",
-          "url": "https://serveranon1.online:8443/701/index.m3u8",
-          "quality": "1080p",
-          "isLive": true,
-          "primary": false,
-          "headers": {},
-          "latencyMs": 950,
-          "sourceInfo": "IPTV Multi-Backup Sports"
-        },
-        {
-          "name": "⌜ ASLAN SPOR ⌟",
-          "title": "[KAYNAK 5] beIN SPORTS 1 HD (Yedek Hat)",
-          "url": "https://live-freeshot.mark-clark.workers.dev/?ID=beINSPORTS1TR",
-          "quality": "1080p",
-          "isLive": true,
-          "primary": false,
-          "headers": {},
-          "latencyMs": 950,
-          "sourceInfo": "IPTV Multi-Backup Sports"
-        },
-        {
-          "name": "⌜ ASLAN SPOR ⌟",
-          "title": "[KAYNAK 6] beIN SPORTS 1 HD (Yedek Hat)",
-          "url": "http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8",
-          "quality": "1080p",
-          "isLive": true,
-          "primary": false,
-          "headers": {},
-          "latencyMs": 950,
-          "sourceInfo": "IPTV Multi-Backup Sports"
-        },
-        {
-          "name": "⌜ ASLAN SPOR ⌟",
-          "title": "[KAYNAK 7] beIN SPORTS 1 HD (Yedek Hat)",
-          "url": "https://217.30.11.74/e/6570.m3u8",
-          "quality": "1080p",
-          "isLive": true,
-          "primary": false,
-          "headers": {},
-          "latencyMs": 950,
-          "sourceInfo": "IPTV Multi-Backup Sports"
-        },
-        {
-          "name": "⌜ ASLAN SPOR ⌟",
-          "title": "[KAYNAK 8] beIN SPORTS 1 HD (Yedek Hat)",
           "url": "http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49218.ts",
           "quality": "1080p",
           "isLive": true,
@@ -198,8 +154,52 @@
         },
         {
           "name": "⌜ ASLAN SPOR ⌟",
-          "title": "[KAYNAK 9] beIN SPORTS 1 HD (Yedek Hat)",
+          "title": "[KAYNAK 5] beIN SPORTS 1 HD (Yedek Hat)",
+          "url": "https://serveranon1.online:8443/701/index.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 950,
+          "sourceInfo": "IPTV Multi-Backup Sports"
+        },
+        {
+          "name": "⌜ ASLAN SPOR ⌟",
+          "title": "[KAYNAK 6] beIN SPORTS 1 HD (Yedek Hat)",
           "url": "https://sporligtv600.live/restrm/cek.m3u8?u=https://h0.b4c8d3e9f1a2b7c5d58.cfd/yayint24.m3u8&a=&aa=h0.b4c8d3e9f1a2b7c5d58.cfd",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 950,
+          "sourceInfo": "IPTV Multi-Backup Sports"
+        },
+        {
+          "name": "⌜ ASLAN SPOR ⌟",
+          "title": "[KAYNAK 7] beIN SPORTS 1 HD (Yedek Hat)",
+          "url": "https://live-freeshot.mark-clark.workers.dev/?ID=beINSPORTS1TR",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 950,
+          "sourceInfo": "IPTV Multi-Backup Sports"
+        },
+        {
+          "name": "⌜ ASLAN SPOR ⌟",
+          "title": "[KAYNAK 8] beIN SPORTS 1 HD (Yedek Hat)",
+          "url": "http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8",
+          "quality": "1080p",
+          "isLive": true,
+          "primary": false,
+          "headers": {},
+          "latencyMs": 950,
+          "sourceInfo": "IPTV Multi-Backup Sports"
+        },
+        {
+          "name": "⌜ ASLAN SPOR ⌟",
+          "title": "[KAYNAK 9] beIN SPORTS 1 HD (Yedek Hat)",
+          "url": "https://217.30.11.74/e/6570.m3u8",
           "quality": "1080p",
           "isLive": true,
           "primary": false,

@@ -1,0 +1,1225 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="action" tvg-name="BEİN ACTİON",BEİN ACTİON
+https://seep.eu.org/http://65.108.239.207/bsseries3/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="bturk" tvg-name="BEİN TÜRK",BEİN TÜRK
+https://seep.eu.org/http://65.108.239.207/bsturk/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595|Referer=https://google.com/&Origin=https://google.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="sicifi" tvg-name="SERİES SCİ-Fİ",SERİES SCİ-Fİ
+https://livetvfree.ga/kablo/sinemaaile.m3u|User-Agent=Mozilla/5.0.
+#EXTINF:-1 tvg-id="vice" tvg-name="SERİES VİCE",SERİES VİCE
+http://45.141.156.39:8000/a/willene/live/41865.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE2MzQwNjA1NjgwMDAsXCJ2YWxpZFVudGlsXCI6MTYxNDQ1MjA0MTQzMSxcImlwc1wiOltcIjE0MS4xMDEuMTA1LjIzNVwiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOnRydWUsXCJlcnJvclwiOm51bGwsXCJhcHBcIjp7XCJwbGF0Zm9ybVwiOlwidmF2b29cIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiRnc4cHVZTDZtYUxUQm9PSDJoalpkdkFmaFVNUFErVmJZVVBONVdPZVNmQT1cIn0iLCJzaWduYXR1cmUiOiJmYWl4VWdNUWhOd2xOMkZjYXNIOW0ySTY4dmx2dUh2bnYxTTM3YnNjOGxJVWZxV01qMUhaNVNYM01SY29COXRaNWZJZWR0cnpmR3hkbjZDbSs0YWFhTHBrVHc5K2FEeE56RHFUeFVGVjRPbTJEOXlCY2pGMDFBU05RZkxUSy9XTjdqQ3VXQVJiWmE0TkRSNzB4ZVR3TzhVVTAvL1dXN1Z1bDA2bzZJU05yQjA9In0=|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="comedy" tvg-name="Seri Comedy",Seri Comedy
+https://livetvfree.ga/kablo/sinemakomedi.m3u|User-Agent=Mozilla/5.0.
+#EXTINF:-1 tvg-id="drama" tvg-name="SERİ DRAMA",SERİ DRAMA
+http://2f3b97f3.cbilant.com/iptv/5NAW8CX5W89W2C/6882/index.m3u8|User-Agent=SelcukSportsᴴᴰ/12.0 (Linux;Android 9) ExoPlayerLib/2.10.1
+#EXTINF:-1 tvg-id="prme" tvg-name="SİNE PRME",SİNE PRME
+http://cdn1-tr2tv.yayin.com.tr/tr2tv/ngrp:tr2tv/chunklist_w1574130832_b1696000.m3u8|User-Agent=cepmax.tvcopy/9.8 (Linux;Android 10) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-id="natgeo" tvg-name="natgeo pople",natgeo pople
+https://x.cdnrectvs.live/19/index.m3u8|User-Agent=SSUserAgent
+#EXTINF:-1 tvg-id="discos" tvg-name="DİSCOVERY S",DİSCOVERY S
+https://blackplay.ml/panel/dgo/discoverysc.m3u|User-Agent=GolgeTV
+#EXTINF:-1 tvg-id="bbce" tvg-name="bbce hd",bbce hd
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6854/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="beiniz" tvg-name="BEİN İZ",BEİN İZ
+https://s1.bunnycdn674.xyz/cdn/beiniz.m3u8|Referer=https://bunnycdn674.xyz/&Origin=https://bunnycdn674.xyz&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="idx" tvg-name="İDX HD",İDX HD
+http://195.175.224.219:6610/001/2/ch00000090990000001205/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com|User-Agent=desk_win32
+#EXTINF:-1 tvg-id="dmax" tvg-name="D Max",D Max
+https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
+#EXTINF:-1 tvg-id="trtb" tvg-name="Trt Belgesel",Trt Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tgrtb" tvg-name="TGRT B",TGRT B
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/playlist.m3u8
+#EXTINF:-1 tvg-id="docu" tvg-name="DOCUBOX",DOCUBOX
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8?checkedby:MyWay|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC TV",TLC TV
+https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
+#EXTINF:-1 tvg-id="idman" tvg-name="İdman Tv",İdman Tv
+https://ottcdn.kablowebtv.net/live_turksat_sub3/wsport_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMTAvMjAyNSAwNzo1NDowNiBQTSZoYXNoX3ZhbHVlPVVNOHJrZUJ1V2NvTlRDQlhQNXI1S1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xNTY0ODUxZC1hY2ViLTQyZWUtYjkwZi04MGFlNTczOGEyM2E=|Referer=https://www.tvheryerde.com.tr/&Origin=https://www.tvheryerde.com.tr&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="tjk" tvg-name="TJK TV",TJK TV
+https://tjktv-live.tjk.org/tjktv_720p.m3u8
+#EXTINF:-1 tvg-id="sports" tvg-name="Cosma Sport",Cosma Sport
+https://hypnoss.sh|Referer=https://www.tvheryerde.com.tr/&Origin=https://www.tvheryerde.com.tr&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="ss1" tvg-name="Sokak 1",Sokak 1
+https://cdn.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e3afb2ab8eb4e00080d5277/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="ss2" tvg-name="Sokak 2",Sokak 2
+https://cdn.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e445372300d970008f0f55d/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="ss3" tvg-name="Sokak 3",Sokak 3
+https://cdn.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e4da00a300d970008f310cc/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="ss4" tvg-name="sokak 4",sokak 4
+https://cdn.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e56deb462347b0008ed6168/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="ss5" tvg-name="Sokak 5",Sokak 5
+https://cdn.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e603bbf1ff8910008aea0df/v2/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="ss6" tvg-name="Sokak 6",Sokak 6
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e690e3908064e00081432a9/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="ss7" tvg-name="Sokak 7",Sokak 7
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e71b768b06ba10008d00c30/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="ss8" tvg-name="Sokak 8",Sokak 8
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e79330bbab5a7000831835d/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="ss9" tvg-name="Sokak 9",Sokak 9
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e84df7123ce1800085c6e99/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="ss10" tvg-name="Sokak 10",Sokak 10
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e8e99d85d20c200088c7a19/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="s1b1",s1b1
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e830b82aab50007b0d1af/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="s1b2",s1b2
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e830b57b80e00076b15c4/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="s1b3",s1b3
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e831068854e00079f9cb6/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="s1b4",s1b4
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e831182aab50007b0d1b2/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="s1b5",s1b5
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e831157b80e00076b15c7/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="s2b1",s2b1
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e832068854e00079f9cba/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="s2b2",s2b2
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e832082aab50007b0d1b6/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="s2b3",s2b3
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e832157b80e00076b15ca/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="s2b4",s2b4
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e832157b80e00076b15ca/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="s2b5",s2b5
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e832168854e00079f9cbd/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="s2b6",s2b6
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e832282aab50007b0d1b9/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="s3b1",s3b1
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e833468854e00079f9cc1/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="s3b2",s3b2
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e833482aab50007b0d1bc/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="s3b3",s3b3
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e833557b80e00076b15cd/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="s3b4",s3b4
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e833557b80e00076b15d0/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="s3b5",s3b5
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e833582aab50007b0d1bf/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="s3b6",s3b6
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e833668854e00079f9cc4/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="s3b7",s3b7
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e833657b80e00076b15d3/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="s3b8",s3b8
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e833668854e00079f9cc7/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="s4b1",s4b1
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e83c157b80e00076b15e2/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="21" tvg-name="s4b2",s4b2
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e83c182aab50007b0d1c3/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="22" tvg-name="s4b3",s4b3
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e83c168854e00079f9cca/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="s4b4",s4b4
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e1332e0f4c41f0008a1ea5d/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="s4b5",s4b5
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e83c282aab50007b0d1c6/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="s4b6",s4b6
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e83c257b80e00076b15e8/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="s4b7",s4b7
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e83c368854e00079f9ccd/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="s4b8",s4b8
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e83c368854e00079f9cd0/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="s4b9",s4b9
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e83c357b80e00076b15eb/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="s4b10",s4b10
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e83c457b80e00076b15ee/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="s4b11",s4b11
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e83c482aab50007b0d1c9/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="s5b1",s5b1
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e83fa82aab50007b0d1cd/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="s5b2",s5b2
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5c5031515a4da10008e77942/v2/clear_hls/master.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="s5b3",s5b3
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5c5ab6931159c500086a2e6c/v2/clear_hls/master.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="s5b4",s5b4
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5c63aa41adbd7700077fff11/v2/clear_hls/master.m3u8
+#EXTINF:-1 tvg-id="35" tvg-name="s5b5",s5b5
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e845b57b80e00076b15f5/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="s5b6",s5b6
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e847768854e00079f9cd4/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="s5b7",s5b7
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e847d57b80e00076b15fe/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="s5b8",s5b8
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e848357b80e00076b1601/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="s6b1",s6b1
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e84cf82aab50007b0d1e3/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="s6b2",s6b2
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e84ce57b80e00076b160e/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="s6b3",s6b3
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e84cf82aab50007b0d1dd/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="s6b4",s6b4
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e84d182aab50007b0d1e6/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="s6b5",s6b5
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e84cf82aab50007b0d1e0/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="s6b6",s6b6
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5d6e84d068854e00079f9ce1/v1/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="alef1" tvg-name="alef 1",alef 1
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e8e29dd0b51a00008774535/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="alef2" tvg-name="Alef 2",Alef 2
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e8e2a14c2f716000937866d/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="alef3" tvg-name="alef 3",alef 3
+http://51.89.98.4/vodmovie/download/alef_s01e03.mkv
+#EXTINF:-1 tvg-id="alef4" tvg-name="Alef 4",Alef 4
+http://51.89.98.4/vodmovie/download/alef_s01e04.mkv
+#EXTINF:-1 tvg-id="alef5" tvg-name="Alef 5",Alef 5
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5eaac0f188a3940009c04333/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="alef6" tvg-name="Alef 6",Alef 6
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5eb36e6f3adc1b0008027415/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="alef7" tvg-name="Alef 7",Alef 7
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5ebe628cbe72b6000855c6ce/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="alef8" tvg-name="Alef 8",Alef 8
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5ec5da2e1880d70008c02b14/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="ankara1" tvg-name="Ankara 1",Ankara 1
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e4653c87cc90c00088d80b1/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="ankara2" tvg-name="Ankara 2",Ankara 2
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e58f115e7584a0009b94ac7/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="ankara3" tvg-name="Ankara 3",Ankara 3
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e6b3c5f46cc120008894392/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="ankara4" tvg-name="Ankara 4",Ankara 4
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e80a70c72e851000883f947/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="ciplak1" tvg-name="Cıplak 1",Cıplak 1
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5ee0e5d6c765d5000893a29e/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="ciplak2" tvg-name="Cıplak 2",Cıplak 2
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5ee0e75230c3570008305fb7/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="ciplak3" tvg-name="Ciplak 3",Ciplak 3
+https://cloclo20.cloud.mail.ru/weblink/media/480p_0_1/OGJ0NS9KaTZLaWUxeFg%3D.m3u8?double_encode=1
+#EXTINF:-1 tvg-id="ciplak4" tvg-name="Cıplak 4",Cıplak 4
+https://cloclo4.cloud.mail.ru/weblink/media/720p_0_1/OGtRVS9WVk5yOHVGQnQ%3D.m3u8?double_encode=1
+#EXTINF:-1 tvg-id="kafa1" tvg-name="Kafa 1",Kafa 1
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e70ed3c46cc1200088996eb/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="kafa2" tvg-name="Kafa 2",Kafa 2
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e7f8b0123ce1800085c258f/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="kafa3" tvg-name="Kafa 3",Kafa 3
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e88533d23ce1800085c8616/v6/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="kafa4" tvg-name="Kafa 4",Kafa 4
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e90fc3b5d20c200088c8951/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="kafa5" tvg-name="Kafa5",Kafa5
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e9acb2db4447b0008c9160f/v2/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="hayal1" tvg-name="Hayal 1",Hayal 1
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e7b0e0723ce1800085be80d/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="hayal2" tvg-name="Hayal 2",Hayal 2
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e844f2123ce1800085c664c/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="hayal3" tvg-name="Hayal 3",Hayal 3
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e8e52990b51a00008774614/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="hayal4" tvg-name="Hayal 4",Hayal 4
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e96e505e53a6600084e1514/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="hayal5" tvg-name="Hayal 5",Hayal 5
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5ea00b0ed2f4c7000869efac/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="siki1" tvg-name="Siki 1",Siki 1
+https://cdn-blutv.akamaized.net/blutv-origin/5bd2f293ac08fb00066d2b88/outputs/5ccfe9aebcb65c00077b8b8f/v2/clear_hls/master.m3u8
+#EXTINF:-1 tvg-id="siki2" tvg-name="Siki 2",Siki 2
+https://cdn-blutv.akamaized.net/blutv-origin/5bd2f293ac08fb00066d2b88/outputs/5ccfe8e9b7af0c0007c0301a/v2/clear_hls/master.m3u8
+#EXTINF:-1 tvg-id="siki3" tvg-name="Siki 3",Siki 3
+https://cdn.blutv.com/blutv-origin/5bd2f293ac08fb00066d2b88/outputs/5ccfe9eabcb65c00077b8b98/v2/clear_hls/master.m3u8
+#EXTINF:-1 tvg-id="siki4" tvg-name="Siki 4",Siki 4
+https://cdn-blutv.akamaized.net/blutv-origin/5bd2f293ac08fb00066d2b88/outputs/5ccfea1fb9334b000724a6a9/v2/clear_hls/master.m3u8
+#EXTINF:-1 tvg-id="siki5" tvg-name="Siki5",Siki5
+https://cdn-blutv.akamaized.net/blutv-origin/5bd2f293ac08fb00066d2b88/outputs/5ccfea42b9334b000724a6ac/v2/clear_hls/master.m3u8
+#EXTINF:-1 tvg-id="siki6" tvg-name="Siki6",Siki6
+https://cdn-blutv.akamaized.net/blutv-origin/5bd2f293ac08fb00066d2b88/outputs/5cd2806cb9334b000724abbc/v2/clear_hls/master.m3u8
+#EXTINF:-1 tvg-id="bayi" tvg-name="Bayi Toplantısı",Bayi Toplantısı
+http://51.89.98.4/vodmovie/download/bayii_toplantisi_2020_yerli.mkv
+#EXTINF:-1 tvg-id="naim" tvg-name="Cep HNaim",Cep HNaim
+https://cloclo22.datacloudmail.ru/weblink/media/0p/2PLh/28WRZunu2.m3u8
+#EXTINF:-1 tvg-id="bizim" tvg-name="Bizim",Bizim
+https://mn-nl.mncdn.com/blutv_bizimev/smil:bizimev_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="aidiyet" tvg-name="Adiyet",Adiyet
+https://cloudflare.blutv.com/5bd2f293ac08fb00066d2b88/outputs/5e708c2246cc12000889904b/v3/clear-hls-0/master.m3u8
+#EXTINF:-1 tvg-id="tv1" tvg-name="1 TV 18",1 TV 18
+http://live.redtraffic.xyz:80/livecams.m3u8|User-Agent=iptvcoronakorbuna
+#EXTINF:-1 tvg-id="tv2" tvg-name="2 TV 18",2 TV 18
+http://live.redtraffic.xyz/gay.m3u8|User-Agent=by.iptvprocopy/9.8 (Linux;Android 10) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-id="tv3" tvg-name="3 TV 18",3 TV 18
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 tvg-id="tv4" tvg-name="4 TV 18",4 TV 18
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 tvg-id="tv5" tvg-name="TV 5 18",TV 5 18
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 tvg-id="tv6" tvg-name="6 tv 18",6 tv 18
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 tvg-id="tv7" tvg-name="tv7 18",tv7 18
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 tvg-id="tv8" tvg-name="tv8 18",tv8 18
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 tvg-id="tv9" tvg-name="tv9 18",tv9 18
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 tvg-id="ligtv1" tvg-name="ligtv1",ligtv1
+https://x.birakmamseni.xyz/kaynakstreamradarco/24/strmrdr.m3u8|User-Agent=SelcukSportsᴴᴰ/12.0 (Linux;Android 9) ExoPlayerLib/2.10.1
+#EXTINF:-1 tvg-id="foxlife" tvg-name="Fox Life",Fox Life
+http://narkoztv.yenisistem4.space/live/5464020616%20/taraftartv/224.m3u8
+#EXTINF:-1 tvg-id="ligtv11" tvg-name="Lig Tv 1",Lig Tv 1
+https://cdn.nsxmedia.net/hlslive/510.m3u8
+#EXTINF:-1 tvg-id="dizimax" tvg-name="Dizi Max",Dizi Max
+http://cdn-dizimax.yayin.com.tr/dizimax/dizimax/playlist.m3u8|Referer=https://google.com/
+#EXTINF:-1 tvg-id="sinemax1" tvg-name="Sine Max",Sine Max
+https://film.ozelip.com:3344/stream/play.m3u8|Referer=https://google.com/
+#EXTINF:-1 tvg-id="aktiftv" tvg-name="Aktif Tv",Aktif Tv
+https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin/chunks.m3u8
+#EXTINF:-1 tvg-id="family" tvg-name="Bein Family",Bein Family
+https://corsproxy.xyz/http://iptvaruba.com:8080/bubullea83/fWSgcNAqNOjTif3t/1763|User-Agent=REDLINECLIENT General Mobile GM 5 Plus d 1.0.02.
+#EXTINF:-1 tvg-id="starts" tvg-name="Bein Starts",Bein Starts
+https://seep.eu.org/http://65.108.239.207/bsstars/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595|Referer=https://google.com/&Origin=https://google.com/&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="action2" tvg-name="BEİN ACTİON 2",BEİN ACTİON 2
+https://seep.eu.org/http://65.108.239.207/bspremier1/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="fb" tvg-name="FB TV",FB TV
+https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8|x-requested-with=com.live.glg&User-Agent=GolgeTV++
+#EXTINF:-1 tvg-id="loca11" tvg-name="LOCA 1",LOCA 1
+http://103.145.12.245:8000/a/willene/live/49305.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="loca22" tvg-name="LOCA2",LOCA2
+http://103.145.12.245:8000/a/willene/live/15205.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="loca33" tvg-name="LOCA 3",LOCA 3
+http://103.145.12.245:8000/a/willene/live/42672.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="loca44" tvg-name="LOCA 4",LOCA 4
+http://103.145.12.245:8000/a/willene/live/49317.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="loca88" tvg-name="LOCA 8",LOCA 8
+http://cri.aa.net.tr:1935/dizi/dizi/chunklist.m3u8|User-Agent=SSUserAgent
+#EXTINF:-1 tvg-id="loca99" tvg-name="LOCA 9",LOCA 9
+https://x.birakmamseni.xyz/kaynakstreamradarco/15/strmrdr.m3u8|User-Agent=SelcukSportsᴴᴰ/12.0 (Linux;Android 9) ExoPlayerLib/2.10.1
+#EXTINF:-1 tvg-id="startv" tvg-name="STAR TV",STAR TV
+https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web
+#EXTINF:-1 tvg-id="atv" tvg-name="Atv",Atv
+https://blcco.linkip.org/live/562_.m3u8|Referer=https://taraftarium1083.xyz/&Origin=https://taraftarium1083.xyz&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="kanald" tvg-name="kanald",kanald
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web|Cookie=Cookie:: ASP.NET_SessionId=dt2zddk32q0rwo7rdmev4u2m; emwId=d35cb6a8-1af5-4331-b2b0-651b839899fc; eSessionId=0&User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="showtv" tvg-name="Show Tv",Show Tv
+https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web|Referer=https://www.google.com/&User-Agent=radar.v2/9.8 (Linux;Android 11) AndroidXMedia3/1.1.1
+#EXTINF:-1 tvg-id="trt1" tvg-name="trt1",trt1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8|Origin=https://www.tabii.com/&Referer=https://www.tabii.com&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15
+#EXTINF:-1 tvg-id="foxtv" tvg-name="NOW",NOW
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8|Referer=https://turkcanli.tv&Origin=https://turkcanli.tv&X-LHD-Agent={\&sec-ch-ua=\&User-Agent=Mozilla/5.0 (Linux; Android 10; AndroidTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="bluaksiyon" tvg-name="blu aksiyon",blu aksiyon
+https://d2olkhec4nxaed.cloudfront.net/out/v1/f0134e8bd5cc4964bbdbc12aff9bf27e/index.m3u8
+#EXTINF:-1 tvg-id="tv88" tvg-name="tv8",tv8
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7tv4oszs1118&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3|User-Agent=desk_win32
+#EXTINF:-1 tvg-id="a2" tvg-name="a2",a2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8|User-Agent=kopernik
+#EXTINF:-1 tvg-id="tv85" tvg-name="TV 8-5",TV 8-5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=7wczn5n71y02&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0
+#EXTINF:-1 tvg-id="teve2" tvg-name="teve2",teve2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:-1 tvg-id="kanal7" tvg-name="kanal7",kanal7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-id="beyaztv" tvg-name="Beyaz tv",Beyaz tv
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-name="ntv",ntv
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?sid=4nltxgifuue6&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3
+#EXTINF:-1 tvg-id="cnn" tvg-name="cnn",cnn
+http://izlego.minikirppis-com.workers.dev/ID=427315396743dfe9212c50|Referer=https://turkcanli.tv/&Origin=https://turkcanli.tv&User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="haberturk" tvg-name="HABER TÜRK",HABER TÜRK
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-id="global" tvg-name="haber global",haber global
+https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8|User-Agent=calma
+#EXTINF:-1 tvg-id="24tv" tvg-name="24 tv",24 tv
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 tvg-id="360" tvg-name="360 tv",360 tv
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 tvg-id="tlctv" tvg-name="tlc",tlc
+https://tlcdvr.blutv.com/blutv_tlc1_dvr2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sss",Sss
+https://cdn.nsxserve.net/hlslive/288.m3u8
+#EXTINF:-1 tvg-id="eba1" tvg-name="Eba İlkokul",Eba İlkokul
+https://tv-e-okul00.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="eba2" tvg-name="Eba Ortaokul",Eba Ortaokul
+https://tv-e-okul01.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="eba3" tvg-name="Eba tv Lise",Eba tv Lise
+https://tv-e-okul02.medya.trt.com.tr/master_720_primary_226284.ts|Referer=https://b.kuzeytv.com/&Origin=https://b.kuzeytv.com&User-Agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="blukomedi" tvg-name="blu tv komedi",blu tv komedi
+https://d21eod2e3p9ljp.cloudfront.net/out/v1/dbc93664979b4b6db20d13f0d58f4b07/index.m3u8
+#EXTINF:-1 tvg-id="ciplak5" tvg-name="Çıplak 5",Çıplak 5
+https://cloclo23.cloud.mail.ru/weblink/media/720p_0_1/NDR1dy9WY2NUamM3ZVE%3D.m3u8?double_encode=1
+#EXTINF:-1 tvg-id="ciplak7" tvg-name="Çıplak 7",Çıplak 7
+https://cloclo5.cloud.mail.ru/weblink/media/480p_0_1/RFNKVy81TGdGb25YYUc%3D.m3u8?double_encode=1
+#EXTINF:-1 tvg-id="ciplak8" tvg-name="Çıplak 8",Çıplak 8
+https://cloclo22.cloud.mail.ru/weblink/media/480p_0_1/RWR1ei9aSlBDZnQxanc%3D.m3u8?double_encode=1
+#EXTINF:-1 tvg-id="loca12" tvg-name="Loca 10",Loca 10
+https://x.birakmamseni.xyz/kaynakstreamradarco/18/strmrdr.m3u8|User-Agent=SelcukSportsᴴᴰ/12.0 (Linux;Android 9) ExoPlayerLib/2.10.1
+#EXTINF:-1 tvg-id="loca13" tvg-name="Loca 11",Loca 11
+https://c6.filmsefi.com/web/1/www.afaki.gq/c1/1598382328/pZZge9Y8-Lbv66_GKMYxaA/10371.m3u8
+#EXTINF:-1 tvg-id="loca14" tvg-name="Loca 12",Loca 12
+https://c6.filmsefi.com/web/1/www.afaki.gq/c1/1598382328/pZZge9Y8-Lbv66_GKMYxaA/10371.m3u8
+#EXTINF:-1 tvg-id="loca15" tvg-name="Loca 13",Loca 13
+https://c6.filmsefi.com/web/1/www.afaki.gq/c1/1598382381/pHH136YGs3g42ghxebXDHQ/10372.m3u8
+#EXTINF:-1 tvg-id="loca16" tvg-name="Loca 14",Loca 14
+https://c6.filmsefi.com/web/1/www.afaki.gq/c1/1598382440/hB1gunrFxuxvlAHYM1KSHw/10374.m3u8
+#EXTINF:-1 tvg-id="loca17" tvg-name="loca 15",loca 15
+https://c6.filmsefi.com/web/1/www.afaki.gq/c1/1598382543/hFgZJ4K8LuPt6UA0OV_5rA/11711.m3u8
+#EXTINF:-1 tvg-id="loca18" tvg-name="Loca 16",Loca 16
+https://ceptvappweb.xyz/cep45125TV/html.php?id=133|User-Agent=Mozilla.7.6.1.0
+#EXTINF:-1 tvg-id="zengo" tvg-name="Zengo",Zengo
+https://cloclo4.cloud.mail.ru/videowl/480p/REFCNC85TWhhdTVjUFc=.m3u8?double_encode=1
+#EXTINF:-1 tvg-id="feride" tvg-name="Feride",Feride
+https://cloclo3.cloud.mail.ru/videowl/480p/RHMxOS9vSEw1YVVzZUM=.m3u8?double_encode=1
+#EXTINF:-1 tvg-id="aleyna" tvg-name="Ela",Ela
+https://cloclo25.cloud.mail.ru/weblink/media/720p_0_1/TW1qRC96NzlEOEdBbVQvUHJlbnNlc19FbGEubXA0.m3u8?double_encode=1
+#EXTINF:-1 tvg-id="sd" tvg-name="Mactv sd",Mactv sd
+https://cdn.nsxserve.net/hlslive/201.m3u8
+#EXTINF:-1 tvg-id="life" tvg-name="Fox Life",Fox Life
+http://live101-e.vftv.vucos.net/live_abr_hd/foxlife.stream/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjAgMTA6MDk6MjUgUE0maGFzaF92YWx1ZT1RcXhsRW1iTStkVVE4dGtNMjZzNS9nPT0mdmFsaWRtaW51dGVzPTE0NDA=
+#EXTINF:-1 tvg-id="vizyon" tvg-name="Vizyon tv",Vizyon tv
+https://vizyontv.yayin.com.tr/vizyontv/vizyontv_1080p/chunklist_w1148765115.m3u8
+#EXTINF:-1 tvg-id="kalanask" tvg-name="Yarım Kalan Aşklar",Yarım Kalan Aşklar
+https://cloclo3.cloud.mail.ru/videowl/480p/M0FjdC81MXJyUzhIRUs=.m3u8?double_encode=1
+#EXTINF:-1 tvg-id="kalanask2" tvg-name="Yarim kalan ask 2",Yarim kalan ask 2
+https://cloclo11.cloud.mail.ru/weblink/media/720p_0_1/MjZQYi8zZ2hFU05NenY%3D.m3u8?double_encode=1
+#EXTINF:-1 tvg-id="kalanask3" tvg-name="Yarim kalan ask 3",Yarim kalan ask 3
+https://cloclo21.cloud.mail.ru/videowl/480p/NXlXZC8zM3p3UTdmZ3E=.m3u8?double_encode=1
+#EXTINF:-1 tvg-id="komedi1" tvg-name="komedi 1",komedi 1
+https://livetvfree.ga/panel/rediptv/ch.m3u8?idx=48357|User-Agent=REDLINECLIENT General Mobile GM 5 Plus d 1.0.02.
+#EXTINF:-1 tvg-id="aile" tvg-name="Sinema Aile",Sinema Aile
+https://one.mariuannastluisborg.autos/sinemaaile/index.m3u8|Referer=https://google.com/&Origin=https://google.com/&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="aksiyon1" tvg-name="Aksiyon 1",Aksiyon 1
+https://livetvfree.ga/panel/rediptv/ch.m3u8?idx=48416|User-Agent=REDLINECLIENT General Mobile GM 5 Plus d 1.0.02.
+#EXTINF:-1 tvg-id="animasyon" tvg-name="Digi Animasyon",Digi Animasyon
+https://enoyley.cloud/xrot/getnew3u/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI0ODUxOTkxNTI0YzFjOWMyYjVmNTA=|User-Agent=calma
+#EXTINF:-1 tvg-id="kalanask4" tvg-name="Yarım kalan asklar 4",Yarım kalan asklar 4
+https://cloclo15.cloud.mail.ru/weblink/media/720p_0_1/NERxZi8zZzFEWVJVS1o%3D.m3u8?double_encode=1
+#EXTINF:-1 tvg-id="spor5" tvg-name="SPOR 5",SPOR 5
+https://video.xx.fbcdn.net/hvideo-frc-prn/_nc_ohc-VsqwkcG1iz4AX_fWQFL/_nc_cat-103/v/rmcHSE0f46BLqDK3zvXhb/live-dash/dash-abr-ibr-audio/139861684538219_0.mpd?_nc_rl=AfBAqxrWqJzY2DyC&lvp=1&oh=42a4716c9f14b6ee9f42827757880ffe&oe=5FA9E6B1&_nc_nc=1x|User-Agent=SelcukSportsᴴᴰ/12.0 (Linux;Android 9) ExoPlayerLib/2.10.1
+#EXTINF:-1 tvg-id="trtspor" tvg-name="TRT SPOR",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8|Referer=https://www.trtspor.com.tr/&Origin=https://www.trtspor.com.tr&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48
+#EXTINF:-1 tvg-id="box" tvg-name="Fight Box",Fight Box
+https://www.comparosono.live/7KNSFRiP7ovvlqmw4c7aHA,1675193211/hlslive/190.m3u8|Referer=https://netspor159.live/&Host=https://netspor159.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="kalanask5" tvg-name="Yarım kalan asklar 5",Yarım kalan asklar 5
+https://cloclo24.cloud.mail.ru/weblink/media/480p_0_1/M3A5QS80SEpTUlRZVUc%3D.m3u8?double_encode=1|User-Agent=Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/012.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.0 Mobile Safari/533.4 3gpp-gba
+#EXTINF:-1 tvg-id="kalanask7" tvg-name="Yarım kalan asklar 7",Yarım kalan asklar 7
+https://i.rmbl.ws/s8/2/F/O/p/f/FOpfb.aaa.mp4
+#EXTINF:-1 tvg-id="mac0" tvg-name="mac0",mac0
+https://video-frx5-1.xx.fbcdn.net/hvideo-frc-vll/_nc_ohc-oG2IoQc-MU0AX-_W1Yr/_nc_cat-105/v/rgA0l-Sv6DnD3S1KrsmOt/live-dash/dash-abr-ibr-audio/106612281245748.mpd?_nc_rl=AfArAzv8_6UHI07I&ms=m_CN&oh=6ec91db2d30cc7b1bb32f0143a0dba98&oe=5F973930
+#EXTINF:-1 tvg-id="senersen" tvg-name="Film box şenerşen",Film box şenerşen
+https://proxy.linkeddatafragments.org/http://drstream.ath.cx:8080/tz5ceQV97Ps7/QPaHqPS3DxaB/156262
+#EXTINF:-1 tvg-id="zeki" tvg-name="Blu Play 2",Blu Play 2
+https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+#EXTINF:-1 tvg-id="kadir" tvg-name="Film box kadir inanır",Film box kadir inanır
+http://tvwolf.online:8080/Arpas/montaj12/110272
+#EXTINF:-1 tvg-id="sabantv" tvg-name="Saban tv",Saban tv
+https://cdn.tecostream.xyz/Kemal_Sunal_Tv.m3u8|User-Agent=calma
+#EXTINF:-1 tvg-id="yesilcamtv" tvg-name="Yeşilcam tv",Yeşilcam tv
+https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/http://1.hakosip.xyz:8080/hakancanbakal/Tu9ViBmIYY/219955|Referer=https://google.com/
+#EXTINF:-1 tvg-id="netserver" tvg-name="Net Server vizyon",Net Server vizyon
+http://narkoztv.yenisistem4.space:80/live/5464020616%20/taraftartv/222.m3u8
+#EXTINF:-1 tvg-id="kalanask8" tvg-name="Yarım Kalan Aşklar 8.Bölüm",Yarım Kalan Aşklar 8.Bölüm
+https://cloclo22.datacloudmail.ru/weblink/media/0p/35M9/58XR5xHcH.m3u8
+#EXTINF:-1 tvg-id="elti" tvg-name="Elti",Elti
+http://vod.tsvipsmart.eu/kids/eltilerin_savasi_2020_yerli.mkv
+#EXTINF:-1 tvg-id="sabantv1" tvg-name="Blu Play 1",Blu Play 1
+https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+#EXTINF:-1 tvg-id="sabantv3" tvg-name="Şaban tv",Şaban tv
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Kemal_Sunal_Tv.m3u8|Referer=https://www.google.com/&Origin=https://www.google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="sinehome" tvg-name="Sine Vizyon'da Bugün Ne Var",Sine Vizyon'da Bugün Ne Var
+http://ngntv.iptvlg.com:8080/kNtR52/7rS0cyKFKZit7b3hRf/24551|User-Agent=blockngn
+#EXTINF:-1 tvg-id="sine1" tvg-name="Sine V 1",Sine V 1
+http://134.209.229.149:80/KUZEYMAX_1_HD/index.m3u8
+#EXTINF:-1 tvg-id="sine2" tvg-name="Sine 2",Sine 2
+http://134.209.229.149:80/KUZEYMAX_2_HD/index.m3u8
+#EXTINF:-1 tvg-id="sine3" tvg-name="Sine 3",Sine 3
+http://134.209.229.149:80/satontv_hd/index.m3u8
+#EXTINF:-1 tvg-id="sine4" tvg-name="Sine 4",Sine 4
+http://adana01.ozelip.com:26258/isvicretv/isvicretv/chunklist.m3u8
+#EXTINF:-1 tvg-id="sine5" tvg-name="Sine 5",Sine 5
+http://ngntv.iptvlg.com:8080/kNtR52/7rS0cyKFKZit7b3hRf/24556|User-Agent=blockngn
+#EXTINF:-1 tvg-id="sine6" tvg-name="Sine 6",Sine 6
+http://ngntv.iptvlg.com:8080/kNtR52/7rS0cyKFKZit7b3hRf/24557|User-Agent=blockngn
+#EXTINF:-1 tvg-id="sine7" tvg-name="Sine 7",Sine 7
+http://ngntv.iptvlg.com:8080/kNtR52/7rS0cyKFKZit7b3hRf/24558|User-Agent=blockngn
+#EXTINF:-1 tvg-id="sine8" tvg-name="Sine 8",Sine 8
+http://ngntv.iptvlg.com:8080/kNtR52/7rS0cyKFKZit7b3hRf/24559|User-Agent=blockngn
+#EXTINF:-1 tvg-id="sine9" tvg-name="Sine 9",Sine 9
+http://ngntv.iptvlg.com:8080/kNtR52/7rS0cyKFKZit7b3hRf/24560|User-Agent=blockngn
+#EXTINF:-1 tvg-id="sine10" tvg-name="Sine 10",Sine 10
+http://ngntv.iptvlg.com:8080/kNtR52/7rS0cyKFKZit7b3hRf/24561|User-Agent=blockngn
+#EXTINF:-1 tvg-id="sine11" tvg-name="Sine 11",Sine 11
+http://ngntv.iptvlg.com:8080/kNtR52/7rS0cyKFKZit7b3hRf/24562|User-Agent=blockngn
+#EXTINF:-1 tvg-id="sine12" tvg-name="Sine 12",Sine 12
+http://ngntv.iptvlg.com:8080/kNtR52/7rS0cyKFKZit7b3hRf/24563|User-Agent=blockngn
+#EXTINF:-1 tvg-id="sine13" tvg-name="Sine 13",Sine 13
+http://ngntv.iptvlg.com:8080/kNtR52/7rS0cyKFKZit7b3hRf/24564|User-Agent=blockngn
+#EXTINF:-1 tvg-id="sine14" tvg-name="Sine 14",Sine 14
+http://ngntv.iptvlg.com:8080/kNtR52/7rS0cyKFKZit7b3hRf/24565|User-Agent=iptvcoronakorbuna
+#EXTINF:-1 tvg-id="sine15" tvg-name="Sine 15",Sine 15
+http://ngntv.iptvlg.com:8080/kNtR52/7rS0cyKFKZit7b3hRf/24566|User-Agent=blockngn
+#EXTINF:-1 tvg-id="sine16" tvg-name="Sine 16",Sine 16
+http://ngntv.iptvlg.com:8080/kNtR52/7rS0cyKFKZit7b3hRf/24567|User-Agent=blockngn
+#EXTINF:-1 tvg-id="sine17" tvg-name="Sine 17",Sine 17
+http://ngntv.iptvlg.com:8080/kNtR52/7rS0cyKFKZit7b3hRf/24568|User-Agent=blockngn
+#EXTINF:-1 tvg-id="sine18" tvg-name="Sine 18",Sine 18
+http://ngntv.iptvlg.com:8080/kNtR52/7rS0cyKFKZit7b3hRf/24569|User-Agent=blockngn
+#EXTINF:-1 tvg-id="sine19" tvg-name="Sine 19",Sine 19
+http://ngntv.iptvlg.com:8080/kNtR52/7rS0cyKFKZit7b3hRf/24570|User-Agent=blockngn
+#EXTINF:-1 tvg-id="sine20" tvg-name="Sine 20",Sine 20
+http://ngntv.iptvlg.com:8080/kNtR52/7rS0cyKFKZit7b3hRf/24571|User-Agent=blockngn
+#EXTINF:-1 tvg-id="radar1" tvg-name="Stream Radar b1",Stream Radar b1
+https://savatv16.com/701/mono.m3u8|Referer=https://37zlottv.live/&Origin=https://37zlottv.live&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15
+#EXTINF:-1 tvg-id="" tvg-name="Stream Radar b1",Stream Radar b1
+https://video-muc.xx.fbcdn.net/hvideo-ash18/v/rjI4Raco7Rt5kaQs9cNQ3/live-dash/dash-abr-ibr-audio/118688696731996_0.mpd?_nc_rl=AfAzs0f6lcUt4Tzd&oh=c5a6f0e3b342ca33fc47e838eac448c3&oe=5FC4557E
+#EXTINF:-1 tvg-id="afyont" tvg-name="Afyon Türk",Afyon Türk
+https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8|User-Agent=desk_win32
+#EXTINF:-1 tvg-id="aspor" tvg-name="A Spor",A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8|Referer=https://trgoals1250.xyz/&Origin=https://trgoals1250.xyz&User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="pturk" tvg-name="Power Türk",Power Türk
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$POWER_TURK_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS|User-Agent=Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="power" tvg-name="Power tv",Power tv
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$POWER_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS|User-Agent=Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="nr1" tvg-name="Nr1",Nr1
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$NUMBER1_TURK_HD/index.m3u8?start=LIVE&end=END&device=HLS|User-Agent=Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="trpop" tvg-name="Türkçe pop",Türkçe pop
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TURKCE_POP/index.m3u8?start=LIVE&end=END&device=HLS|User-Agent=Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="tarabeks" tvg-name="Türk arabesk",Türk arabesk
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$ARABESK/index.m3u8?start=LIVE&end=END&device=HLS|User-Agent=Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="turkslow" tvg-name="Türk slow",Türk slow
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TURKCE_SLOW/index.m3u8?start=LIVE&end=END&device=HLS|User-Agent=Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="tasplak" tvg-name="Türkçe taş plak",Türkçe taş plak
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TAS_PLAK/index.m3u8?start=LIVE&end=END&device=HLS|User-Agent=Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="trmasal" tvg-name="Tr masal",Tr masal
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$YABANCI_POP/index.m3u8?start=LIVE&end=END&device=HLS|User-Agent=Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="vatantv" tvg-name="Vatan tv",Vatan tv
+http://iptvmasterlink.dyndns.org:5566/Entry/vatantv_yeni.m3u8|User-Agent=akavci.aplicdgt/9.8 (Linux;Android 10) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-id="foratv" tvg-name="Fora tv",Fora tv
+http://ni1.radyotelekomtv.com:29020/foramuzik/foramuzik/chunklist.m3u8|User-Agent=akavci.aplicdgt/9.8 (Linux;Android 10) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-id="megatv" tvg-name="Mega tv",Mega tv
+http://ni1.radyotelekomtv.com:29020/megatv/megatv/chunklist.m3u8|User-Agent=akavci.aplicdgt/9.8 (Linux;Android 10) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-id="ayneny" tvg-name="Aynen Aynen Yılbaşı 5 sezon",Aynen Aynen Yılbaşı 5 sezon
+https://s.ssvodstream2.xyz/koksik/aynen_aynen/aynen_aynen_s05b01/slckvd.m3u8
+#EXTINF:-1 tvg-id="cinema1" tvg-name="Sinema Netv 1",Sinema Netv 1
+https://x.cdnrectvs.live/31/index.m3u8
+#EXTINF:-1 tvg-id="aksiyon2" tvg-name="Aksiyon Sinema",Aksiyon Sinema
+https://livetvfree.ga/panel/rediptv/ch.m3u?idx=39419|User-Agent=REDLINECLIENT General Mobile GM 5 Plus d 1.0.02.
+#EXTINF:-1 tvg-id="cinema3" tvg-name="Animasyon Sinema",Animasyon Sinema
+https://x.cdnrectvs.live/26/index.m3u8
+#EXTINF:-1 tvg-id="cinema4" tvg-name="Animasyon Sinema",Animasyon Sinema
+https://x.cdnrectvs.live/27/index.m3u8
+#EXTINF:-1 tvg-id="korku1" tvg-name="Korku 1",Korku 1
+https://livetvfree.ga/panel/rediptv/ch.m3u8?idx=48404|User-Agent=REDLINECLIENT General Mobile GM 5 Plus d 1.0.02.
+#EXTINF:-1 tvg-id="cinema6" tvg-name="Sinema Türk",Sinema Türk
+https://x.cdnrectvs.live/30/index.m3u8
+#EXTINF:-1 tvg-id="bein3" tvg-name="Bein 3 HD Radar",Bein 3 HD Radar
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_b3.m3u8|Referer=https://taraftarium1046.xyz/&Origin=https://taraftarium1046.xyz&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/26.0 Chrome/122.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="tivibu1" tvg-name="Tivibu 1",Tivibu 1
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_t1.m3u8|Referer=https://taraftarium1081.xyz/&Origin=https://taraftarium1081.xyz&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="sineyerli" tvg-name="Sine Yerli",Sine Yerli
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/b21ae52fbde03ba.m3u8|User-Agent=SelcukSportsᴴᴰ/12.0 (Linux;Android 9) ExoPlayerLib/2.10.1
+#EXTINF:-1 tvg-id="nhttv" tvg-name="Nht tv",Nht tv
+https://istanbul.tvizlehd.com/live/agrotv.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+#EXTINF:-1 tvg-id="lifetv" tvg-name="Life tv",Life tv
+http://waw1.artiyerelmedya.net:1935/lifetv/bant1/playlist.m3u8|User-Agent=akavci.aplicdgt/9.8 (Linux;Android 10) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-id="bizimev" tvg-name="Bizim ev tv",Bizim ev tv
+http://stream3x.net:5255/tolga-kanka/te6EfsRqQX/715.ts|Cookie=ASP.NET_SessionId=dt2zddk32q0rwo7rdmev4u2m;emwId=d35cb6a8-1af5-4331-b2b0-651b839899fc;eSessionId=0&Referer=https://google.com/
+#EXTINF:-1 tvg-id="ciftcitv" tvg-name="Çiftçi tv",Çiftçi tv
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
+#EXTINF:-1 tvg-id="yedek" tvg-name="Bein 1 yedek",Bein 1 yedek
+https://hls.nscdn9.com/hlslive/951.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101
+#EXTINF:-1 tvg-id="tutorial" tvg-name="Reklam Gec",Reklam Gec
+http://netvgoldcdn.xyz/reklamgec.mp4
+#EXTINF:-1 tvg-id="adminnnn" tvg-name="admin",admin
+https://xxx.yoruldukbebilader.xyz/72fe9bb58e02e669273c902c1f48f501/601/qs.m3u8
+#EXTINF:-1 tvg-id="masa" tvg-name="Masa İle Koca Ayı",Masa İle Koca Ayı
+https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185153
+#EXTINF:-1 tvg-id="tgrth" tvg-name="Sözcü Tv",Sözcü Tv
+https://helga.iptv2022.com/szc_tv/index.m3u8|Referer=https://turkcanli.tv/&Origin=https://turkcanli.tv&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15
+#EXTINF:-1 tvg-id="action1" tvg-name="BEİN ACTİON",BEİN ACTİON
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/75f786d09364fe6.m3u8
+#EXTINF:-1 tvg-id="discoid" tvg-name="Discovery İd",Discovery İd
+https://lord.mariuannastluisborg.autos/discs/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="dizismart" tvg-name="Dizi Smart",Dizi Smart
+http://kentv.xyz:8080/cem1533050/8fUukgStHuct/246
+#EXTINF:-1 tvg-id="bilimk1" tvg-name="Bilim Kurgu 1",Bilim Kurgu 1
+https://livetvfree.ga/panel/rediptv/ch.m3u8?idx=39426|User-Agent=REDLINECLIENT General Mobile GM 5 Plus d 1.0.02.
+#EXTINF:-1 tvg-id="komedi2" tvg-name="Komedi 2",Komedi 2
+http://myteve.online:8080/stadnik2/7082341272/43541|User-Agent=REDLINECLIENT General Mobile GM 5 Plus d 1.0.02.
+#EXTINF:-1 tvg-id="korku2" tvg-name="korku 2",korku 2
+https://livetvfree.ga/panel/rediptv/ch.m3u8?idx=42506|User-Agent=REDLINECLIENT General Mobile GM 5 Plus d 1.0.02.
+#EXTINF:-1 tvg-id="turk1" tvg-name="Türk 1",Türk 1
+https://livetvfree.ga/golgetv/golgech2.m3u8?id=49327|User-Agent=REDLINECLIENT General Mobile GM 5 Plus d 1.0.02.te
+#EXTINF:-1 tvg-id="turk2" tvg-name="Turk 2",Turk 2
+https://vizyontv.yayin.com.tr/turk-sinemasi-tv/turk-sinemasi-tv/playlist.m3u8|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="turk3" tvg-name="Turk 3",Turk 3
+https://livetvfree.ga/golgetv/golgech2.m3u?id=15182|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="nickjr" tvg-name="Nick Jr",Nick Jr
+https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/http://1.hakosip.xyz:8080/hakancanbakal/Tu9ViBmIYY/431|Referer=https://google.com/
+#EXTINF:-1 tvg-id="disneyjr" tvg-name="Disney Jr",Disney Jr
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6236|Referer=https://google.com/
+#EXTINF:-1 tvg-id="disneyc" tvg-name="Disney Chanel",Disney Chanel
+https://tunzilla.com/http://31.42.185.100:8080/@TheNFTbros/2PFtS2DKBuqAIxkkD3QNakbi2GxFqU/93794
+#EXTINF:-1 tvg-id="babytv" tvg-name="Baby Tv",Baby Tv
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6239|Referer=https://google.com/
+#EXTINF:-1 tvg-id="animasyon1" tvg-name="Animasyon 1",Animasyon 1
+http://snmtv.ozelip.com:2052/niloyatv/niloyatv/chunklist_w1844721993.m3u8|User-Agent=exoplayer-codelab
+#EXTINF:-1 tvg-id="animasyon2" tvg-name="Animasyon 2",Animasyon 2
+http://fs2.hlsrectv.online/rectv35/index.m3u8|User-Agent=exoplayer-codelab
+#EXTINF:-1 tvg-id="minikago" tvg-name="Minika Go",Minika Go
+https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/http://1.hakosip.xyz:8080/hakancanbakal/Tu9ViBmIYY/260565
+#EXTINF:-1 tvg-id="minikac" tvg-name="Minika Cocuk",Minika Cocuk
+https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/http://1.hakosip.xyz:8080/hakancanbakal/Tu9ViBmIYY/439
+#EXTINF:-1 tvg-id="cartonn" tvg-name="Carton Network",Carton Network
+https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8|Referer=https://google.com/
+#EXTINF:-1 tvg-id="cocuk" tvg-name="Çocuk",Çocuk
+http://185.183.34.174:8000/a/willene/live/51297.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE2MzExNTY3NTc5MDAsXCJ2YWxpZFVudGlsXCI6MTYzMTE1NzM1NzkwMCxcImlwc1wiOltcIjg4LjIzMi4xNTAuMjIzXCIsXCI4OC4yMzIuMTUwLjIyM1wiXSxcInJ1bGVzZXRcIjpcImd1ZXN0XCIsXCJ2ZXJpZmllZFwiOmZhbHNlLFwiZXJyb3JcIjpudWxsLFwiYXBwXCI6e1wicGxhdGZvcm1cIjpcImFuZHJvaWRcIixcInZlcnNpb25cIjpcIjIuNlwiLFwic2VyaXZjZVwiOlwiMS4yLjI2XCIsXCJva1wiOnRydWV9LFwidXVpZFwiOlwiYm9laHJoTFVDenRpMHhQQVBtWXNQOEx3VXFNOW01Wng1SjJURlArdzNkUT1cIn0iLCJzaWduYXR1cmUiOiJDWUwrSGIyQTU2M2FEZGM4VmhYZTg4RWE1WWlpU2VleHdyQi9YdUdSb1l3NXhoMVlXKzhsc2VhZjVkVW9saUR2cTFPZGduQWhMVkJTNWZQdjNnNjhyLzhYWHJ1UU1YM2NTMmhvTjBCa25MbWlid29PNTB2QnNSUkQweWNNMS9iTHFpbDNweWZDT2pkbDJxS3ZzSWdoaCtqRHhTUVR4TkIzdGpkWW1yeGJDSzA9In0==|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="bbcc" tvg-name="BBC CBEEBİES",BBC CBEEBİES
+https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/145
+#EXTINF:-1 tvg-id="bt1" tvg-name="Bt Sports 1",Bt Sports 1
+https://xxx.ahyinemisen.xyz/72fe9bb58e02e669273c902c1f48f501/401/v.m3u8
+#EXTINF:-1 tvg-id="bt2" tvg-name="Bt Sports 2",Bt Sports 2
+https://xxx.ahyinemisen.xyz/72fe9bb58e02e669273c902c1f48f501/402/v.m3u8
+#EXTINF:-1 tvg-id="bt3" tvg-name="Bt Sports 3",Bt Sports 3
+https://xxx.ahyinemisen.xyz/72fe9bb58e02e669273c902c1f48f501/403/v.m3u8
+#EXTINF:-1 tvg-id="dazn1" tvg-name="Dazn 1 Bar",Dazn 1 Bar
+https://xxx.ahyinemisen.xyz/72fe9bb58e02e669273c902c1f48f501/501/v.m3u8
+#EXTINF:-1 tvg-id="dazn2" tvg-name="Dazn 2 Bar",Dazn 2 Bar
+https://xxx.ahyinemisen.xyz/72fe9bb58e02e669273c902c1f48f501/502/v.m3u8
+#EXTINF:-1 tvg-id="sky" tvg-name="Sky Sports F1",Sky Sports F1
+https://s1.bunnycdn8.xyz/cdn/skyf1.m3u8|Referer=https://bunnycdn.xyz/&Origin=https://bunnycdn.xyz&User-Agent=radar.v2/9.8 (Linux;Android 11) AndroidXMedia3/1.1.1
+#EXTINF:-1 tvg-id="beinc1" tvg-name="Bein Connect 1",Bein Connect 1
+https://xxx.ahyinemisen.xyz/72fe9bb58e02e669273c902c1f48f501/9001/v.m3u8
+#EXTINF:-1 tvg-id="beinc2" tvg-name="Bein Connect 2",Bein Connect 2
+https://xxx.ahyinemisen.xyz/72fe9bb58e02e669273c902c1f48f501/9002/v.m3u8
+#EXTINF:-1 tvg-id="beinc3" tvg-name="Bein Connect 3",Bein Connect 3
+https://xxx.ahyinemisen.xyz/72fe9bb58e02e669273c902c1f48f501/9003/v.m3u8
+#EXTINF:-1 tvg-id="beinc4" tvg-name="Bein Connect 4",Bein Connect 4
+https://xxx.sureklipatliyor.xyz/72fe9bb58e02e669273c902c1f48f501/9004/v.m3u8
+#EXTINF:-1 tvg-id="beinc5" tvg-name="Bein Connect 5",Bein Connect 5
+https://xxx.sureklipatliyor.xyz/72fe9bb58e02e669273c902c1f48f501/9005/v.m3u8
+#EXTINF:-1 tvg-id="trts2" tvg-name="Trt spor 2",Trt spor 2
+https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?&sid=74edifq4t9bg&app=9f849b8c-7fc0-46a2-a9ec-ff8e2b35960d&ce=2|Referer=https://www.tabii.com/&Origin=https://www.tabii.com&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="smarts" tvg-name="SMART SPOR 1",SMART SPOR 1
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_smarts.m3u8|Referer=https://taraftarium1081.xyz/&Origin=https://taraftarium1081.xyz&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="4k" tvg-name="TRT 4K",TRT 4K
+https://cinque.408b8b7fd5f75.shop/p/g/2888/playlist.m3u8|Referer=https://ia.strmrdrfronf.click/&Origin=https://ia.strmrdrfronf.click&User-Agent=Mozilla/5.0 (Linux; Android 11; M2003J15SC Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.134 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="scf1" tvg-name="SCF 1",SCF 1
+http://103.145.12.245:8000/a/willene/live/49313.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="scf2" tvg-name="SCF 2",SCF 2
+http://103.145.12.245:8000/a/willene/live/48522.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="scf3" tvg-name="SCF 3",SCF 3
+http://103.145.12.245:8000/a/willene/live/49314.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="scf4" tvg-name="SCF 4",SCF 4
+http://103.145.12.245:8000/a/willene/live/48527.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="scf5" tvg-name="SCF 5",SCF 5
+http://103.145.12.245:8000/a/willene/live/48523.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="konusan" tvg-name="Lkonusanalr",Lkonusanalr
+https://zerocdn.cloud/hls2/01/00006/,1nlxaftb4wwo_n,.urlset/master.m3u8
+#EXTINF:-1 tvg-id="konusan27" tvg-name="Konusanlar 27",Konusanlar 27
+https://g00glejs.xyz/hls2/01/00006/,4r7k0z2h3yjm_n,.urlset/master.m3u8
+#EXTINF:-1 tvg-id="konusan26" tvg-name="Konusanlar 26",Konusanlar 26
+https://g00glejs.xyz/hls2/01/00006/,1nlxaftb4wwo_n,.urlset/master.m3u8
+#EXTINF:-1 tvg-id="oses15" tvg-name="O ses 15",O ses 15
+https://g00glejs.xyz/hls2/01/00006/,23okcihr4d9s_n,.urlset/master.m3u8
+#EXTINF:-1 tvg-id="oses14" tvg-name="O ses 14",O ses 14
+https://g00glejs.xyz/hls2/01/00006/,1vpie4f6a401_n,.urlset/master.m3u8
+#EXTINF:-1 tvg-id="ciplaks2b4" tvg-name="Cipak s2 b4",Cipak s2 b4
+https://g00glejs.xyz/hls2/01/00006/,rjynlp7ti08q_n,.urlset/master.m3u8
+#EXTINF:-1 tvg-id="ciplaks2b5" tvg-name="Ciplak s2b5",Ciplak s2b5
+https://g00glejs.xyz/hls2/01/00006/,xo8wa18oz0vl_n,.urlset/master.m3u8
+#EXTINF:-1 tvg-id="ciplaks2b6" tvg-name="Ciplak s2 b6",Ciplak s2 b6
+https://g00glejs.xyz/hls2/01/00006/,k9es8lewxua5_n,.urlset/master.m3u8
+#EXTINF:-1 tvg-id="ciplaks2b7" tvg-name="Ciplak s2b7",Ciplak s2b7
+https://g00glejs.xyz/hls2/01/00006/,0f7xvfgw8520_n,.urlset/master.m3u8
+#EXTINF:-1 tvg-id="kafes1b1" tvg-name="Adim basi kafe s1 b1",Adim basi kafe s1 b1
+https://g00glejs.xyz/hls2/01/00006/,081eb039iv6j_n,.urlset/master.m3u8
+#EXTINF:-1 tvg-id="olums1b2" tvg-name="Olum zamani",Olum zamani
+https://g00glejs.xyz/hls2/01/00006/,0zwia0etqytf_n,.urlset/master.m3u8
+#EXTINF:-1 tvg-id="olums1b1" tvg-name="Olum zamani 1",Olum zamani 1
+https://g00glejs.xyz/hls2/01/00006/,ltrdypp5a53b_n,.urlset/master.m3u8
+#EXTINF:-1 tvg-id="olagans1b1" tvg-name="Olağan Şüpheliler 1",Olağan Şüpheliler 1
+https://g00glejs.xyz/hls2/01/00006/,34lj5lghqvke_n,.urlset/master.m3u8
+#EXTINF:-1 tvg-id="pavyons2b1" tvg-name="Pavyon s2b1",Pavyon s2b1
+https://g00glejs.xyz/hls2/01/00006/,ct7lfpv07qje_n,.urlset/master.m3u8
+#EXTINF:-1 tvg-id="pavyons1b6" tvg-name="Pavyon s1b6",Pavyon s1b6
+https://g00glejs.xyz/hls2/01/00006/,hphw3noguekk_n,.urlset/master.m3u8
+#EXTINF:-1 tvg-id="eniss1b19" tvg-name="Enis arikan s1b19",Enis arikan s1b19
+https://g00glejs.xyz/hls2/01/00006/,3ao1hrgw3kbo_n,.urlset/master.m3u8
+#EXTINF:-1 tvg-id="konusan28" tvg-name="Konusanlar 28",Konusanlar 28
+https://facebcdn.xyz/hls2/01/00006/,rva0upk9b5p6_n,.urlset/master.m3u8
+#EXTINF:-1 tvg-id="gurme" tvg-name="Bein Gurme",Bein Gurme
+https://s1.bunnycdn674.xyz/cdn/beingurme.m3u8|Referer=https://bunnycdn674.xyz/&Origin=https://bunnycdn674.xyz&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="sokak2" tvg-name="Sokağın çocukları 2",Sokağın çocukları 2
+https://streaming.disk.yandex.net/hls/U2FsdGVkX1_ojQHggfZHdLhHlG-UTl3WraIcyWx2BaJwC3dWSzVPXf0pFVisLuBedzz0R6TblXHgCRslx8RGg8BHnpFxnD88eee1WTEzmQaOuG7wNciLPGmQEXKUO1AebS08Y-t9bpjZ09DZS8e01i5eydrxDosygGGn2VjvxlGstg1t2Se7p5jkJZirkfQRk0WiO44VWyaeTCcrUTwP5HFfkUKCpZjDM3c41FpUJxwcK37zVqBB06bKmBh_9A1rnDQsYrmyCj_zl5wZHcQiKcBH2xmpXu9jvjcwBCty7iIlmSzd7mszJCq23ZuyuCnM/5c741e10f24c8/cd2c961e1db67972574fd999d2f7189e589c969e81a57f6b05aff2afc9d21e75/master-playlist.m3u8?from=disk&vsid=87037d9787ea8737f271e7d57dae8f9ad1190614a6f3xWEBx5946x1626374248&adsid=b5e9c3ea8748fa0f31597f8aee301775f4772c0a11b2xWEBx5946x1626374249&t=1626374255011&abd=1
+#EXTINF:-1 tvg-id="halktv" tvg-name="Halk tv",Halk tv
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-id="tele1" tvg-name="Tele 1",Tele 1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+#EXTINF:-1 tvg-id="krttv" tvg-name="Krt tv",Krt tv
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Krt.m3u8|Referer=https://www.tvheryerde.com.tr/&Origin=https://www.tvheryerde.com.tr/&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="ulusaltv" tvg-name="Ulusal tv",Ulusal tv
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ulusal_Kanal.m3u8|Referer=https://www.tvheryerde.com.tr/&Origin=https://www.tvheryerde.com.tr&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="ulketv" tvg-name="Ülke tv",Ülke tv
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8|Referer=https://www.tvheryerde.com.tr/&Origin=https://www.tvheryerde.com.tr&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="fishontv" tvg-name="Fishontv",Fishontv
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+#EXTINF:-1 tvg-id="trtmuzik" tvg-name="TRT müzik",TRT müzik
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8?anahtar=uDF6pIH_fTdrY4Fqsjgh2Q&sure=1632534330&ip=95.12.237.92
+#EXTINF:-1 tvg-id="powerturk" tvg-name="Power Türk",Power Türk
+https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="dreamturk" tvg-name="Dream türk",Dream türk
+https://mn-nl.mncdn.com/blutv_dreamturk2/live.m3u8?anahtar=ndmviCqGv7hmhNX4S-8p1Q&sure=1632534423&ip=95.12.237.92
+#EXTINF:-1 tvg-id="beinvavo" tvg-name="Bein Vavo",Bein Vavo
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/33895|User-Agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73
+#EXTINF:-1 tvg-id="exxentv" tvg-name="Exxen tv",Exxen tv
+http://line.onlvip.com/live/Degets-mart57/1909.20*/169127.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="rectv" tvg-name="Rec tv stream",Rec tv stream
+https://g1b.d72577a9dd0ec74.cfd/patron/mono.m3u8|Referer=https://taraftarium1082.xyz/&Origin=https://taraftarium1082.xyz&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="tv100" tvg-name="TV 100",TV 100
+https://tv.ensonhaber.com/tv100/tv100_1080p.m3u8|Referer=https://taraftarium1078.xyz/&Origin=https://taraftarium1078.xyz&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="exxens1" tvg-name="Exxen Spor 1",Exxen Spor 1
+https://savatv16.com/e1/mono.m3u8|Referer=https://4slotintv.live/&Origin=https://4slotintv.live&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15
+#EXTINF:-1 tvg-id="exxens2" tvg-name="Exxen Spor 2",Exxen Spor 2
+https://biraz.6781237.xyz/checklist/androstreamliveexn.m3u8|Referer=https://birazcikspor42.xyz/&Origin=https://birazcikspor42.xyz&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="exxens3" tvg-name="Exxen Spor 3",Exxen Spor 3
+https://savatv16.com/e3/mono.m3u8|Referer=https://4slotintv.live/&Origin=https://4slotintv.live&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="exxens4" tvg-name="Exxen Spor 4",Exxen Spor 4
+https://savatv16.com/e4/mono.m3u8|Referer=https://4slotintv.live/&Origin=https://4slotintv.live&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="exxens5" tvg-name="Exxen Spor 5",Exxen Spor 5
+https://savatv16.com/e5/mono.m3u8|Referer=https://4slotintv.live/&Origin=https://4slotintv.live&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+#EXTINF:-1 tvg-id="exxens6" tvg-name="Exxen Spor 6",Exxen Spor 6
+https://wandering-pond-ff44.androsd2390asd.workers.dev/checklist/androstreamliveexn8.m3u8|Referer=https://tvjustin.com/&Origin=https://tvjustin.com&User-Agent=Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="tolga" tvg-name="m3u8 beiin",m3u8 beiin
+http://cors.zimjs.com:80/https://aa.1xhasthost.cfd/bein1/bein1.m3u8|Referer=https://google.com/
+#EXTINF:-1 tvg-id="m3" tvg-name="M3u8",M3u8
+https://0.mbcocuklar.cfd/fatih4/index.m3u8|Referer=https://do-net.cfd/justintv/&User-Agent=Mozilla/5.0+(Linux;+Android+10;+Redmi+Note+8+Pro+Build/QP1A.190711.020;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/109.0.5414.117+Mobile+Safari/537.36
+#EXTINF:-1 tvg-id="exxens7" tvg-name="Exxen Spor 7",Exxen Spor 7
+https://tre.6a0ec8ce41cae2c.shop/p/56dKCbbicBNkNdK8kD/4105/playlist.m3u8|Referer=https://ic.strmrdrfrojd.site&Origin=https://ic.strmrdrfrojd.site&User-Agent=Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="exxens8" tvg-name="Exxen Spor 8",Exxen Spor 8
+http://164.68.118.105:8080/greattv/greattv/349|User-Agent=gamebox.appcore.com/1.02
+#EXTINF:-1 tvg-id="exxensy9" tvg-name="Exxen Spor 9",Exxen Spor 9
+https://g.trgoals517.xyz/yayinex4.m3u8|Referer=https://trgoalshosting.gq&Origin=https://trgoalshosting.gq
+#EXTINF:-1 tvg-id="exxensy1" tvg-name="Exxen Spor 1 Yedek",Exxen Spor 1 Yedek
+https://cors-anywhere-bc.herokuapp.com/http://cakal.click/yayinex1.m3u8|Referer=http://www.google.com/&User-Agent=Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="es2" tvg-name="EURO 2",EURO 2
+https://nord.ayakkabiparti.lol/euro22/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="tivibu2" tvg-name="Tivibu spor 2",Tivibu spor 2
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_t2.m3u8|Referer=https://taraftarium1081.xyz/&Origin=https://taraftarium1081.xyz&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="tivibu3" tvg-name="Tivibu spor 3",Tivibu spor 3
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_t3.m3u8|Referer=https://taraftarium1081.xyz/&Origin=https://taraftarium1081.xyz&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="filmclub" tvg-name="Film Club",Film Club
+https://stream2.filbox.com.tr/live/hls/1279/index.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="chasse" tvg-name="Chasse",Chasse
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/chill-tv/playlist/0.m3u8|Referer=https://google.com/&User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; A5010 Build/PI)
+#EXTINF:-1 tvg-id="scivie" tvg-name="Scivie",Scivie
+https://play24.ga/kablo/scivie.m3u
+#EXTINF:-1 tvg-id="filmax" tvg-name="Fil Max",Fil Max
+https://stream2.filbox.com.tr/live/hls/1282/index.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="filmak" tvg-name="Film Aksiyon",Film Aksiyon
+https://stream2.filbox.com.tr/live/hls/1281/index.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="filtv" tvg-name="Fil Tv",Fil Tv
+https://stream2.filbox.com.tr/live/hls/1277/index.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="syerli" tvg-name="Fil Tv Family",Fil Tv Family
+https://cdn.videobulut.com/35/3811/K6M3Zj2jVVCZ/K6M3Zj2jVVCZ.mpd|User-Agent=Mozilla/5.0.
+#EXTINF:-1 tvg-id="his" tvg-name="History",History
+https://ip44.radyotelekomtv.com:3548/hybrid/play.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="" tvg-name="ddd",ddd
+https://livetvfree.ga/panel/panel1/panel1v3t.m3u8?sayfa=exxen-spor-8-hd
+#EXTINF:-1 tvg-id="fbtv" tvg-name="Fb Tv",Fb Tv
+https://corsproxy.xyz/https://trn10.tulix.tv/gt-fbtv/index.m3u8
+#EXTINF:-1 tvg-id="gstv" tvg-name="Gs Tv",Gs Tv
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:-1 tvg-id="filmclubb" tvg-name="Film Club",Film Club
+https://tna5.bozztv.com/Shovvplus/index.m3u8
+#EXTINF:-1 tvg-id="wildyedek" tvg-name="Nat wild Yedek",Nat wild Yedek
+https://blackplay.ml/panel/dgo/wild.m3u|User-Agent=GolgeTV
+#EXTINF:-1 tvg-id="geoyedek" tvg-name="Nat geo yedek",Nat geo yedek
+https://blackplay.ml/panel/dgo/natgeo.m3u|User-Agent=GolgeTV
+#EXTINF:-1 tvg-id="vietv" tvg-name="Scıence Vie Tv",Scıence Vie Tv
+https://livetvfree.ga/kablo/scivie.m3u|User-Agent=Mozilla/5.0.
+#EXTINF:-1 tvg-id="peche" tvg-name="Chasse Peche",Chasse Peche
+https://corsanywhere.app.runonflux.io/http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/9209
+#EXTINF:-1 tvg-id="24kit" tvg-name="24 KITCHEN",24 KITCHEN
+https://tunzilla.com/http://31.42.185.100:8080/@TheNFTbros/2PFtS2DKBuqAIxkkD3QNakbi2GxFqU/634
+#EXTINF:-1 tvg-id="aspor2" tvg-name="A Spor Yedek",A Spor Yedek
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8?token=YYpuTUJzg4XwJaen2kc46w&tms=1770989701|Referer=https://localhost/&Origin=https://localhost/&User-Agent=calma
+#EXTINF:-1 tvg-id="bein4s" tvg-name="Bein 4 Sd",Bein 4 Sd
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_b4.m3u8|Referer=https://taraftarium1081.xyz/&Origin=https://taraftarium1081.xyz&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/26.0 Chrome/122.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="beyazy" tvg-name="Beyaz Tv Yeşilçam",Beyaz Tv Yeşilçam
+http://fanatik12.xyz:80/live/almandagitim/Fesr6un8Yjcz/8203.ts|User-Agent=Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="beyazyy" tvg-name="Beyaz Tv Yabancı",Beyaz Tv Yabancı
+http://cdn.mobiluygulamal.site:80/dsgo/Ds/?v=aHR0cHM6Ly9kc21hcnRnby1saXZlLmVyY2RuLm5ldC9maWxtYm94L2ZpbG1ib3gubTN1OA==&ae=bo.m3u8|Referer=http://homecipserver.store
+#EXTINF:-1 tvg-id="sinemaaile" tvg-name="Sinema Aile",Sinema Aile
+https://one.mariuannastluisborg.autos/sinemaaile/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="sinema1001" tvg-name="Sinema 1001",Sinema 1001
+https://seep.eu.org/https://65.108.239.207/sinema1001/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="sinemayer" tvg-name="Sinema Yerli",Sinema Yerli
+https://seep.eu.org/http://65.108.239.207/mvturk/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="sinemakome" tvg-name="Sinema Komedi",Sinema Komedi
+https://seep.eu.org/https://65.108.239.207/sinemakomedi/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="redbultv" tvg-name="Redbul tv",Redbul tv
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="sinemaaksi" tvg-name="Sinema Aksiyon",Sinema Aksiyon
+https://seep.eu.org/https://65.108.239.207/sinemaaksiyon2/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="bein2sd" tvg-name="Bein 2 A Radar",Bein 2 A Radar
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams3/bein-sports-2.m3u8|Referer=https://www.atomsportv513.top/&Origin=https://www.atomsportv513.top&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/26.0 Chrome/122.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="bein3s" tvg-name="Bein 3 Trgoals",Bein 3 Trgoals
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivebs3.m3u8|Referer=https://atomsportv501.top/&Origin=https://atomsportv501.top&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="bein4" tvg-name="Bein 4",Bein 4
+http://164.68.118.105:8080/live/calaninanasini/sikiyim/4.m3u8|User-Agent=Cr7
+#EXTINF:-1 tvg-id="beinmax1" tvg-name="Bein Max 1",Bein Max 1
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_bm1.m3u8|Referer=https://fairtv16.com/&Origin=https://fairtv16.com&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="beinmax2" tvg-name="Bein Max 2",Bein Max 2
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_bm2.m3u8|Referer=https://fairtv16.com/&Origin=https://fairtv16.com&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="sinev1" tvg-name="Sinevizyon 2",Sinevizyon 2
+http://kahvalti.mukemmel483.com:8080/berkayakkus12/X9bFJmkPJas6/349
+#EXTINF:-1 tvg-id="sinev2" tvg-name="Sineviyon 3",Sineviyon 3
+http://kahvalti.mukemmel483.com:8080/berkayakkus12/X9bFJmkPJas6/350
+#EXTINF:-1 tvg-id="fx" tvg-name="Fx",Fx
+https://saran-live.ercdn.net/fx/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432|Accept=*/*&Range=bytes=0-&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="crime" tvg-name="Fox Crime",Fox Crime
+http://live6pop03.kablowebtv.com:80/Live/HLS/4094/2500.m3u8|Cookie=ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045&User-Agent=Dalvik/2.1.0 (Linux; U; Android 11; M2003J15SC Build/RP1A.200720.011)
+#EXTINF:-1 tvg-id="sinev3" tvg-name="Sine Vizyon 1",Sine Vizyon 1
+http://cdn.mobiluygulamal.site:80/dsgo/Ds/?v=aHR0cHM6Ly9kc21hcnRnby1saXZlLmVyY2RuLm5ldC9kc21hcnRnby9kaXppc21hcnRtYXgvZGl6aXNtYXJ0bWF4LmlzbWwvcGxheWxpc3QubTN1OA==&ae=bo.m3u8|Refere=http://homecipserver.store
+#EXTINF:-1 tvg-id="habitat" tvg-name="Habitat",Habitat
+http://cms.3p24.de:1453/Y8TGpdeGpfB6QwkVeGpfB6/37eGpfB6QwkVeGprPeGpfB6/20594|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42
+#EXTINF:-1 tvg-id="kiyma3" tvg-name="Kıyma 3. Bölüm",Kıyma 3. Bölüm
+https://cloclo57.cloud.mail.ru/videowl/240p_1/dWVlby8xd0RDYXFQOEo=.m3u8?double_encode=1
+#EXTINF:-1 tvg-id="tv8kablo" tvg-name="Tv 8 Kablo",Tv 8 Kablo
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7tv08bnv0w08&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3|Referer=https://b.kuzeytv.com/&Origin=https://b.kuzeytv.com&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="dizismartp" tvg-name="Dizi Smart Premi",Dizi Smart Premi
+http://srcbe.xyz:8000/live/musmus/DP2Yc3AFzJMb/65432.m3u8
+#EXTINF:-1 tvg-id="saksiyon2" tvg-name="Sinema Aksiyon 2",Sinema Aksiyon 2
+https://enoyley.cloud/xrot/getnew3u/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzYzMzc2ODE5NTYxZjlmMmZjZGIyYg==|Referer=https://google.com/&Origin=https://google.com/&User-Agent=calma
+#EXTINF:-1 tvg-id="sinemay2" tvg-name="Sinema Yerli 2",Sinema Yerli 2
+https://enoyley.cloud/xrot/getnew3u/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwNDc1MjUxNjgzZTQzYTRiYTNlOGM=|Referer=https://google.com/&Origin=https://google.com/&User-Agent=calma
+#EXTINF:-1 tvg-id="lovenature" tvg-name="Love Nature",Love Nature
+https://lord.mariuannastluisborg.autos/lovenature/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="atv2" tvg-name="Atv 2 Hd",Atv 2 Hd
+https://5ln.zirvedesin244.cfd/atv/mono.m3u8|Referer=https://bplaytv26.com/&Origin=https://bplaytv26.com&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="sss" tvg-name="SSS",SSS
+https://vsd106.mycdn.me/hls/2796329175767.m3u8/sig/IrpCe350BCU/expires/1660328548600/srcIp/46.155.5.120/clientType/1/srcAg/CHROME_ANDROID/mid/4098790465239/2796329175767_high/index.m3u8?p
+#EXTINF:-1 tvg-id="123" tvg-name="1",1
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/AcNeB1gmfpM3q0nrnOyCTMKl1S7um4bXdr-jP-BRvvE6lhH7rHW033ajnXHvlhzo0XHWcLXKrDPfAF7kr9MXdg/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-id="bein2hd" tvg-name="Bein 2 Tr Goals",Bein 2 Tr Goals
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivebs2.m3u8|Referer=https://30slotintv.live/&Origin=https://30slotintv.live&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="bein3radar" tvg-name="Bein 3 C",Bein 3 C
+https://thingproxy.freeboard.io/fetch/https://odin.7545c95540dc.shop/3/chunk_hd.m3u8|Referer=https://thingproxy.freeboard.io/fetch/&Origin=https://thingproxy.freeboard.io&User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="bein5" tvg-name="Bein 5",Bein 5
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_b5.m3u8|Referer=https://fairtv18.com/&Origin=https://fairtv18.com/&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="trt2" tvg-name="Trt 2",Trt 2
+http://195.175.224.219:6610/001/2/ch00000090990000001213/index.m3u8?RateHigh=6000000&RateLow=900000&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw%3D%3D&terminalflag=5&virtualDomain=001.live_hls.zte.com
+#EXTINF:-1 tvg-id="xfedm3u8" tvg-name="Bein Spor x fed m3u8",Bein Spor x fed m3u8
+https://patlak.trgoals430.xyz/yayin1.m3u8|referer=https://patlak.trgoals430.xyz
+#EXTINF:-1 tvg-id="sinema1002" tvg-name="Sinema Tv 1002",Sinema Tv 1002
+https://blackplay.ml/panel/dgo/sinema1002.mu8|x-requested-with=com.live.glg&User-Agent=GolgeTV
+#EXTINF:-1 tvg-id="sinema1y" tvg-name="Sinema Tv 1",Sinema Tv 1
+https://seep.eu.org/http://65.108.239.207/bsseries2/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="sinema2y" tvg-name="Sinema Tv 2",Sinema Tv 2
+https://blackplay.ml/panel/dgo/sinematv2.m38|x-requested-with=com.live.glg&User-Agent=GolgeTV
+#EXTINF:-1 tvg-id="sinemako2" tvg-name="Sinema Komedi 2",Sinema Komedi 2
+http://myteve.online:8080/stadnik2/7082341272/43541|x-requested-with=com.live.glg&User-Agent=kom2
+#EXTINF:-1 tvg-id="davinci" tvg-name="Davinci",Davinci
+http://live6pop01.kablowebtv.com/Live/HLS/2006/2500.m3u8|Cookie=Cookie:: ASP.NET_SessionId=dt2zddk32q0rwo7rdmev4u2m; emwId=d35cb6a8-1af5-4331-b2b0-651b839899fc; eSessionId=0&User-Agent=ExoPlayerDemo/1.14 (Linux;Android 10) ExoPlayerLib/1.5.11
+#EXTINF:-1 tvg-id="dsmartmax" tvg-name="D Smart Max",D Smart Max
+https://piyasaolmus.tk/mobi-stream/dsmartmax.m3u8|User-Agent=mobistream
+#EXTINF:-1 tvg-id="filmbox" tvg-name="Film Box",Film Box
+http://srcbe.xyz:8000/live/musmus/DP2Yc3AFzJMb/65436.m3u8
+#EXTINF:-1 tvg-id="viahistory" tvg-name="Via his",Via his
+https://cors.proxy.prometko.si/http://65.108.239.207:80/viasathistory/index.m3u8|User-Agent=mobistream
+#EXTINF:-1 tvg-id="beinmpre" tvg-name="Bein Movies Pre 1",Bein Movies Pre 1
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8|Referer=https://example.com/&Origin=https://example.com&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="beinmpre2" tvg-name="Bein Movies Pre 2",Bein Movies Pre 2
+https://seep.eu.org/http://65.108.239.207/bsseries1/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="ssporred1" tvg-name="S Sport 1 - Stream",S Sport 1 - Stream
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_ss.m3u8|Referer=https://taraftarium1081.xyz/&Origin=https://taraftarium1081.xyz&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0
+#EXTINF:-1 tvg-id="ssporred2" tvg-name="S Sport 2 - Stream",S Sport 2 - Stream
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_ss2.m3u8|Referer=https://fairtv20.com/&Origin=https://fairtv20.com&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="sspor2y" tvg-name="S Sport 2 - Yedek",S Sport 2 - Yedek
+https://cors-anywhere-k8s.innocode.no/https://cakal.click/yayinss2.m3u8|Referer=https://www.google.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="ngkablo" tvg-name="Nat Geo Kablo",Nat Geo Kablo
+https://lord.mariuannastluisborg.autos/natgeo/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="ngwkablo" tvg-name="Nat Geo Wild Kablo",Nat Geo Wild Kablo
+https://viptine.site/2/vavoo.php?hls=1324166169d75d5197aa7.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 https://viptine.site/2/vavoo.php?
+#EXTINF:-1 tvg-id="dckablo" tvg-name="Disco C Kablo",Disco C Kablo
+https://viptine.site/2/vavoo.php?hls=4017734592f45fd8456678.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="dskablo" tvg-name="Disco S Kablo",Disco S Kablo
+https://tv1.arectv30.sbs/live/discs.m3u8|Referer=https://twitter.com/&Origin=https://twitter.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="animaux" tvg-name="Animaux",Animaux
+https://enoyley.cloud/xrot/getnew3u/1.m3u8?v=aHR0cHM6Ly9vaGEudG8vb2hhLWlwdHYvcGxheS8yNDQwMzQ3MzcwOGFhMGNiMDVhMGQ3|Cookie=Cookie:: ASP.NET_SessionId=dt2zddk32q0rwo7rdmev4u2m; emwId=d35cb6a8-1af5-4331-b2b0-651b839899fc; eSessionId=0&User-Agent=calma
+#EXTINF:-1 tvg-id="vekablo" tvg-name="Viasat Explore",Viasat Explore
+https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="vhkablo" tvg-name="Viasat History Kablo",Viasat History Kablo
+https://inatbox7.64fetih.workers.dev/channel/eyJjaFVybCI6Imh0dHBzOi8vc3RyLmZpbG1pemxlZWVlZS5jZmQvR0xCLz9zdGF0aWM9dmlhc2F0aGlzdG9yeSIsImNoVHlwZSI6InRla2xpX3JlZ2V4X2xiX3NoXzNfbW9kZSIsImNoUmVnIjpbeyJSZWdleDEiOiJheDh2Ync5NDM5Zno2Y2VyIiwic2hhMjU2Ijoic2hhMjU2L0ZIQk82MEpxUDAvcC9SY3lEMExOR240ZnN2b1pVMFFUblYxaUlBRGhiY009IiwiSG9zdCI6InN0ci5maWxtaXpsZWVlZWUuY2ZkIn1dLCJjaEhlYWRlcnMiOlt7IlVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEyMS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEyMS4wIiwiUmVmZXJlciI6Imh0dHBzOi8vZ29vZ2xlLmNvbS8iLCJYUmVxdWVzdGVkV2l0aCI6IlhNTEh0dHBSZXF1ZXN0In1dfQ==.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="cpkablo" tvg-name="Chasse Peche",Chasse Peche
+https://corsanywhere.app.runonflux.io/http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/9209
+#EXTINF:-1 tvg-id="svkablo" tvg-name="Science Vie",Science Vie
+http://live4pop03.kablowebtv.com:80/Live/HLS/1004/2500.m3u8|Cookie=ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045&User-Agent=Dalvik/2.1.0 (Linux; U; Android 11; M2003J15SC Build/RP1A.200720.011)
+#EXTINF:-1 tvg-id="s1kablo" tvg-name="Sinema Tv Kablo",Sinema Tv Kablo
+http://live1pop03.kablowebtv.com:80/Live/HLS/4060/2500.m3u8|Cookie=ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045&User-Agent=Dalvik/2.1.0 (Linux; U; Android 11; M2003J15SC Build/RP1A.200720.011)
+#EXTINF:-1 tvg-id="sakablo" tvg-name="Sinema Aile Kablo",Sinema Aile Kablo
+https://rwmovies.site/hls/sinema-aile.m3u8|Cookie=PHPSESSID=c33560881eea2c67629613b22833297b&User-Agent=Mozilla/5.0 (Linux; Android 9; CLT-L09) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.1 Chrome/71.0.3578.99 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="sakkablo" tvg-name="Sinema Aksiyon 1 Kablo",Sinema Aksiyon 1 Kablo
+http://live1pop03.kablowebtv.com:80/Live/HLS/4004/2500.m3u8|Cookie=ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045&User-Agent=Dalvik/2.1.0 (Linux; U; Android 11; M2003J15SC Build/RP1A.200720.011)
+#EXTINF:-1 tvg-id="bein1cm3u8" tvg-name="Bein Sport 1 C M3u8",Bein Sport 1 C M3u8
+http://cors.zimjs.com/https://rexusbettv3.com/ahref/bein_sport_1/play.m3u8|Referer=https://google.com/
+#EXTINF:-1 tvg-id="starkabo" tvg-name="Star Tv Kablo",Star Tv Kablo
+https://tatatam.trt1sultanfatihss.workers.dev/https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8p6rwl429kfa&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=2%20#EXTINF:-1%20tvg-name=%22TV%208%22%20tvg-id=%22%22%20tvg-logo=%22https://imgs.search.brave.com/OjYN02PMadfM-5wK12rHI66fq_jdflScTuMdKdwaj5k/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9maWxl/cy5zaWtheWV0dmFy/LmNvbS9sZy9jbXAv/MTEvMTE3Mi5wbmc_/MTUyMjY1MDEyNQ|Referer=https://tv.ecanlitvizle.org/&Origin=https://tv.ecanlitvizle.org&User-Agent=Mozilla/5.0 (Linux; Android 11; M2003J15SC Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="englisclub" tvg-name="English Club",English Club
+http://live6pop04.kablowebtv.com/Live/HLS/2012/2500.m3u8|Cookie=ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045&Referer=https://google.com/&User-Agent=ExoPlayerDemo/1.14 (Linux;Android 9) ExoPlayerLib/1.5.11
+#EXTINF:-1 tvg-id="davincik" tvg-name="Davin Cİ Kablo",Davin Cİ Kablo
+http://live6pop01.kablowebtv.com/Live/HLS/2006/2500.m3u8|Cookie=Cookie:: ASP.NET_SessionId=dt2zddk32q0rwo7rdmev4u2m; emwId=d35cb6a8-1af5-4331-b2b0-651b839899fc; eSessionId=0&User-Agent=ExoPlayerDemo/1.14 (Linux;Android 10) ExoPlayerLib/1.5.11
+#EXTINF:-1 tvg-id="bein2c" tvg-name="Bein 2 C",Bein 2 C
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams3/bein-sports-2.m3u8|Referer=https://www.atomsportv513.top/&Origin=https://www.atomsportv513.top&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="beinhabe" tvg-name="Bein Haber",Bein Haber
+https://tzy.zirvedesin236.cfd/ex1/mono.m3u8|Referer=https://taraftarium1068.xyz/&Origin=https://taraftarium1068.xyz&Accept=*/*&accept-language=tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+#EXTINF:-1 tvg-id="selcukm3u8" tvg-name="Selcuk Bein 1 m3u8",Selcuk Bein 1 m3u8
+https://serhat.trgoals427.xyz/yayin1.m3u8|Referer=https://serhat.trgoals427.xyz/
+#EXTINF:-1 tvg-id="moviesturk" tvg-name="Film Scren",Film Scren
+https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="epicdrama" tvg-name="Epic Drama",Epic Drama
+http://c3921155.edmonst.net/iptv/LY9PHWZHRXA5SE/6882/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="edgespor" tvg-name="Edge Sports",Edge Sports
+http://145.239.5.177:8080/564/index.m3u8|User-Agent=Mozilla%2F5.0+%28Linux%3B+Android+10%3B+Redmi+Note+8+Pro%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F89.0.4389.86+Mobile+Safari%2F537.36 referer=https://kingbetting6.tv origin=https://kingbetting6.tv
+#EXTINF:-1 tvg-id="beinhe" tvg-name="Bein He",Bein He
+http://51.89.76.111:2086/munjair45/4BqqJIxCql/13577
+#EXTINF:-1 tvg-id="ntntv" tvg-name="Ntn Tv",Ntn Tv
+https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
+#EXTINF:-1 tvg-id="teleontv" tvg-name="Teleon Tv",Teleon Tv
+http://streaming.netdirekt.com.tr:80/35757/teleontv/klasmediagroup_lisansli_4kultrahd__/playlist.m3u8|Referer=https://google.com/
+#EXTINF:-1 tvg-id="showplustv" tvg-name="Show Plus Tv",Show Plus Tv
+https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8|Referer=https://google.com/
+#EXTINF:-1 tvg-id="fdtv" tvg-name="Fdtv Sinema",Fdtv Sinema
+https://ssh101.bozztv.com/ssh101/fdtvsinema/chunks.m3u8
+#EXTINF:-1 tvg-id="cennet" tvg-name="Filmbox Zeki Metin",Filmbox Zeki Metin
+http://tvwolf.online:8080/Arpas/montaj12/110267
+#EXTINF:-1 tvg-id="tvavrupa" tvg-name="Tv Avrupa",Tv Avrupa
+http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/chunklist.m3u8|Referer=https://google.com/
+#EXTINF:-1 tvg-id="tv66" tvg-name="Tv 6",Tv 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+#EXTINF:-1 tvg-id="duzguntv" tvg-name="Düzgün Tv",Düzgün Tv
+http://nrttn172.kesintisizyayin.com:29010/duzguntv/duzguntv/supersatforumplaylist.m3u8|Referer=https://google.com/
+#EXTINF:-1 tvg-id="beins1b" tvg-name="Bein Spor 1 - B",Bein Spor 1 - B
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivebiraz1.m3u8|Referer=https://30slotintv.live/&Origin=https://30slotintv.live&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="beins1c" tvg-name="Bein Spor 1 - C",Bein Spor 1 - C
+https://xvw.zirvedesin246.cfd/zirve/mono.m3u8|Referer=https://30slotintv.live/&Origin=https://30slotintv.live&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="beins1sd" tvg-name="Bein Spor 1 - D",Bein Spor 1 - D
+https://tradepro-cors.herokuapp.com/https://e0.4928d54d950ee70q5.click/yayin1.m3u8|Referer=https://trgoals1294.xyz/&Origin=https://trgoals1294.xyz&User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+#EXTINF:-1 tvg-id="bengut" tvg-name="Bengü Türk",Bengü Türk
+https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8|User-Agent=desk_win32
+#EXTINF:-1 tvg-id="apara" tvg-name="A Para",A Para
+https://cdn900.canlitv.direct/apara.m3u8?tkn=CebmttIxDTk7FEQvrUIBZg&tms=1761260372&hst=m.canlitv.direct&ip=37.155.253.4|Referer=https://m.canlitv.direct/&Origin=https://m.canlitv.direct&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="bloom" tvg-name="Bloomberg Tv",Bloomberg Tv
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8|Referer=https://www.tvheryerde.com.tr/&Origin=https://www.tvheryerde.com.tr&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="flashh" tvg-name="Flash Haber",Flash Haber
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8|Referer=https://google.com/&User-Agent=calma
+#EXTINF:-1 tvg-id="akittv" tvg-name="Akit Tv",Akit Tv
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Akit.m3u8
+#EXTINF:-1 tvg-id="dha1" tvg-name="Dha 1",Dha 1
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w630024058.m3u8
+#EXTINF:-1 tvg-id="dha2" tvg-name="Dha 2",Dha 2
+https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w1843782493.m3u8
+#EXTINF:-1 tvg-id="tbmmtv" tvg-name="Tbmm Tv",Tbmm Tv
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 tvg-id="trtcocuk" tvg-name="Trt Çocuk",Trt Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8?anahtar=4H0lLq41FiEcT8C_T8c1AA&sure=1696233598&ip=31.223.13.91|Referer=https://b.kuzeytv.com/&Origin=https://b.kuzeytv.com&User-Agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang",Boomerang
+https://boomerang.blutv.com/blutv_boomerang/live_720p2000000kbps/index.m3u8|Referer=https://google.com/
+#EXTINF:-1 tvg-id="ducktv" tvg-name="Duck Tv",Duck Tv
+http://live6pop03.kablowebtv.com:80/Live/HLS/2013/1500.m3u8|Cookie=ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045&Origin=https://google.com&User-Agent=ASP.NET_SessionId=dt2zddk32q0rwo7rdmev4u2m;emwId=d35cb6a8-1af5-4331-b2b0-651b839899fc;eSessionId=0
+#EXTINF:-1 tvg-id="masaltv" tvg-name="Masal Tv",Masal Tv
+https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/http://1.hakosip.xyz:8080/hakancanbakal/Tu9ViBmIYY/219863
+#EXTINF:-1 tvg-id="diyanetc" tvg-name="Diyanet Çocuk",Diyanet Çocuk
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="nicktons" tvg-name="Nickelodeon",Nickelodeon
+https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/141
+#EXTINF:-1 tvg-id="leotv" tvg-name="Leo Tv",Leo Tv
+https://livestream.zazerconer.workers.dev/channel/UCokzL9BoHjKXssspsYeFGUQ.m3u8|Referer=https://google.com/
+#EXTINF:-1 tvg-id="cocuktv1" tvg-name="Çocuk Tv 1",Çocuk Tv 1
+https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/http://1.hakosip.xyz:8080/hakancanbakal/Tu9ViBmIYY/124300|x-requested-with=com.by.asambek.app&Referer=http://crazywatch.tk:80
+#EXTINF:-1 tvg-id="cocuktv2" tvg-name="Çocuk Tv 2",Çocuk Tv 2
+https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/http://1.hakosip.xyz:8080/hakancanbakal/Tu9ViBmIYY/260533|Referer=https://google.com/
+#EXTINF:-1 tvg-id="tom" tvg-name="Tom ve Jerry",Tom ve Jerry
+https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/http://1.hakosip.xyz:8080/hakancanbakal/Tu9ViBmIYY/440
+#EXTINF:-1 tvg-id="sirinler" tvg-name="Şirinler",Şirinler
+https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/http://1.hakosip.xyz:8080/hakancanbakal/Tu9ViBmIYY/219914
+#EXTINF:-1 tvg-id="niloya" tvg-name="Niloya Tv",Niloya Tv
+https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185037
+#EXTINF:-1 tvg-id="masha" tvg-name="Masha Ve Koca Ayı",Masha Ve Koca Ayı
+http://t6.tugiktv.xyz:2086/teffffkkkk/qsf67ea2n9/11376|Referer=https://google.com/
+#EXTINF:-1 tvg-id="animas1" tvg-name="Animasyon Tv",Animasyon Tv
+http://dreamstaraz.com:25461/live/otttest/otttest/949.m3u8
+#EXTINF:-1 tvg-id="kukuli" tvg-name="Kukuli",Kukuli
+https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/http://1.hakosip.xyz:8080/hakancanbakal/Tu9ViBmIYY/447
+#EXTINF:-1 tvg-id="sevimlid" tvg-name="Sevimli Dostlar",Sevimli Dostlar
+https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185105
+#EXTINF:-1 tvg-id="salon1" tvg-name="Bein Box 1",Bein Box 1
+https://seep.eu.org/http://65.108.239.207/box1/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="cicektaksi" tvg-name="Çicek Taksi",Çicek Taksi
+https://cors.zimjs.com/http://special.boxserver.live:8080/parsxcfeed/AR4b9CM3Zxbp/96669
+#EXTINF:-1 tvg-id="guldur" tvg-name="Güldür Güldür",Güldür Güldür
+ https://cors.zimjs.com/http://special.boxserver.live:8080/parsxcfeed/AR4b9CM3Zxbp/96678
+#EXTINF:-1 tvg-id="muhtesem" tvg-name="Muhteşem Yüzyıl",Muhteşem Yüzyıl
+https://ythls.kekikakademi.org/youtube/channel/UCkRY4J8G__K8SEWZRLbke-Q.m3u8
+#EXTINF:-1 tvg-id="tv85tr" tvg-name="Tv 8.5 Tr Goals",Tv 8.5 Tr Goals
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=7wczn5n71y02&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0
+#EXTINF:-1 tvg-id="beinozel" tvg-name="Bein Sport 1 Özel",Bein Sport 1 Özel
+https://ardaspor.ardatvgo3.help//beintv/tracks-v1a1/mono.m3u8|Referer=https://www.atomsportv519.top/&Origin=https://www.atomsportv519.top&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&accept=*/*&User-Agent=Mozilla/5.0 (Linux; Android 16; Pixel 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="salon2" tvg-name="Salon 2",Salon 2
+https://seep.eu.org/http://65.108.239.207/box3/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="pokemontv" tvg-name="Pokeman Tv",Pokeman Tv
+https://cze.proxy.zelcore.io/http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/96406
+#EXTINF:-1 tvg-id="receptv" tvg-name="Recep İvedik Tv",Recep İvedik Tv
+https://cze.proxy.zelcore.io/http://special.boxserver.live:8080/@ParSxxXXxx01010101/cx6hgCpzRFHD/96385
+#EXTINF:-1 tvg-id="tarihtv" tvg-name="Visat Nature",Visat Nature
+http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/19078/index.m3u8|Referer=https://twitter.com/&Origin=https://twitter.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="trtss" tvg-name="Trt Spor Stream",Trt Spor Stream
+https://helga.iptv2022.com/sh/trt_spor/index.m3u8|Referer=https://turkcanli.tv&Cookie=https://turkcanli.tv&X-LHD-Agent={\"platform\":\"web\",\"app\":\"turkcanli.tv\",\"device_id\":\"584430.438632503-1768665393984\"}&sec-ch-ua=\"Android WebView\";v=\"143\", \"Chromium\";v=\"143\", \"Not A(Brand\";v=\"24\"&User-Agent=Mozilla/5.0 (Linux; Android 10; AndroidTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="beinbox1" tvg-name="Bein Drama",Bein Drama
+https://tunzilla.com/http://31.42.185.100:8080/@TheNFTbros/2PFtS2DKBuqAIxkkD3QNakbi2GxFqU/424
+#EXTINF:-1 tvg-id="beinbox2" tvg-name="Bein Vice",Bein Vice
+https://tunzilla.com/http://31.42.185.100:8080/@TheNFTbros/2PFtS2DKBuqAIxkkD3QNakbi2GxFqU/426
+#EXTINF:-1 tvg-id="beinbox22" tvg-name="Bein Box 2",Bein Box 2
+https://seep.eu.org/http://65.108.239.207/box2/index.m3u8?token=WbvG4CpE9S4KI8vmXLtsQw&tms=1771162595|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="mix1" tvg-name="Sinema Mix 1",Sinema Mix 1
+https://enoyley.cloud/xrot/getnew3u/1.m3u8?v=aHR0cHM6Ly9vaGEudG8vb2hhLWlwdHYvcGxheS8zNDEzNjcyMTAzN2MyNTgwODRlYWYw|User-Agent=calma
+#EXTINF:-1 tvg-id="mix2" tvg-name="Sinema Mix 2",Sinema Mix 2
+https://enoyley.cloud/xrot/getnew3u/1.m3u8?v=aHR0cHM6Ly9vaGEudG8vb2hhLWlwdHYvcGxheS8zMTEyMzk2NjM1N2M2Y2Y5YmViZTU1|User-Agent=calma
+#EXTINF:-1 tvg-id="mix3" tvg-name="Sinema Mix 3",Sinema Mix 3
+https://enoyley.cloud/xrot/getnew3u/1.m3u8?v=aHR0cHM6Ly9vaGEudG8vb2hhLWlwdHYvcGxheS8yMTkwOTIyMjk4OTU4N2QwODI4OWEw|User-Agent=calma
+#EXTINF:-1 tvg-id="akmix1" tvg-name="Aksiyon Mix 1",Aksiyon Mix 1
+https://enoyley.cloud/xrot/getnew3u/1.m3u8?v=aHR0cHM6Ly9vaGEudG8vb2hhLWlwdHYvcGxheS8zMDE2NTI5NjY2ZGFjNmM2Y2VmODkz|User-Agent=calma
+#EXTINF:-1 tvg-id="bilimmix1" tvg-name="Bilim Kurgu Mix 1",Bilim Kurgu Mix 1
+http://cc20.xyz:2082/live/6WQsDWIQm0in/3EjMBvNhN9ZG/354705.ts/hash=2a5d2b3b26295b3d7b5b2d2f2e7|User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="komix1" tvg-name="Komedi Mix 1",Komedi Mix 1
+http://line.onlvip.com/live/Degets-mart57/1909.20*/171498.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="dramamix1" tvg-name="Drama Mix 1",Drama Mix 1
+http://line.onlvip.com/live/Degets-mart57/1909.20*/171191.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="mixturk1" tvg-name="Mix Türk 1",Mix Türk 1
+http://line.onlvip.com/live/Degets-mart57/1909.20*/31095.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="mixkemal1" tvg-name="Mix Kemal Sunal 1",Mix Kemal Sunal 1
+http://line.onlvip.com/live/Degets-mart57/1909.20*/139879.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="mixnos1" tvg-name="Mix Nostaji",Mix Nostaji
+http://line.onlvip.com/live/Degets-mart57/1909.20*/169126.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="beind" tvg-name="Bein 1 D - Rokr",Bein 1 D - Rokr
+https://raw.githubusercontent.com/panorea744/stawerlo/main/olta/selcukbeinsports1.m3u8|Referer=https://main.uxsyplayer6859599e6c.click/&Origin=https://main.uxsyplayer6859599e6c.click&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15
+#EXTINF:-1 tvg-id="salon3" tvg-name="Salon 3",Salon 3
+http://45.158.14.16/ZemTv/live/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="salon5" tvg-name="Salon 5",Salon 5
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="salon4" tvg-name="Salon 4",Salon 4
+https://yayin.venomlink.com/live/mystream/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="salon6" tvg-name="Salon 6",Salon 6
+https://blcco.linkip.org/live/550_.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="salon7" tvg-name="Salon 7",Salon 7
+https://blcco.linkip.org/live/554_.m3u8|Referer=https://twiter.com/&Origin=https://twiter.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="salon8" tvg-name="Salon 8",Salon 8
+http://c3921155.edmonst.net/iptv/7T8KD5UY3TXLY8/6812/index.m3u8|Accept=*/*&Range=bytes=0-&User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+#EXTINF:-1 tvg-id="salon9" tvg-name="Salon 9",Salon 9
+https://midnightblue.denek1544.workers.dev/channel/U2luZW1hIFRWIEFpbGUgMg==.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="docuax3" tvg-name="Docuax 3",Docuax 3
+http://94.130.11.56:8080/@STReAM_SPeCiALBoX_VoD_Xx0101/sDzBrCDYzaJD/96957
+#EXTINF:-1 tvg-id="docuax4" tvg-name="Docuax 4",Docuax 4
+http://94.130.11.56:8080/@STReAM_SPeCiALBoX_VoD_Xx0101/sDzBrCDYzaJD/96958
+#EXTINF:-1 tvg-id="docuaxhis" tvg-name="Docuax History",Docuax History
+https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/http://1.hakosip.xyz:8080/hakancanbakal/Tu9ViBmIYY/219402
+#EXTINF:-1 tvg-id="docuaxeart" tvg-name="Docuax Earth",Docuax Earth
+https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/http://1.hakosip.xyz:8080/hakancanbakal/Tu9ViBmIYY/259796
+#EXTINF:-1 tvg-id="docuaxwar" tvg-name="Docuax War",Docuax War
+https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/http://1.hakosip.xyz:8080/hakancanbakal/Tu9ViBmIYY/259797
+#EXTINF:-1 tvg-id="docuaxwild" tvg-name="Docuax Wild",Docuax Wild
+https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/http://1.hakosip.xyz:8080/hakancanbakal/Tu9ViBmIYY/219403
+#EXTINF:-1 tvg-id="docuaxspac" tvg-name="Docuax Space",Docuax Space
+https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/http://1.hakosip.xyz:8080/hakancanbakal/Tu9ViBmIYY/219401
+#EXTINF:-1 tvg-id="docuaxpara" tvg-name="Docuax Paran",Docuax Paran
+https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/http://1.hakosip.xyz:8080/hakancanbakal/Tu9ViBmIYY/271922
+#EXTINF:-1 tvg-id="konus1" tvg-name="Konuşanlar Tv Canlı",Konuşanlar Tv Canlı
+https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/http://1.hakosip.xyz:8080/hakancanbakal/Tu9ViBmIYY/142089
+#EXTINF:-1 tvg-id="tolgshow" tvg-name="Tolg Show Tv",Tolg Show Tv
+http://line.onlvip.com/live/Degets-mart57/1909.20*/23644.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="sadece" tvg-name="Sadece Arkadaşız Tv",Sadece Arkadaşız Tv
+https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/http://1.hakosip.xyz:8080/hakancanbakal/Tu9ViBmIYY/219436
+#EXTINF:-1 tvg-id="korsan" tvg-name="Karayip Korsanları",Karayip Korsanları
+https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/https://proxy.linkeddatafragments.org/http://1.hakosip.xyz:8080/hakancanbakal/Tu9ViBmIYY/142139
+#EXTINF:-1 tvg-id="funbox" tvg-name="Fast FunBox",Fast FunBox
+ http://live5pop04.kablowebtv.com/Live/HLS/2014/2500.m3u8|Cookie=Cookie:: ASP.NET_SessionId=dt2zddk32q0rwo7rdmev4u2m; emwId=d35cb6a8-1af5-4331-b2b0-651b839899fc; eSessionId=0&User-Agent=ExoPlayerDemo/1.14 (Linux;Android 9) ExoPlayerLib/1.5.11
+#EXTINF:-1 tvg-id="nasatv" tvg-name="Nasa Tv",Nasa Tv
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-id="tgrtbel" tvg-name="Tgrt Belgesel",Tgrt Belgesel
+https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel_576p.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="kemal3" tvg-name="Filmbox Kemal Sunal",Filmbox Kemal Sunal
+http://188.93.236.119:8080/selami2/xXsYTcqPGMNn/46739?token=QxIJVkILRAoXUwdXVgVcBAFbBAUFB1pbAlgKAlACAFEMVVNSBQJXBQFEH0ZHQkoDVlRrXlcQWQ0CVgsISRJBF11CPl5VQVwSBFQERhgUTA9aXBYNAgVRCgNUCARQCRhGSFkFFQtBVAYEVAJGGBRdHkNcRllSXjxdURdRUgASDgpNXA0bEwwIb1EDXgVaUhpcFQgWGxFbEEkWWxpwE1VVRHFcBENYEA9dFS5aHllTTApSS10VHxABUEATWUUAEg5GCglQAhNPRFNaE10QRk8aXBVtZhUfEAZBQARWQgxfWkYCEhVEE09EWUY5QQFHQkoDVlRRRREIQQkWTRpcBEhrB1deD1JSFw9fWxURXhYDCFYVFRZaXFwKTVsTZ0EMVBZeGgJSAgdaRE0=|Referer=https://google.com/&Origin=https://google.com
+#EXTINF:-1 tvg-id="yansimatv" tvg-name="Yansıma Tv",Yansıma Tv
+https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
+#EXTINF:-1 tvg-id="denizposta" tvg-name="Deniz Postası",Deniz Postası
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+#EXTINF:-1 tvg-id="bein1e" tvg-name="Bein Sports 1 E",Bein Sports 1 E
+https://raw.githubusercontent.com/panorea744/stawerlo/main/olta/selcukbeinsports1.m3u8|Referer=https://main.uxsyplayer6859599e6c.click/&Origin=https://main.uxsyplayer6859599e6c.click&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exxenleyla" tvg-name="Exxen Leyla İle Mecnun",Exxen Leyla İle Mecnun
+http://line.onlvip.com/live/Degets-mart57/1909.20*/138799.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="exxenoses" tvg-name="Exxen O Ses",Exxen O Ses
+http://line.onlvip.com/live/Degets-mart57/1909.20*/169202.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="exxenkonu" tvg-name="Exxen Konuşanlar",Exxen Konuşanlar
+http://line.onlvip.com/live/Degets-mart57/1909.20*/1660.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="akasyadu" tvg-name="Akasya Duragı",Akasya Duragı
+https://proxy.linkeddatafragments.org/http://drstream.ath.cx:8080/tz5ceQV97Ps7/QPaHqPS3DxaB/156275
+#EXTINF:-1 tvg-id="example" tvg-name="4 Example",4 Example
+http://line.onlvip.com/live/Degets-mart57/1909.20*/48448.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="senersenn" tvg-name="Şener Şen Filmleri",Şener Şen Filmleri
+https://proxy.linkeddatafragments.org/http://drstream.ath.cx:8080/tz5ceQV97Ps7/QPaHqPS3DxaB/156262
+#EXTINF:-1 tvg-id="ilyas" tvg-name="İlyas Salman",İlyas Salman
+https://proxy.linkeddatafragments.org/http://drstream.ath.cx:8080/tz5ceQV97Ps7/QPaHqPS3DxaB/156279
+#EXTINF:-1 tvg-id="alkan" tvg-name="Banu Alkan",Banu Alkan
+https://proxy.linkeddatafragments.org/http://drstream.ath.cx:8080/tz5ceQV97Ps7/QPaHqPS3DxaB/156276
+#EXTINF:-1 tvg-id="radaratv" tvg-name="Atv Radar",Atv Radar
+http://core.itsall.pro/live/megapeer/PQubhxj8KGGKSLPAKS/3545.m3u8|Referer=https://turkcanli.tv&Origin=https://turkcanli.tv&X-LHD-Agent={\&sec-ch-ua=\&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0
+#EXTINF:-1 tvg-id="docuax1" tvg-name="Docuax 1",Docuax 1
+http://94.130.11.56:8080/@STReAM_SPeCiALBoX_VoD_Xx0101/sDzBrCDYzaJD/96966
+#EXTINF:-1 tvg-id="docuax2" tvg-name="Docuax 2",Docuax 2
+http://94.130.11.56:8080/@STReAM_SPeCiALBoX_VoD_Xx0101/sDzBrCDYzaJD/96965
+#EXTINF:-1 tvg-id="womantv" tvg-name="Woman Tv",Woman Tv
+https://embedlp.becdn.net/womantv.m3u8
+#EXTINF:-1 tvg-id="arkin" tvg-name="Cüneyt Arkın",Cüneyt Arkın
+http://tvwolf.online:8080/Arpas/montaj12/110269
+#EXTINF:-1 tvg-id="akan" tvg-name="Tarık Akan",Tarık Akan
+http://tvwolf.online:8080/Arpas/montaj12/110274
+#EXTINF:-1 tvg-id="ferdi" tvg-name="Ferdi Tayfur",Ferdi Tayfur
+http://tvwolf.online:8080/Arpas/montaj12/110271
+#EXTINF:-1 tvg-id="turkan" tvg-name="Türkan Şoray",Türkan Şoray
+http://tvwolf.online:8080/Arpas/montaj12/110275
+#EXTINF:-1 tvg-id="tivibu1y" tvg-name="Tivibu 1 Yedek",Tivibu 1 Yedek
+https://due.e8bf8a0ab982.shop/p/56dKCbbicBNkNdK8kD/605/playlist.m3u8|Referer=https://ic.strmrdrfrojd.site&Origin=https://ic.strmrdrfrojd.site&User-Agent=Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="asporc" tvg-name="A Spor C",A Spor C
+https://enoyley.cloud/xrot/getnew3u/1.m3u8?v=aHR0cHM6Ly9vaGEudG8vb2hhLWlwdHYvcGxheS8xNTYxOTU4OTcxOGNhMDkyNzIzODQ2|Referer=https://localhost/&Origin=https://localhost/&User-Agent=calma
+#EXTINF:-1 tvg-id="deneme" tvg-name="player deneme",player deneme
+https://api.codetabs.com/v1/proxy/?quest=https://odin.7545c95540dc.shop/1/chunk_hd.m3u8|x-requested-with=warstv.pro&User-Agent=Mozilla/5.0 (Linux; Android 11; M2003J15SC Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.118 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="ssportb" tvg-name="S Sport 1 - B",S Sport 1 - B
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams2/stream_androstreamlivebiraz1.m3u8|Referer=https://mahsunsports80.xyz/&Origin=https://mahsunsports80.xyz&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/79.0
+#EXTINF:-1 tvg-id="ssport2b" tvg-name="S Sport 2 - B",S Sport 2 - B
+https://andro.evrenesoglu57.click/checklist/androstreamlivess2.m3u8|Referer=https://mahsunsports37.xyz/&Origin=https://mahsunsports37.xyz&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="ytcocuklar" tvg-name="Yt Cocuklar Duymasın",Yt Cocuklar Duymasın
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747667198/ei/nvQqaKikG5afp-oPkb_uuAw/ip/31.223.13.137/id/BjEBboWV_G0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/tr/bui/AecWEAaKHDGJHnkPbraxFfMyRxQLmaSat1u9XfWXIMx2tw0lmXKBv9RbJXFrstSsC89Ono8lSMk-N2OR/spc/wk1kZnwKeBdWKQDLISx5GlXSV1K1GOm_PsGGFJD0psSLgGteS6bknp3ksm-xpPw9hqI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALihDcGY2TscdLRN9wBHCkY8gM1TMy9kEYIiz7tBwptSAiBvHIMqZ26RZJvWJrlrrbEMOrwdwfPQ38VsFGyFIDiGUA%3D%3D/file/index.m3u8|Referer=https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747667198/ei/nvQqaKikG5afp-oPkb_uuAw/ip/31.223.13.137/id/BjEBboWV_G0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/tr/bui/AecWEAaKHDGJHnkPbraxFfMyRxQLmaSat1u9XfWXIMx2tw0lmXKBv9RbJXFrstSsC89Ono8lSMk-N2OR/spc/wk1kZnwKeBdWKQDLISx5GlXSV1K1GOm_PsGGFJD0psSLgGteS6bknp3ksm-xpPw9hqI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALihDcGY2TscdLRN9wBHCkY8gM1TMy9kEYIiz7tBwptSAiBvHIMqZ26RZJvWJrlrrbEMOrwdwfPQ38VsFGyFIDiGUA%3D%3D/file/index.m3u8&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="ytbabalar" tvg-name="Yt Behzay Ç",Yt Behzay Ç
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747667985/ei/sfcqaKe7NqfOp-oP8MvI4Q4/ip/5.176.137.44/id/V6_46VDV1dY.49/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAZUHFibNzyNm4nUvOf5Rr50dm7AlHGW0_ciwLY6pJb3rIZllsffzEPEpJmkxwSRpxbATJ-QTiDX/spc/wk1kZpjdMSSwvkRb1ipxiQAWhOVwPsKtaL2HrCjZaePAYkXfiDInD5pFCTEKBp6ecek/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgE9DT7tp1si4pkuMXqujPsqPYAXpTaXYrhNxjGPsxLWECIQDZoXTmyWzD9na2DLXcFKOkszMwc_-a_8O95AFNcv1kkQ%3D%3D/file/index.m3u8|Referer=https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747667985/ei/sfcqaKe7NqfOp-oP8MvI4Q4/ip/5.176.137.44/id/V6_46VDV1dY.49/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAZUHFibNzyNm4nUvOf5Rr50dm7AlHGW0_ciwLY6pJb3rIZllsffzEPEpJmkxwSRpxbATJ-QTiDX/spc/wk1kZpjdMSSwvkRb1ipxiQAWhOVwPsKtaL2HrCjZaePAYkXfiDInD5pFCTEKBp6ecek/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgE9DT7tp1si4pkuMXqujPsqPYAXpTaXYrhNxjGPsxLWECIQDZoXTmyWzD9na2DLXcFKOkszMwc_-a_8O95AFNcv1kkQ%3D%3D/file/index.m3u8&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="ytkurtlar" tvg-name="Kurtlar Vadisi",Kurtlar Vadisi
+https://koprulu3.global.ssl.fastly.net/yt.m3u8/?id=RzD2ATkR9UU.m3u8
+#EXTINF:-1 tvg-id="ytferiha" tvg-name="Yt Medcezir Tepe",Yt Medcezir Tepe
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747667591/ei/J_YqaJrKMujdp-oPgI7T-QY/ip/31.223.13.137/id/MLUGblGpm8A.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/tr/bui/AecWEAbeafgpq-FGhVoseK35NnAlhf2L0Q9qKFn_hIj4I8Fiv3s0ntjso6SAINhkiskmIRKjjZ7xQtnj/spc/wk1kZkPzXpcbb6h6OCYaCr7x6Jc1BszQ1_L4XGxwTo9NiDugCUDcR0dvB3bn2Y5Y43A/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgPp47cPiUYmLVQ4rgK1DTCXCRBqKKlF-wcrsOpOXcAI0CIBBgmuFUNSKvdzUZBcp2MF6AgYFpjr-8B99xSYOE6CsO/file/index.m3u8|Referer=https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747667591/ei/J_YqaJrKMujdp-oPgI7T-QY/ip/31.223.13.137/id/MLUGblGpm8A.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/tr/bui/AecWEAbeafgpq-FGhVoseK35NnAlhf2L0Q9qKFn_hIj4I8Fiv3s0ntjso6SAINhkiskmIRKjjZ7xQtnj/spc/wk1kZkPzXpcbb6h6OCYaCr7x6Jc1BszQ1_L4XGxwTo9NiDugCUDcR0dvB3bn2Y5Y43A/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgPp47cPiUYmLVQ4rgK1DTCXCRBqKKlF-wcrsOpOXcAI0CIBBgmuFUNSKvdzUZBcp2MF6AgYFpjr-8B99xSYOE6CsO/file/index.m3u8&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="ytkurus" tvg-name="Yt Metin Zeki",Yt Metin Zeki
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747667022/ei/7vMqaL6dOrL3xN8P-dLQwAw/ip/31.223.13.137/id/9ZMh3wSverE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAZ5KguKqoOv9c4qF8jDYDY4iIRkrwByaMwdG6sAnzMbklO0RQM-_Udk5tq-zwCU47SSoic4s3t2/spc/wk1kZstkH04NeAQE3EzLSCfXsA0vHSfjL-yysQVs4FxUxSToS_XF-EsS92eV0hwVgYg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALqkVAY3SAu0e15s9ITk75E4YCaEbv8pvMMZkYHrHFwQAiEA5pbHMr75SmKT5TJNznHsKaljZn5UNhNEot01haYr9Tw%3D/file/index.m3u8|Referer=https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747667022/ei/7vMqaL6dOrL3xN8P-dLQwAw/ip/31.223.13.137/id/9ZMh3wSverE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAZ5KguKqoOv9c4qF8jDYDY4iIRkrwByaMwdG6sAnzMbklO0RQM-_Udk5tq-zwCU47SSoic4s3t2/spc/wk1kZstkH04NeAQE3EzLSCfXsA0vHSfjL-yysQVs4FxUxSToS_XF-EsS92eV0hwVgYg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALqkVAY3SAu0e15s9ITk75E4YCaEbv8pvMMZkYHrHFwQAiEA5pbHMr75SmKT5TJNznHsKaljZn5UNhNEot01haYr9Tw%3D/file/index.m3u8&User-Agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="ytmuhtese" tvg-name="Yt Bizimkiler",Yt Bizimkiler
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747667400/ei/aPUqaICYHrOGvdIPwujWqQY/ip/31.223.13.137/id/su2Z2_AT4ng.12/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAbjLlF52RXhnP22uwDf5H5i9cUSl6_AFCjNpFudsNCh9rP7Ld-NldUNIfKOm9MRhmExNIoFYSY_/spc/wk1kZjq4HzdqAsuOf8xFQ2ps0194htuIdM8igLl7wCw-4sFY0Gjp1UY4GDkA1Z19v-k/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAImiDehb_TkE6BBvA1LjRaMd-ZbQx-SyqbbwGEZ9d753AiEAyTB52U-_r5DcycbaqTP_WLubBVeufYus7FU_tLjk5mY%3D/file/index.m3u8|Referer=https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747667400/ei/aPUqaICYHrOGvdIPwujWqQY/ip/31.223.13.137/id/su2Z2_AT4ng.12/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAbjLlF52RXhnP22uwDf5H5i9cUSl6_AFCjNpFudsNCh9rP7Ld-NldUNIfKOm9MRhmExNIoFYSY_/spc/wk1kZjq4HzdqAsuOf8xFQ2ps0194htuIdM8igLl7wCw-4sFY0Gjp1UY4GDkA1Z19v-k/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAImiDehb_TkE6BBvA1LjRaMd-ZbQx-SyqbbwGEZ9d753AiEAyTB52U-_r5DcycbaqTP_WLubBVeufYus7FU_tLjk5mY%3D/file/index.m3u8&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="ytguldur" tvg-name="Yt Leyla İle Mecnun",Yt Leyla İle Mecnun
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747668257/ei/wfgqaNKrGOjdp-oPgI7T-QY/ip/5.176.137.44/id/3nlND4audLg.15/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAb0Zp30QkYfISTsw-FLMLlblrnpE2VPji-w89t1x6rZBhJbBNLioPmdd_4Hgdh87QEih8RO7O82/spc/wk1kZl6GDnD_SVcJzZWM28gM6Cr4dx_u6Jd0tCoMHbh1gMNZiMFMbkOskQQ7-a2J-Gw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKC0cnAQ31enOnH5TRd6hil9i5v5yntGiD6QsRTuQD3tAiBbtFlMrx0uw_ThEBCOs9fgE7P5XbYLgz9ftXpfwZ6V5A%3D%3D/file/index.m3u8|Referer=https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747668257/ei/wfgqaNKrGOjdp-oPgI7T-QY/ip/5.176.137.44/id/3nlND4audLg.15/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAb0Zp30QkYfISTsw-FLMLlblrnpE2VPji-w89t1x6rZBhJbBNLioPmdd_4Hgdh87QEih8RO7O82/spc/wk1kZl6GDnD_SVcJzZWM28gM6Cr4dx_u6Jd0tCoMHbh1gMNZiMFMbkOskQQ7-a2J-Gw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKC0cnAQ31enOnH5TRd6hil9i5v5yntGiD6QsRTuQD3tAiBbtFlMrx0uw_ThEBCOs9fgE7P5XbYLgz9ftXpfwZ6V5A%3D%3D/file/index.m3u8&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="ytguzel" tvg-name="Yt Çok Güzel Hareketler",Yt Çok Güzel Hareketler
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747668103/ei/J_gqaPDMEY_1xN8PiK_XwQ0/ip/5.176.137.44/id/iSs2JX68DZw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAaZgqGefUWr88mfJdyyON3k5AdcnOu4V59bd6008F4OQyekbF9dDYP2No2F4ML70n0nffFcz4-k/spc/wk1kZj9BflwaBMApHHjhz2MJUZtFO24tAo3uL0BGMW0GfkGWMRrSTX9XKGX1bCUjFu0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgNc7an0jjFhRcmQ-RbC-zAzcVGmTxrsH1RleeJY2DMgACIAeS2mtDP4T6_auM7tAAgW0G0Zw6ILyS5rtsZT-i_TmD/file/index.m3u8|Referer=https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747668103/ei/J_gqaPDMEY_1xN8PiK_XwQ0/ip/5.176.137.44/id/iSs2JX68DZw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAaZgqGefUWr88mfJdyyON3k5AdcnOu4V59bd6008F4OQyekbF9dDYP2No2F4ML70n0nffFcz4-k/spc/wk1kZj9BflwaBMApHHjhz2MJUZtFO24tAo3uL0BGMW0GfkGWMRrSTX9XKGX1bCUjFu0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgNc7an0jjFhRcmQ-RbC-zAzcVGmTxrsH1RleeJY2DMgACIAeS2mtDP4T6_auM7tAAgW0G0Zw6ILyS5rtsZT-i_TmD/file/index.m3u8&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="ytkomutan" tvg-name="Yt Emret Komutanım",Yt Emret Komutanım
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747667821/ei/DfcqaKeQDfekxN8P1K_fmQE/ip/5.176.137.44/id/toD9B3krEgo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAaVkxHkqTXtXP3QNPW1MXBXQxrlCj2LQZqtinbPFi9atuxqmys_IVwooLh_TeopQE-VOUuZhQV5/spc/wk1kZvenv-fvY_6YFSaa776wcIqYQ0o9ivd53hFIS8JML_DbjTNNRxiaDuRpM2PfxQ0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMer3ic_n4r-IT2wfTiai5yXfTqHJJfsrV2zfnWsvZFTAiAqQ8J1_58NmG01U3oM8_guq3XwTaXZ26xWVt00xan7Nw%3D%3D/file/index.m3u8|Referer=https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747667821/ei/DfcqaKeQDfekxN8P1K_fmQE/ip/5.176.137.44/id/toD9B3krEgo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAaVkxHkqTXtXP3QNPW1MXBXQxrlCj2LQZqtinbPFi9atuxqmys_IVwooLh_TeopQE-VOUuZhQV5/spc/wk1kZvenv-fvY_6YFSaa776wcIqYQ0o9ivd53hFIS8JML_DbjTNNRxiaDuRpM2PfxQ0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMer3ic_n4r-IT2wfTiai5yXfTqHJJfsrV2zfnWsvZFTAiAqQ8J1_58NmG01U3oM8_guq3XwTaXZ26xWVt00xan7Nw%3D%3D/file/index.m3u8&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="ytbehzat" tvg-name="Yt Çocuklar Duymasın Yeni",Yt Çocuklar Duymasın Yeni
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747667311/ei/D_UqaNmMAfjdp-oPqveI2Qw/ip/31.223.13.137/id/EVZmJPw-7hY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAZYiaVTCwuktS_Sn62gzHSUD6VaHIdfMS0I0RCkOYC8Hv1vWBmpZ4MsbXtEsXksM8enh-USYhGs/spc/wk1kZvn5QjuM8xQ9MBTOWkqxAs9h7XKhVzQgKuK8GrMbOdiBFs-WFSw9RlA-SJIlRMo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgIT6Dw-zEnXVvZsMxgTQUAz83yNo-p4iC4HCPNUNK58ACIG7-pq-3wAm6vha15kW0k0aSkP2C_VEBV8kF8B9sjert/file/index.m3u8|Referer=https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747667311/ei/D_UqaNmMAfjdp-oPqveI2Qw/ip/31.223.13.137/id/EVZmJPw-7hY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAZYiaVTCwuktS_Sn62gzHSUD6VaHIdfMS0I0RCkOYC8Hv1vWBmpZ4MsbXtEsXksM8enh-USYhGs/spc/wk1kZvn5QjuM8xQ9MBTOWkqxAs9h7XKhVzQgKuK8GrMbOdiBFs-WFSw9RlA-SJIlRMo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgIT6Dw-zEnXVvZsMxgTQUAz83yNo-p4iC4HCPNUNK58ACIG7-pq-3wAm6vha15kW0k0aSkP2C_VEBV8kF8B9sjert/file/index.m3u8&User-Agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="ytcennet" tvg-name="Yt Cennet Mahallesi",Yt Cennet Mahallesi
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747667732/ei/tPYqaI23KOuIvdIPz6zXgA4/ip/5.176.137.44/id/lf1NxAexRAE.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAacDqlVqOZzTIiVRsCeCNcjSH1iL38E6vCPhV08PZQGGNACIoTEKcAJutGaF5Rsyt57zpLvnfl4/spc/wk1kZsURLAZpHe41dRvgiz1TNuBRDR5VFM1JzrXX6IbJ0KiTCJYammHg667AfPYryqU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMRYFrRwazXBjXPJelnMUtTqR1lHaZzgwpgxYHFpoqUBAiEAobtB22v6jVnQjjXgbk4EZICaQxy3hnk4QEFuvtH0WLY%3D/file/index.m3u8|Referer=https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747667732/ei/tPYqaI23KOuIvdIPz6zXgA4/ip/5.176.137.44/id/lf1NxAexRAE.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAacDqlVqOZzTIiVRsCeCNcjSH1iL38E6vCPhV08PZQGGNACIoTEKcAJutGaF5Rsyt57zpLvnfl4/spc/wk1kZsURLAZpHe41dRvgiz1TNuBRDR5VFM1JzrXX6IbJ0KiTCJYammHg667AfPYryqU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMRYFrRwazXBjXPJelnMUtTqR1lHaZzgwpgxYHFpoqUBAiEAobtB22v6jVnQjjXgbk4EZICaQxy3hnk4QEFuvtH0WLY%3D/file/index.m3u8&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="ytkuzey" tvg-name="Yt Avrupa Yakası",Yt Avrupa Yakası
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747667881/ei/SfcqaP32F7mJvdIPyqv--Ak/ip/5.176.137.44/id/jDBzAsFClXI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/tr/bui/AecWEAYZuj3casbxWoraNdo_V9EhA9O6NrIKY1cUszfl7mvy_QYNm7ksQGxlOpPScUVLjIlne2CctDvO/spc/wk1kZstPn7GaRO3YX-rcWqWHQxr37Ic5V6ao-N_mBIAypu_2WLsg4qGGjoNQIW6egpI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMflEZcZITVGa_sD0epwotlYZUqJj-4UzbGNzbf7EwQUCIQCM2u5TJGHxyQK5e_UhUiioWQ2JBa8TWLIu1sjj2eAmpQ%3D%3D/file/index.m3u8|Referer=https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747667881/ei/SfcqaP32F7mJvdIPyqv--Ak/ip/5.176.137.44/id/jDBzAsFClXI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/tr/bui/AecWEAYZuj3casbxWoraNdo_V9EhA9O6NrIKY1cUszfl7mvy_QYNm7ksQGxlOpPScUVLjIlne2CctDvO/spc/wk1kZstPn7GaRO3YX-rcWqWHQxr37Ic5V6ao-N_mBIAypu_2WLsg4qGGjoNQIW6egpI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMflEZcZITVGa_sD0epwotlYZUqJj-4UzbGNzbf7EwQUCIQCM2u5TJGHxyQK5e_UhUiioWQ2JBa8TWLIu1sjj2eAmpQ%3D%3D/file/index.m3u8&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="yttolg" tvg-name="Yt Sihirli Annem",Yt Sihirli Annem
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747668162/ei/YvgqaPyPDN3ZxN8Pn8aowQw/ip/5.176.137.44/id/KCejwr4z7NQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAaZMNzLfGcRaANGhFiszIekLoQAtpsWmM2Oek3yJckhRFD7TRzhle3gxHvlYCOJBbbDhzBxVy39/spc/wk1kZleCwFi8XSX-j6qpbEglHEZep5-9b3shFEqNzmXj6lJV9YJHrHS8Gb3A1b63nRM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgVuJb2-rrTMxS3tHpPht7pGnauiWqEi3XcX_oGefRS3wCIQCPrfgiQQM-jHLAezZzKnU59vRz_9rlow5qpkc6CFc3ug%3D%3D/file/index.m3u8|Referer=https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747668162/ei/YvgqaPyPDN3ZxN8Pn8aowQw/ip/5.176.137.44/id/KCejwr4z7NQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAaZMNzLfGcRaANGhFiszIekLoQAtpsWmM2Oek3yJckhRFD7TRzhle3gxHvlYCOJBbbDhzBxVy39/spc/wk1kZleCwFi8XSX-j6qpbEglHEZep5-9b3shFEqNzmXj6lJV9YJHrHS8Gb3A1b63nRM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgVuJb2-rrTMxS3tHpPht7pGnauiWqEi3XcX_oGefRS3wCIQCPrfgiQQM-jHLAezZzKnU59vRz_9rlow5qpkc6CFc3ug%3D%3D/file/index.m3u8&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="ytkizilcik" tvg-name="Yt Kızılcık Şerbeti",Yt Kızılcık Şerbeti
+https://ythls.armelin.one/channel/UCRfLDCtkSwmTdwHrbmC78Xg.m3u8
+#EXTINF:-1 tvg-id="ytkemal" tvg-name="Yt Kemal Sunal",Yt Kemal Sunal
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747666772/ei/9PIqaKujE-bSi9oP3LfPmQ0/ip/31.223.13.137/id/hfx8H7YrmTw.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAZYCUdvkWnLUaSeI43HQLiUkvS3oW5S02cjBOFsg2N2pTAGauK7wd7KICTbDREEo5Ho4RHsx5cS/spc/wk1kZuDiUKcqftS7bBDzTKq_qQnSGRCWRWUQxcr4Qbzj7uSquXez1yHBX4w6k_vPb7w/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgRfbqdNYpq3B1lIOXcg2yOtDfIVZI6E1OLRnkHHedxsECIQC4PB7fq8CDYpZZOHzpYRhDnYm7e7QDwhj_ZsjXDQdaxg%3D%3D/file/index.m3u8|Referer=https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747666772/ei/9PIqaKujE-bSi9oP3LfPmQ0/ip/31.223.13.137/id/hfx8H7YrmTw.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAZYCUdvkWnLUaSeI43HQLiUkvS3oW5S02cjBOFsg2N2pTAGauK7wd7KICTbDREEo5Ho4RHsx5cS/spc/wk1kZuDiUKcqftS7bBDzTKq_qQnSGRCWRWUQxcr4Qbzj7uSquXez1yHBX4w6k_vPb7w/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgRfbqdNYpq3B1lIOXcg2yOtDfIVZI6E1OLRnkHHedxsECIQC4PB7fq8CDYpZZOHzpYRhDnYm7e7QDwhj_ZsjXDQdaxg%3D%3D/file/index.m3u8&User-Agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="ytkemal2" tvg-name="Yt Kemal Sunal 2",Yt Kemal Sunal 2
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747666886/ei/ZvMqaMvVKZiep-oPko28uQw/ip/31.223.13.137/id/FGL1GwoRRIw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAYV6isdawHqArVU4zZE4hFlK5PjtmmMEwtbiCtK4qoLN6St_a8mhatykonl7WE4Rsy0vGTSrAMp/spc/wk1kZhUpKny-AiV0IoPvPvJU6kJ_BE6BYUplHQnUxejt67SU7Z48e_S3eOVS_29IN4I/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgOH6dPZM7xTVfN3zXe9K6xSIz6FuK6Yva9BfoF0TidBECIDWPn-A3b8ClUaRsB20EQMtTaWuANxAPoSzzjuaWP0Tz/file/index.m3u8|Referer=https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747666886/ei/ZvMqaMvVKZiep-oPko28uQw/ip/31.223.13.137/id/FGL1GwoRRIw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAYV6isdawHqArVU4zZE4hFlK5PjtmmMEwtbiCtK4qoLN6St_a8mhatykonl7WE4Rsy0vGTSrAMp/spc/wk1kZhUpKny-AiV0IoPvPvJU6kJ_BE6BYUplHQnUxejt67SU7Z48e_S3eOVS_29IN4I/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgOH6dPZM7xTVfN3zXe9K6xSIz6FuK6Yva9BfoF0TidBECIDWPn-A3b8ClUaRsB20EQMtTaWuANxAPoSzzjuaWP0Tz/file/index.m3u8&User-Agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="ytsener" tvg-name="Yt Şener Şen Filmleri",Yt Şener Şen Filmleri
+https://ythls.kekikakademi.org/youtube/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
+#EXTINF:-1 tvg-id="ytzeki" tvg-name="Yt Zeki Metin",Yt Zeki Metin
+https://ythls.armelin.one/channel/UCmw7e_6j2TSWCKeaZALjyuA.m3u8
+#EXTINF:-1 tvg-id="ytyesilcam" tvg-name="Yt Yeşilçam",Yt Yeşilçam
+https://ythls.armelin.one/channel/UCUALYmnkEmx8vlxIbpr2gmw.m3u8
+#EXTINF:-1 tvg-id="smartweb1" tvg-name="Smart Spor 1 - B",Smart Spor 1 - B
+https://inatbox7.64fetih.workers.dev/channel/eyJjaFVybCI6Imh0dHBzOi8vc3RyLnNwcmJveHMuYmFyL0NMRi8/c3RhdGljPXNtcnQwMSIsImNoVHlwZSI6InRla2xpX3JlZ2V4X2xiX3NoXzNfbW9kZSIsImNoUmVnIjpbeyJSZWdleDEiOiJheDh2Ync5NDM5Zno2Y2VyIiwic2hhMjU2Ijoic2hhMjU2LzlndTF1bG5VbXJ1MTJhNzdabjhSaXV0TE1HVmozRm52Qy9rR0RwRWUwREE9IiwiSG9zdCI6InN0ci5zcHJib3hzLmJhciJ9XSwiY2hIZWFkZXJzIjpbeyJVc2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMjIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMjIuMCIsIlJlZmVyZXIiOiJodHRwczovL2dvb2dsZS5jb20vIiwiWFJlcXVlc3RlZFdpdGgiOiJYTUxIdHRwUmVxdWVzdCJ9XX0=.m3u8|Referer=https://twiter.com/&Origin=https://twiter.com&x-requested-with=com.rectv.shot&User-Agent=okhttp/4.12.0
+#EXTINF:-1 tvg-id="smartweb2" tvg-name="Smart Spor 2",Smart Spor 2
+https://raw.githubusercontent.com/icebu12/turbo-guacamole/refs/heads/main/streams/stream_sms2.m3u8|Referer=https://taraftarium1081.xyz/&Origin=https://taraftarium1081.xyz&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="formula1" tvg-name="Formula 1",Formula 1
+https://home.us3-gpiktv.workers.dev/playlist.m3u8?i=TlFJa1VHZ09hRnpBUDdFelpaR2hQREtzeGU0YWdKWlFSVlNCT3FZMUh3bzJaWSs5YjNEYjFrTzNNckZENDk1Zg==|User-Agent=mozilla/5.0 (linux; android 10; redmi note 8 pro) applewebkit/537.36 (khtml, like gecko) chrome/84.0.4147.111 mobile safari/537.36;+http://www.google.com/
+#EXTINF:-1 tvg-id="hustler" tvg-name="Hustler",Hustler
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 tvg-id="bluhustler" tvg-name="Blu Hustler",Blu Hustler
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 tvg-id="pentho" tvg-name="Penthouse",Penthouse
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 tvg-id="dusk" tvg-name="Dusk",Dusk
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 tvg-id="slporno" tvg-name="SL PORNO 1",SL PORNO 1
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 tvg-id="slfamily" tvg-name="SL FAMİLY PORNO",SL FAMİLY PORNO
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 tvg-id="sirina" tvg-name="Sırına Tv",Sırına Tv
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 tvg-id="trt1c" tvg-name="Trt 1 - C",Trt 1 - C
+https://2i4.d72577a9dd0ec71.cfd/patron/mono.m3u8|Referer=https://taraftarium1082.xyz/&Origin=https://taraftarium1082.xyz&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15
+#EXTINF:-1 tvg-id="trt1inat" tvg-name="Trt 1 - İnat",Trt 1 - İnat
+https://tv-trt1.medya.trt.com.tr/master_1080.m3u8|Referer=https://www.tabii.com/&Origin=https://www.tabii.com&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15
+#EXTINF:-1 tvg-id="trt1star" tvg-name="Trt 1 - Star",Trt 1 - Star
+https://proxy.oddin.app/https://sonhafta.tvbom5.online/yayinstar.m3u8|Referer=https://thingproxy.freeboard.io&Origin=https://thingproxy.freeboard.io&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTINF:-1 tvg-id="sportplus" tvg-name="S Sport Plus - A",S Sport Plus - A
+https://t0k.d72577a9dd0ec74.cfd/hls/patron.m3u8|Referer=https://taraftarium1087.xyz/&Origin=https://taraftarium1087.xyz&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="tabi1" tvg-name="Tabi Spor",Tabi Spor
+https://kl9mr2vxw7nq5py1sh4tj3gb6.medya.trt.com.tr/master_1080p.m3u8|Referer=https://hayrihayrixhayirli7.cfd/&Origin=https://hayrihayrixhayirli7.cfd&User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="tabi2" tvg-name="Tabi Spor 2",Tabi Spor 2
+https://mr8bv4kl1nq7sh9tw2xp5zj6g.medya.trt.com.tr/master.m3u8|Referer=https://bunnycdn205.xyz/&Origin=https://bunnycdn205.xyz&User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="tabi3" tvg-name="Tabi Spor 3",Tabi Spor 3
+http://mr4vl7nq2sh9tw5xp1zk3gj8b.medya.trt.com.tr/master_1080p.m3u8|Referer=https://bunnycdn205.xyz/&Origin=https://bunnycdn205.xyz&User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="tabi4" tvg-name="Tabi Spor 4",Tabi Spor 4
+https://sh7tq2nw5mr1vl9xp4zk3gj8k.medya.trt.com.tr/master.m3u8|Referer=https://bunnycdn205.xyz/&Origin=https://bunnycdn205.xyz&User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="tabi5" tvg-name="Tabi Spor 5",Tabi Spor 5
+https://vl2nq8sh4tw1mr7xp5zk9gj3y.medya.trt.com.tr/master.m3u8|Referer=https://bunnycdn205.xyz/&Origin=https://bunnycdn205.xyz&User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="tabi6" tvg-name="Tabi Spor 6",Tabi Spor 6
+http://nw5mr1vl9xp4zk2sh7tq3gj6b.medya.trt.com.tr/master_1080p.m3u8|Referer=https://bunnycdn205.xyz/&Origin=https://bunnycdn205.xyz&User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="bluplay1" tvg-name="Blu Play 1",Blu Play 1
+https://play1.blutv.com/blutv_play1/smil:blutv_play1.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="bluplay2" tvg-name="Blu Play 2",Blu Play 2
+https://play2.blutv.com/blutv_play2/smil:blutv_play2.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="euro3" tvg-name="Euro S 3",Euro S 3
+https://d1m5647xilimr4.cloudfront.net/out/v1/955d5d90fa5247dca98839adc5c0a16b/index.m3u8
+#EXTINF:-1 tvg-id="euro4" tvg-name="Euro S 4",Euro S 4
+https://d28x47c58ja819.cloudfront.net/out/v1/e7e967b4b9904d8da44812692796a8d4/index.m3u8
+#EXTINF:-1 tvg-id="euro5" tvg-name="Euro 5",Euro 5
+https://d1bn0xr4zxv7zv.cloudfront.net/out/v1/cdbb553658e74f8a8003ae3d33e3fe5f/index.m3u8
+#EXTINF:-1 tvg-id="euro6" tvg-name="Euro S 6",Euro S 6
+https://d2i8i5our07l5g.cloudfront.net/out/v1/0b43ba8991954d9590fd5fe0eadeb635/index.m3u8
+#EXTINF:-1 tvg-id="digipor1" tvg-name="Digital Porno 1",Digital Porno 1
+http://live.redtraffic.xyz/bigass.m3u8|User-Agent=ELITDIGITALPlayer
+#EXTINF:-1 tvg-id="digipor2" tvg-name="Digital Porno 2",Digital Porno 2
+http://live.redtraffic.xyz/cuckold.m3u8|User-Agent=ELITDIGITALPlayer
+#EXTINF:-1 tvg-id="digipor3" tvg-name="Digital Porno 3",Digital Porno 3
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 tvg-id="sportspb" tvg-name="S Sport Plus - 2",S Sport Plus - 2
+https://css.d6e3eae5e065d5.help//beintv/tracks-v1a1/mono.m3u8|Referer=https://www.atomsportv519.top/&Origin=https://www.atomsportv519.top&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="htspor" tvg-name="Ht Spor",Ht Spor
+https://ciner-live.ercdn.net/htspor/htspor_1080p.m3u8
+#EXTINF:-1 tvg-id="tabi11" tvg-name="Tabi Spor 1",Tabi Spor 1
+https://pz4qt7nw1mr9sh2vl5xk8jg3y.medya.trt.com.tr/master.m3u8|Referer=https://bunnycdn205.xyz/&Origin=https://bunnycdn205.xyz&User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="arkasira" tvg-name="Yt Eşkiya Dunyaya",Yt Eşkiya Dunyaya
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747668391/ei/R_kqaPvWCYKgp-oPjPuCiQ4/ip/5.176.137.44/id/F0yeYa-SSDc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/tr/bui/AecWEAYYWpfQ12umQaCwI5TA6UMyJggcvGbVBjlQ4JMpL1xHjTPEVK9xGVZfbNmGPjg_zWUTTQ7Mi1HH/spc/wk1kZifpHhDFK4WxaRxdwj8iDBPDrztI8Mgp3sWIcKsyaBHhC_I6LsjZ2wSChPkLymw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZCXQ8JwfveZt232qzFz1PaDNmf7GOeMCKYS5i5xXoDMCIDrG9cJtXoTwujVDdgm0_NslYwjDHbb3JgopEBwv7_OB/file/index.m3u8|Referer=https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747668391/ei/R_kqaPvWCYKgp-oPjPuCiQ4/ip/5.176.137.44/id/F0yeYa-SSDc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/tr/bui/AecWEAYYWpfQ12umQaCwI5TA6UMyJggcvGbVBjlQ4JMpL1xHjTPEVK9xGVZfbNmGPjg_zWUTTQ7Mi1HH/spc/wk1kZifpHhDFK4WxaRxdwj8iDBPDrztI8Mgp3sWIcKsyaBHhC_I6LsjZ2wSChPkLymw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZCXQ8JwfveZt232qzFz1PaDNmf7GOeMCKYS5i5xXoDMCIDrG9cJtXoTwujVDdgm0_NslYwjDHbb3JgopEBwv7_OB/file/index.m3u8&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="tv8trgoals" tvg-name="Tv 8 Tr Goals",Tv 8 Tr Goals
+https://tatatam.trt1sultanfatihss.workers.dev/https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web|x-lhd-agent={&User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="boksmac1" tvg-name="Boks Maç 1",Boks Maç 1
+https://t6co.cimcilerere55x.workers.dev/yayinex1.m3u8|Referer=https://hayrihayrixchayirli8.cfd/&Origin=https://hayrihayrixchayirli8.cfd&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="tabitv" tvg-name="Tabi Tv",Tabi Tv
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
+#EXTINF:-1 tvg-id="nba" tvg-name="Nba Tv",Nba Tv
+https://inatbox7.64fetih.workers.dev/channel/eyJjaFVybCI6Imh0dHBzOi8vc3RyLnNwcmJveHMuYmFyL0dMQi8/c3RhdGljPW5iYSIsImNoVHlwZSI6InRla2xpX3JlZ2V4X2xiX3NoXzNfbW9kZSIsImNoUmVnIjpbeyJSZWdleDEiOiJheDh2Ync5NDM5Zno2Y2VyIiwic2hhMjU2Ijoic2hhMjU2LzlndTF1bG5VbXJ1MTJhNzdabjhSaXV0TE1HVmozRm52Qy9rR0RwRWUwREE9IiwiSG9zdCI6InN0ci5zcHJib3hzLmJhciJ9XSwiY2hIZWFkZXJzIjpbeyJVc2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMjIuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMjIuMCIsIlJlZmVyZXIiOiJodHRwczovL2dvb2dsZS5jb20vIiwiWFJlcXVlc3RlZFdpdGgiOiJYTUxIdHRwUmVxdWVzdCJ9XX0=.m3u8|Referer=https://playertrgd.pages.dev/&Origin=https://playertrgd.pages.dev&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="trace" tvg-name="Trace Sport",Trace Sport
+https://ottcdn.kablowebtv.net/live_turksat_sub/tracesport_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMTMvMjAyNSAwNjoyNDo1MiBQTSZoYXNoX3ZhbHVlPUJLTVJrZUFzSHJoMURoZTBsYzBXMmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xNTY0ODUxZC1hY2ViLTQyZWUtYjkwZi04MGFlNTczOGEyM2E=|Referer=https://www.tvheryerde.com.tr/&Origin=https://www.tvheryerde.com.tr&User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="tivibusy1" tvg-name="Tivibu Spor 1 Yedek",Tivibu Spor 1 Yedek
+https://l0.4928d54d950ee70q32.click/yayint1.m3u8|Referer=https://trgoals1298.xyz/&Origin=https://trgoals1298.xyz&User-Agent=Dalvik/2.1.0 (Linux; U; Android 13; Samsung F1833B Build/TP1A.280629.015)' -H 'Proxy-Connection: Keep-Alive'
+#EXTINF:-1 tvg-id="tivibusy2" tvg-name="Tivibu Spor Yedek 2",Tivibu Spor Yedek 2
+https://tradepro-cors.herokuapp.com/https://e0.4928d54d950ee70q5.click/yayint1.m3u8|Referer=https://trgoals1298.xyz/&Origin=https://trgoals1298.xyz&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15
+#EXTINF:-1 tvg-id="gs" tvg-name="Galatasaray Maçı",Galatasaray Maçı
+https://alpha.cf-worker-88b6fcb25cb8be54.workers.dev/live/selcukssplus1/playlist.m3u8|Referer=https://www.selcuksportshd1833.xyz/&Origin=https://www.selcuksportshd1833.xyz&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15
+#EXTINF:-1 tvg-id="fbm" tvg-name="Fenerbahçe",Fenerbahçe
+https://r0.4928d54d950ee70q17.lat/yayinex1.m3u8|Referer=https://trgoals1353.xyz/&Origin=https://trgoals1353.xyz&User-Agent=Mozilla/5.0 (Linux; Android 9; SM-G935F Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.54 Mobile Safari/537.36 Vinebre
+#EXTINF:-1 tvg-id="selcuk" tvg-name="S Sports Plus Selcuk",S Sports Plus Selcuk
+https://alpha.cf-worker-91ed136f8cfd9.workers.dev/live/selcukssplus1/playlist.m3u8|Referer=https://main.uxsyplayer425b9907af.click/&Origin=https://main.uxsyplayer425b9907af.click/&User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15
+#EXTINF:-1 tvg-id="vip1" tvg-name="Vip Porn 1",Vip Porn 1
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8|User-Agent=Linux; Android 9; CLT-L09
+#EXTINF:-1 tvg-id="vip2" tvg-name="Vip Porn 2",Vip Porn 2
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="vip3" tvg-name="Vip Porn 3",Vip Porn 3
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="vip4" tvg-name="Vip Porn 4",Vip Porn 4
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="vip5" tvg-name="Vip Porn 5",Vip Porn 5
+http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="vip6" tvg-name="Vip Porn 6",Vip Porn 6
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="macozet" tvg-name="Maç Özetleri Canlı",Maç Özetleri Canlı
+http://bydns.xyz:8080/Zeynel0734/zqSwZdwj/18344
+#EXTINF:-1 tvg-id="yaban" tvg-name="Yaban Tv",Yaban Tv
+http://c3921155.edmonst.net/iptv/ESMHU7B3S7N5NW/6868/index.m3u8|Referer=https://www.canlitv.top/embed/?id=12044&Origin=https://www.canlitv.top/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="es1" tvg-name="Euro 1",Euro 1
+https://nord.ayakkabiparti.lol/euro11/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=googleusercontent
+#EXTINF:-1 tvg-id="ahaber" tvg-name="A Haber",A Haber
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber_1080p.m3u8
+#EXTINF:-1 tvg-id="dunyaa" tvg-name="Dünyayı Geziyorum",Dünyayı Geziyorum
+https://viptine.site/2/vavoo.php?hls=1324166169d75d5197aa7.m3u8
+#EXTINF:-1 tvg-id="avrupa" tvg-name="Avrupayı Geziyorum",Avrupayı Geziyorum
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/GDK-Belgesel-2.m3u8
+#EXTINF:-1 tvg-id="turkiyee" tvg-name="Turkiyeyi Geziyorum",Turkiyeyi Geziyorum
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/GDK-Belgesel-3.m3u8
+#EXTINF:-1 tvg-id="trgoals1" tvg-name="Tr Gaols",Tr Gaols
+https://g1b.d72577a9dd0ec74.cfd/patron/mono.m3u8|Referer=https://taraftarium1087.xyz/&Origin=https://taraftarium1087.xyz&Accept=*/*&accept-language=tr,en-US;q=0.9,en;q=0.8,ru;q=0.7,de;q=0.6&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
