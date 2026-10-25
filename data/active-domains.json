@@ -1,81 +1,81 @@
 {
   "hdfilmcehennemi": {
     "name": "Hdfilmcehennemi",
-    "url": "https://www.hdfilmcehennemi.pw",
-    "latencyMs": 779,
-    "verifiedAt": "2026-10-25T21:08:16.416Z",
-    "mirrorCount": 2,
+    "url": "https://www.hdfilmcehennemi.biz",
+    "latencyMs": 630,
+    "verifiedAt": "2026-10-25T21:17:33.728Z",
+    "mirrorCount": 1,
     "status": "ONLINE"
   },
   "fullhdfilmizlesene": {
     "name": "FullHDFilmizlesene",
-    "url": "https://www.fullhdfilmizlesene.de",
-    "latencyMs": 2433,
-    "verifiedAt": "2026-10-25T21:08:19.936Z",
-    "mirrorCount": 2,
-    "status": "ONLINE"
+    "url": "https://www.fullhdfilmizlesene.live",
+    "latencyMs": 9999,
+    "verifiedAt": "2026-10-25T21:17:34.068Z",
+    "mirrorCount": 0,
+    "status": "FALLBACK"
   },
   "filmmakinesi": {
     "name": "FilmMakinesi",
     "url": "https://filmmakinesi.org",
-    "latencyMs": 642,
-    "verifiedAt": "2026-10-25T21:08:20.998Z",
-    "mirrorCount": 3,
+    "latencyMs": 279,
+    "verifiedAt": "2026-10-25T21:17:34.349Z",
+    "mirrorCount": 1,
     "status": "ONLINE"
   },
   "dizipal": {
     "name": "Dizipal",
-    "url": "https://dizipal2216.com",
-    "latencyMs": 708,
-    "verifiedAt": "2026-10-25T21:08:24.507Z",
-    "mirrorCount": 4,
+    "url": "https://dizipal1063.com",
+    "latencyMs": 584,
+    "verifiedAt": "2026-10-25T21:17:35.575Z",
+    "mirrorCount": 3,
     "status": "ONLINE"
   },
   "jetfilmizle": {
     "name": "JetFilmizle",
-    "url": "https://jetfilmizle.app",
-    "latencyMs": 770,
-    "verifiedAt": "2026-10-25T21:08:27.250Z",
-    "mirrorCount": 5,
+    "url": "https://jetfilmizle.mobi",
+    "latencyMs": 136,
+    "verifiedAt": "2026-10-25T21:17:35.808Z",
+    "mirrorCount": 4,
     "status": "ONLINE"
   },
   "sezonlukdizi": {
     "name": "SezonlukDizi",
     "url": "https://sezonlukdizi.cc",
-    "latencyMs": 652,
-    "verifiedAt": "2026-10-25T21:08:30.755Z",
+    "latencyMs": 412,
+    "verifiedAt": "2026-10-25T21:17:36.878Z",
     "mirrorCount": 3,
     "status": "ONLINE"
   },
   "webteizle": {
     "name": "WebteIzle",
-    "url": "https://webteizle.xyz",
-    "latencyMs": 867,
-    "verifiedAt": "2026-10-25T21:08:31.847Z",
-    "mirrorCount": 2,
+    "url": "https://webteizle.info",
+    "latencyMs": 225,
+    "verifiedAt": "2026-10-25T21:17:37.531Z",
+    "mirrorCount": 3,
     "status": "ONLINE"
   },
   "yabancidizi": {
     "name": "YabanciDizi",
-    "url": "https://yabanci-dizi.now",
-    "latencyMs": 805,
-    "verifiedAt": "2026-10-25T21:08:35.348Z",
-    "mirrorCount": 3,
-    "status": "ONLINE"
+    "url": "https://yabancidizi.co",
+    "latencyMs": 9999,
+    "verifiedAt": "2026-10-25T21:17:39.055Z",
+    "mirrorCount": 0,
+    "status": "FALLBACK"
   },
   "rec": {
     "name": "RecTV API",
     "url": "https://a.prectv70.lol",
-    "latencyMs": 521,
-    "verifiedAt": "2026-10-25T21:08:38.855Z",
+    "latencyMs": 654,
+    "verifiedAt": "2026-10-25T21:17:39.775Z",
     "mirrorCount": 1,
     "status": "ONLINE"
   },
   "sinewix": {
     "name": "SineWix API",
     "url": "https://www.sinewix.com",
-    "latencyMs": 1204,
-    "verifiedAt": "2026-10-25T21:08:40.062Z",
+    "latencyMs": 329,
+    "verifiedAt": "2026-10-25T21:17:40.105Z",
     "mirrorCount": 1,
     "status": "ONLINE"
   }
