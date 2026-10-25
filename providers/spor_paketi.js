@@ -11,24 +11,14 @@ var REMOTE_VERIFIED_URL = 'https://raw.githubusercontent.com/miskin1702/aslan/ma
 var EMBEDDED_SPORTS_FALLBACK = {
     'bein-sports-1': [
         {
-            title: '[★ EN İYİ PERFORMANS] beIN SPORTS 1 HD (1080p - Otomatik)',
-            url: 'https://live-freeshot.mark-clark.workers.dev/?ID=beINSPORTS1TR',
-            headers: {}
-        },
-        {
-            title: '[KAYNAK 2] beIN SPORTS 1 HD (Ravenclaw CDN)',
-            url: 'http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT1/tracks-v1a1/mono.m3u8',
-            headers: {}
-        },
-        {
-            title: '[KAYNAK 3] beIN SPORTS 1 HD (TVClub HLS)',
-            url: 'http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6781/index.m3u8',
-            headers: {}
-        },
-        {
-            title: '[KAYNAK 4] beIN SPORTS 1 HD (TRGoals Direct)',
+            title: '[★ EN İYİ PERFORMANS] beIN SPORTS 1 HD (TRGoals Direct)',
             url: 'https://d0.4928d54d950ee70q4.lat/yayin1.m3u8',
-            headers: { 'User-Agent': 'googleusercontent', 'Referer': 'https://trgoals1332.xyz/' }
+            headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)', 'Referer': 'https://trgoals1332.xyz/' }
+        },
+        {
+            title: '[YEDEK HAT] TRT SPOR HD (Resmi HLS)',
+            url: 'https://tv-trtspor1.medya.trt.com.tr/master.m3u8',
+            headers: {}
         }
     ],
     's-sport-1': [
@@ -81,12 +71,15 @@ var EMBEDDED_SPORTS_FALLBACK = {
 };
 
 function formatNuvioLiveStream(stream) {
+    var title = stream.title || 'Spor Yayını';
+    var taggedTitle = (title.includes('[🇹🇷') || title.includes('[🌐') || title.includes('Canlı')) ? title : (title + ' | [🇹🇷 Canlı Yayın]');
     return {
         name: '⌜ ASLAN SPOR ⌟',
-        title: stream.title || 'Spor Yayını',
+        title: taggedTitle,
         url: stream.url,
         quality: stream.quality || '1080p',
         headers: stream.headers || {},
+        subtitles: Array.isArray(stream.subtitles) ? stream.subtitles : [],
         behaviorHints: {
             isLive: true,
             notWebReady: false

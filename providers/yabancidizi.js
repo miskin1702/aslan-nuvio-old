@@ -12,7 +12,8 @@
 
 'use strict';
 
-const crypto = require('crypto');
+const nodeCrypto = (typeof process !== 'undefined' && process.versions && process.versions.node) ? require('crypto') : null;
+const CryptoJS = (typeof globalThis.CryptoJS !== 'undefined') ? globalThis.CryptoJS : null;
 
 // =========================================================================
 // ASLAN STANDALONE RUNTIME (QuickJS Sandboxed Engine - Zero Dependencies)
@@ -120,26 +121,31 @@ const BACKEND_DISCOVERY_URL = 'http://beytepemanav.tk/sey/back/streams.php';
 const CINEMETA_URL = 'https://v3-cinemeta.strem.io/meta';
 const CLIENT_USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36';
 
-// Decryption key and IV for YabanciDizi Next.js secureData payload
-const CIPHER_KEY = crypto.createHash('sha256').update('!!22xx!!90!!').digest('base64').substring(0, 32);
-const CIPHER_IV = Buffer.alloc(16, 0);
-
-/**
- * Decrypts YabanciDizi Next.js secureData payload.
- *
- * @param {string} secureData - Base64 encoded AES-256-CBC encrypted payload
- * @returns {object|null} Decrypted JSON object
- */
 function decryptSecureData(secureData) {
     if (!secureData || typeof secureData !== 'string') return null;
     try {
-        const decipher = crypto.createDecipheriv('aes-256-cbc', CIPHER_KEY, CIPHER_IV);
-        let decrypted = decipher.update(secureData, 'base64', 'utf8');
-        decrypted += decipher.final('utf8');
-        return JSON.parse(decrypted);
-    } catch (_) {
-        return null;
-    }
+        if (nodeCrypto && typeof Buffer !== 'undefined') {
+            const cipherKey = nodeCrypto.createHash('sha256').update('!!22xx!!90!!').digest('base64').substring(0, 32);
+            const cipherIv = Buffer.alloc(16, 0);
+            const decipher = nodeCrypto.createDecipheriv('aes-256-cbc', cipherKey, cipherIv);
+            let decrypted = decipher.update(secureData, 'base64', 'utf8');
+            decrypted += decipher.final('utf8');
+            return JSON.parse(decrypted);
+        }
+        if (CryptoJS) {
+            const cipherKeyStr = CryptoJS.SHA256('!!22xx!!90!!').toString(CryptoJS.enc.Base64).substring(0, 32);
+            const keyWords = CryptoJS.enc.Utf8.parse(cipherKeyStr);
+            const ivWords = CryptoJS.enc.Hex.parse('00000000000000000000000000000000');
+            const decrypted = CryptoJS.AES.decrypt(secureData, keyWords, {
+                iv: ivWords,
+                mode: CryptoJS.mode.CBC,
+                padding: CryptoJS.pad.Pkcs7
+            });
+            const str = decrypted.toString(CryptoJS.enc.Utf8);
+            return JSON.parse(str);
+        }
+    } catch (_) {}
+    return null;
 }
 
 /**

@@ -14,7 +14,9 @@
 
 'use strict';
 
-const crypto = require('crypto');
+const CryptoJS = (typeof globalThis.CryptoJS !== 'undefined')
+    ? globalThis.CryptoJS
+    : (function() { try { return require('crypto-js'); } catch (_) { return null; } })();
 
 // =========================================================================
 // ASLAN STANDALONE RUNTIME (QuickJS Sandboxed Engine - Zero Dependencies)
@@ -135,17 +137,18 @@ const EASYPLEX_USER_AGENT = 'EasyPlex (Android 11; Pixel 5; google redfin; tr)';
  */
 function createSignedHeaders(method = 'GET', path = '', body = '') {
     const timestamp = Math.floor(Date.now() / 1000);
-    const nonce = crypto.randomBytes(18).toString('base64');
-    const bodyHash = crypto.createHash('sha256').update(body || '').digest('hex');
+    const nonce = Math.random().toString(36).substring(2, 15) + Date.now().toString(36);
+    let bodyHash = '';
+    let signature = '';
 
-    // Extract path starting with /api/
-    const apiIndex = path.indexOf('/api/');
-    const canonicalPath = apiIndex !== -1 ? path.substring(apiIndex) : (path.startsWith('/') ? path : `/${path}`);
-
-    // Canonical string: METHOD\nPATH\nTIMESTAMP\nNONCE\nBODY_HASH
-    const canonicalString = `${method.toUpperCase()}\n${canonicalPath}\n${timestamp}\n${nonce}\n${bodyHash}`;
-    const hmacHex = crypto.createHmac('sha256', HMAC_SECRET).update(canonicalString).digest('hex');
-    const signature = `sha256=${hmacHex}`;
+    if (CryptoJS) {
+        bodyHash = CryptoJS.SHA256(body || '').toString(CryptoJS.enc.Hex);
+        const apiIndex = path.indexOf('/api/');
+        const canonicalPath = apiIndex !== -1 ? path.substring(apiIndex) : (path.startsWith('/') ? path : `/${path}`);
+        const canonicalString = `${method.toUpperCase()}\n${canonicalPath}\n${timestamp}\n${nonce}\n${bodyHash}`;
+        const hmacHex = CryptoJS.HmacSHA256(canonicalString, HMAC_SECRET).toString(CryptoJS.enc.Hex);
+        signature = `sha256=${hmacHex}`;
+    }
 
     return {
         'User-Agent': EASYPLEX_USER_AGENT,

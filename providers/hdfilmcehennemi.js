@@ -183,13 +183,23 @@ function unpackJS(p, a, c, k) {
  * @param {Array<string>} parts - Array of obfuscated token chunks
  * @returns {string|null} Decoded video URL
  */
+function safeAtob(val) {
+    if (typeof atob === 'function') {
+        try { return atob(val); } catch (_) {}
+    }
+    if (typeof Buffer !== 'undefined') {
+        try { return Buffer.from(val, 'base64').toString('latin1'); } catch (_) {}
+    }
+    return '';
+}
+
 function decodeRapidrameVideoUrl(parts) {
     if (!Array.isArray(parts) || parts.length === 0) return null;
     const value = parts.join('');
 
     // Strategy 1: base64 -> reverse -> ROT13 -> unmix (Current Rapidrame algorithm)
     try {
-        let step1 = Buffer.from(value, 'base64').toString('latin1');
+        let step1 = safeAtob(value);
         let step2 = step1.split('').reverse().join('');
         let step3 = rot13(step2);
         let result = characterUnmix(step3);
@@ -202,7 +212,7 @@ function decodeRapidrameVideoUrl(parts) {
     try {
         const reversed = value.split('').reverse().join('');
         let step1 = rot13(reversed);
-        let step2 = Buffer.from(step1, 'base64').toString('latin1');
+        let step2 = safeAtob(step1);
         let result = characterUnmix(step2);
         if (result && (result.includes('.m3u8') || result.includes('/hls/') || result.includes('.mp4'))) {
             return result;
@@ -212,7 +222,7 @@ function decodeRapidrameVideoUrl(parts) {
     // Strategy 3: reverse -> base64 -> ROT13 -> unmix
     try {
         const reversed = value.split('').reverse().join('');
-        let step1 = Buffer.from(reversed, 'base64').toString('latin1');
+        let step1 = safeAtob(reversed);
         let step2 = rot13(step1);
         let result = characterUnmix(step2);
         if (result && (result.includes('.m3u8') || result.includes('/hls/') || result.includes('.mp4'))) {

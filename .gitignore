@@ -1,0 +1,23 @@
+# Development & extraction scripts
+scripts/
+*.py
+*.pyc
+__pycache__/
+
+# Large non-runtime IPTV dumps
+data/netv-gold-streams.json
+data/netv-gold.m3u
+
+# Experimental/untracked scrapers not ready for QuickJS
+providers/inat.js
+
+# APKs, captures, logs
+*.apk
+*.png
+*.log
+*.txt
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+node_modules/

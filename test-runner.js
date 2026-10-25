@@ -197,15 +197,6 @@ const PROVIDERS = [
         primaryVector: TEST_VECTORS.LIVE_SPOR,
         secondaryVector: TEST_VECTORS.LIVE_CANLI,
         edgeTest: { id: '', type: 'tv' }
-    },
-    {
-        id: 'inat',
-        name: 'InatBox',
-        types: ['live', 'tv'],
-        file: './providers/inat.js',
-        primaryVector: TEST_VECTORS.LIVE_SPOR,
-        secondaryVector: TEST_VECTORS.LIVE_CANLI,
-        edgeTest: { id: '', type: 'tv' }
     }
 ];
 

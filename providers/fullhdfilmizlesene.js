@@ -141,19 +141,29 @@ function rot13(s) {
  * @param {string} [key='K9L'] - Obfuscation key
  * @returns {string} Decoded URL or JSON configuration
  */
+function safeAtob(val) {
+    if (typeof atob === 'function') {
+        try { return atob(val); } catch (_) {}
+    }
+    if (typeof Buffer !== 'undefined') {
+        try { return Buffer.from(val, 'base64').toString('latin1'); } catch (_) {}
+    }
+    return '';
+}
+
 function decodeRapidVid(blob, key = 'K9L') {
     if (!blob || typeof blob !== 'string') return '';
 
     // Strategy 1: Imgz / RapidVid reverse -> Base64 -> shift subtraction -> Base64
     try {
         const rev = blob.split('').reverse().join('');
-        const e = Buffer.from(rev, 'base64').toString('latin1');
+        const e = safeAtob(rev);
         let n = '';
         for (let i = 0; i < e.length; i++) {
             const k = key.charCodeAt(i % key.length);
             n += String.fromCharCode(e.charCodeAt(i) - ((k % 5) + 1));
         }
-        const decoded = Buffer.from(n, 'base64').toString('utf-8');
+        const decoded = safeAtob(n);
         if (decoded.includes('http') || decoded.includes('{') || decoded.includes('.m3u8')) {
             return decoded;
         }
@@ -161,12 +171,12 @@ function decodeRapidVid(blob, key = 'K9L') {
 
     // Strategy 2: Base64 -> XOR with key "K9L" -> Base64
     try {
-        const step1 = Buffer.from(blob, 'base64').toString('binary');
+        const step1 = safeAtob(blob);
         let xored = '';
         for (let i = 0; i < step1.length; i++) {
             xored += String.fromCharCode(step1.charCodeAt(i) ^ key.charCodeAt(i % key.length));
         }
-        const decoded = Buffer.from(xored, 'base64').toString('utf-8');
+        const decoded = safeAtob(xored);
         if (decoded.includes('http') || decoded.includes('{') || decoded.includes('.m3u8')) {
             return decoded;
         }
@@ -174,8 +184,8 @@ function decodeRapidVid(blob, key = 'K9L') {
 
     // Strategy 3: Double Base64 decode -> XOR with key "K9L"
     try {
-        const step1 = Buffer.from(blob, 'base64').toString('binary');
-        const step2 = Buffer.from(step1, 'base64').toString('binary');
+        const step1 = safeAtob(blob);
+        const step2 = safeAtob(step1);
         let xored = '';
         for (let i = 0; i < step2.length; i++) {
             xored += String.fromCharCode(step2.charCodeAt(i) ^ key.charCodeAt(i % key.length));
@@ -188,12 +198,12 @@ function decodeRapidVid(blob, key = 'K9L') {
     // Strategy 4: Reverse -> XOR with key "K9L" -> Base64
     try {
         const rev = blob.split('').reverse().join('');
-        const step1 = Buffer.from(rev, 'base64').toString('binary');
+        const step1 = safeAtob(rev);
         let xored = '';
         for (let i = 0; i < step1.length; i++) {
             xored += String.fromCharCode(step1.charCodeAt(i) ^ key.charCodeAt(i % key.length));
         }
-        const decoded = Buffer.from(xored, 'base64').toString('utf-8');
+        const decoded = safeAtob(xored);
         if (decoded.includes('http') || decoded.includes('{') || decoded.includes('.m3u8')) {
             return decoded;
         }
@@ -202,21 +212,16 @@ function decodeRapidVid(blob, key = 'K9L') {
     return '';
 }
 
-/**
- * Decodes an SCX source entry: atob(rot13(entry)).
- *
- * @param {string} entry - Encoded scx entry
- * @returns {string|null} Decoded embed URL
- */
 function decodeScxEntry(entry) {
     if (!entry || typeof entry !== 'string') return null;
     try {
-        const url = Buffer.from(rot13(entry), 'base64').toString('utf-8');
+        const url = safeAtob(rot13(entry));
         return /^https?:\/\//i.test(url) ? url : null;
     } catch (_) {
         return null;
     }
 }
+
 
 /**
  * Resolves movie URLs from TMDB ID using multi-tier discovery.
