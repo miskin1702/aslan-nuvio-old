@@ -99,45 +99,6 @@
       "contentLanguage": ["tr"]
     },
     {
-      "id": "sinefy",
-      "name": "Sinefy",
-      "description": "Yüksek bitrate film ve dizi arşivi, Selcukflix CDN altyapısı.",
-      "version": "1.0.0",
-      "author": "Aslan Core Team",
-      "supportedTypes": ["movie", "tv"],
-      "filename": "providers/sinefy.js",
-      "enabled": true,
-      "formats": ["mp4", "mkv", "hls", "m3u8"],
-      "logo": "https://www.google.com/s2/favicons?domain=sinefy3.com&sz=128",
-      "contentLanguage": ["tr", "en"]
-    },
-    {
-      "id": "dizimia",
-      "name": "Dizimia",
-      "description": "Türkçe ve yabancı dizi arşivi, kesintisiz M3U8 oynatma desteği.",
-      "version": "1.0.0",
-      "author": "Aslan Core Team",
-      "supportedTypes": ["tv"],
-      "filename": "providers/dizimia.js",
-      "enabled": true,
-      "formats": ["mp4", "mkv", "hls", "m3u8"],
-      "logo": "https://www.google.com/s2/favicons?domain=dizimia.live&sz=128",
-      "contentLanguage": ["tr"]
-    },
-    {
-      "id": "filmekseni",
-      "name": "Filmekseni",
-      "description": "Türkçe dublaj ve altyazılı vizyon filmleri, çoklu kaynak desteği.",
-      "version": "1.0.0",
-      "author": "Aslan Core Team",
-      "supportedTypes": ["movie", "tv"],
-      "filename": "providers/filmekseni.js",
-      "enabled": true,
-      "formats": ["mp4", "mkv", "hls", "m3u8"],
-      "logo": "https://www.google.com/s2/favicons?domain=filmekseni.vip&sz=128",
-      "contentLanguage": ["tr"]
-    },
-    {
       "id": "yabancidizi",
       "name": "YabanciDizi",
       "description": "Kapsamlı yabancı dizi bölüm arşivi, VidMixi ve Sibnet oynatıcıları.",
