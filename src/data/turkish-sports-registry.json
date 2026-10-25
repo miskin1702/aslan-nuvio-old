@@ -1,0 +1,425 @@
+{
+  "version": "1.0.0",
+  "name": "Turkish Sports Channels Registry",
+  "description": "Canonical registry of Turkish sports channels for Project Aslan. Strict zero-bloat sports filter.",
+  "channels": [
+    {
+      "id": "bein-sports-1",
+      "name": "beIN SPORTS 1 HD",
+      "category": "Spor",
+      "logo": "https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png",
+      "aliases": [
+        "bein\\s*sports?\\s*1\\b",
+        "beinsports1",
+        "beinspor1",
+        "beinsport1"
+      ],
+      "defaultStreams": [
+        "https://live-freeshot.mark-clark.workers.dev/?ID=beINSPORTS1TR"
+      ]
+    },
+    {
+      "id": "bein-sports-2",
+      "name": "beIN SPORTS 2",
+      "category": "Spor",
+      "logo": "https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png",
+      "aliases": [
+        "bein\\s*sports?\\s*2\\b",
+        "beinsports2",
+        "beinspor2",
+        "beinsport2"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "bein-sports-3",
+      "name": "beIN SPORTS 3",
+      "category": "Spor",
+      "logo": "https://r2.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png",
+      "aliases": [
+        "bein\\s*sports?\\s*3\\b",
+        "beinsports3",
+        "beinspor3",
+        "beinsport3"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "bein-sports-4",
+      "name": "beIN SPORTS 4",
+      "category": "Spor",
+      "logo": "https://r2.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png",
+      "aliases": [
+        "bein\\s*sports?\\s*4\\b",
+        "beinsports4",
+        "beinspor4",
+        "beinsport4"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "bein-sports-5",
+      "name": "beIN SPORTS 5",
+      "category": "Spor",
+      "logo": "https://i.imgur.com/iRKfaee.png",
+      "aliases": [
+        "bein\\s*sports?\\s*5\\b",
+        "beinsports5",
+        "beinspor5",
+        "beinsport5"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "bein-sports-max-1",
+      "name": "beIN SPORTS MAX 1",
+      "category": "Spor",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png",
+      "aliases": [
+        "bein\\s*sports?\\s*max\\s*1\\b",
+        "bein\\s*sports?\\s*max(?!\\s*2)",
+        "beinsportsmax1",
+        "beINSPORTSMax$"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "bein-sports-max-2",
+      "name": "beIN SPORTS MAX 2",
+      "category": "Spor",
+      "logo": "https://i.imgur.com/t7U20yR.png",
+      "aliases": [
+        "bein\\s*sports?\\s*max\\s*2\\b",
+        "beinsportsmax2",
+        "beINSPORTSMax2"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "bein-sports-haber",
+      "name": "beIN SPORTS HABER",
+      "category": "Spor",
+      "logo": "https://i.ibb.co/Xz9R2zB/beinsports.png",
+      "aliases": [
+        "bein\\s*sports?\\s*haber",
+        "bein\\s*haber",
+        "beinsportshaber"
+      ],
+      "defaultStreams": [
+        "http://wowza.beinsports.com.tr/live/bshaber/playlist.m3u8"
+      ]
+    },
+    {
+      "id": "s-sport-1",
+      "name": "S SPORT 1",
+      "category": "Spor",
+      "logo": "https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png",
+      "aliases": [
+        "s\\s*sport\\s*1\\b",
+        "^s\\s*sport(\\s*hd)?$",
+        "ssport1",
+        "Spor_SSPORT$"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "s-sport-2",
+      "name": "S SPORT 2",
+      "category": "Spor",
+      "logo": "https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png",
+      "aliases": [
+        "s\\s*sport\\s*2\\b",
+        "ssport2",
+        "Spor_SSPORT2"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "exxen-spor-1",
+      "name": "EXXEN SPOR 1",
+      "category": "Spor",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png",
+      "aliases": [
+        "exxen\\s*spor\\s*1\\b",
+        "^exxen(\\s*spor)?(\\s*hd)?$",
+        "exxenspor1",
+        "Spor_EXXEN$"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "exxen-spor-2",
+      "name": "EXXEN SPOR 2",
+      "category": "Spor",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png",
+      "aliases": [
+        "exxen\\s*spor\\s*2\\b",
+        "exxenspor2"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "exxen-spor-3",
+      "name": "EXXEN SPOR 3",
+      "category": "Spor",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png",
+      "aliases": [
+        "exxen\\s*spor\\s*3\\b",
+        "exxenspor3"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "exxen-spor-4",
+      "name": "EXXEN SPOR 4",
+      "category": "Spor",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png",
+      "aliases": [
+        "exxen\\s*spor\\s*4\\b",
+        "exxenspor4"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "exxen-spor-5",
+      "name": "EXXEN SPOR 5",
+      "category": "Spor",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png",
+      "aliases": [
+        "exxen\\s*spor\\s*5\\b",
+        "exxenspor5"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "exxen-spor-6",
+      "name": "EXXEN SPOR 6",
+      "category": "Spor",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png",
+      "aliases": [
+        "exxen\\s*spor\\s*6\\b",
+        "exxenspor6"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "tabii-spor",
+      "name": "TABİİ SPOR",
+      "category": "Spor",
+      "logo": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg",
+      "aliases": [
+        "^tabii\\s*spor(\\s*hd)?$",
+        "tabiispor$",
+        "Spor_TABII$"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "tabii-spor-1",
+      "name": "TABİİ SPOR 1",
+      "category": "Spor",
+      "logo": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43005.jpeg",
+      "aliases": [
+        "tabii\\s*spor\\s*1\\b",
+        "tabiispor1",
+        "Spor_TABII1"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "tabii-spor-2",
+      "name": "TABİİ SPOR 2",
+      "category": "Spor",
+      "logo": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43008.jpeg",
+      "aliases": [
+        "tabii\\s*spor\\s*2\\b",
+        "tabiispor2",
+        "Spor_TABII2"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "tabii-spor-3",
+      "name": "TABİİ SPOR 3",
+      "category": "Spor",
+      "logo": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43011.jpeg",
+      "aliases": [
+        "tabii\\s*spor\\s*3\\b",
+        "tabiispor3",
+        "Spor_TABII3"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "tabii-spor-4",
+      "name": "TABİİ SPOR 4",
+      "category": "Spor",
+      "logo": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43014.jpeg",
+      "aliases": [
+        "tabii\\s*spor\\s*4\\b",
+        "tabiispor4",
+        "Spor_TABII4"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "tabii-spor-5",
+      "name": "TABİİ SPOR 5",
+      "category": "Spor",
+      "logo": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43017.jpeg",
+      "aliases": [
+        "tabii\\s*spor\\s*5\\b",
+        "tabiispor5",
+        "Spor_TABII5"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "tabii-spor-6",
+      "name": "TABİİ SPOR 6",
+      "category": "Spor",
+      "logo": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43020.jpeg",
+      "aliases": [
+        "tabii\\s*spor\\s*6\\b",
+        "tabiispor6",
+        "Spor_TABII6"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "tivibu-spor-1",
+      "name": "TİVİBU SPOR 1",
+      "category": "Spor",
+      "logo": "https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png",
+      "aliases": [
+        "tivibu\\s*spor\\s*1\\b",
+        "^tivibu\\s*spor(\\s*hd)?$",
+        "tivibuspor1",
+        "Spor_TivibuSpor1"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "tivibu-spor-2",
+      "name": "TİVİBU SPOR 2",
+      "category": "Spor",
+      "logo": "https://r2.thesportsdb.com/images/media/channel/logo/kuasdm1642604455.png",
+      "aliases": [
+        "tivibu\\s*spor\\s*2\\b",
+        "tivibuspor2",
+        "Spor_TivibuSpor2"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "tivibu-spor-3",
+      "name": "TİVİBU SPOR 3",
+      "category": "Spor",
+      "logo": "https://r2.thesportsdb.com/images/media/channel/logo/slwrz41642604502.png",
+      "aliases": [
+        "tivibu\\s*spor\\s*3\\b",
+        "tivibuspor3",
+        "Spor_TivibuSpor3"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "tivibu-spor-4",
+      "name": "TİVİBU SPOR 4",
+      "category": "Spor",
+      "logo": "https://r2.thesportsdb.com/images/media/channel/logo/59bqi81642604517.png",
+      "aliases": [
+        "tivibu\\s*spor\\s*4\\b",
+        "tivibuspor4",
+        "Spor_TivibuSpor4"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "spor-smart-1",
+      "name": "SPOR SMART 1",
+      "category": "Spor",
+      "logo": "https://dsmart-static-v2.ercdn.net//resize-width/1920/content/p/el/11909/Thumbnail.png",
+      "aliases": [
+        "spor\\s*smart\\s*1\\b",
+        "^spor\\s*smart(\\s*hd)?$",
+        "sporsmart1",
+        "smartspor1",
+        "Spor_SporSmart$"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "spor-smart-2",
+      "name": "SPOR SMART 2",
+      "category": "Spor",
+      "logo": "https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2-gri.png",
+      "aliases": [
+        "spor\\s*smart\\s*2\\b",
+        "sporsmart2",
+        "smartspor2",
+        "Spor_SporSmart2"
+      ],
+      "defaultStreams": []
+    },
+    {
+      "id": "trt-spor",
+      "name": "TRT SPOR",
+      "category": "Spor",
+      "logo": "https://picon.pics/TR/Spor/TrtSpor.png",
+      "aliases": [
+        "trt[.\\s_-]*spor(?!.*y[ıi]ld[ıi]z)",
+        "trtspor(?!yildiz)",
+        "trt.*spor"
+      ],
+      "defaultStreams": [
+        "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+        "https://tv-trtspor2.medya.trt.com.tr/master.m3u8"
+      ]
+    },
+    {
+      "id": "trt-spor-yildiz",
+      "name": "TRT SPOR YILDIZ",
+      "category": "Spor",
+      "logo": "https://picon.pics/TR/Spor/TrtSporYildiz.png",
+      "aliases": [
+        "trt\\s*spor\\s*y[ıi]ld[ıi]z",
+        "trt\\s*y[ıi]ld[ıi]z",
+        "trtsporyildiz"
+      ],
+      "defaultStreams": [
+        "https://tv-trtspor2.medya.trt.com.tr/master.m3u8"
+      ]
+    },
+    {
+      "id": "a-spor",
+      "name": "A SPOR",
+      "category": "Spor",
+      "logo": "https://picon.pics/TR/Spor/Aspor.png",
+      "aliases": [
+        "a[.\\s_-]*spor",
+        "\\baspor\\b",
+        "aspor"
+      ],
+      "defaultStreams": [
+        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
+        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8"
+      ]
+    },
+    {
+      "id": "tv8-5",
+      "name": "TV8.5",
+      "category": "Spor",
+      "logo": "https://picon.pics/TR/Spor/Tv8bucuk.png",
+      "aliases": [
+        "tv\\s*8[.,]5",
+        "tv8\\s*5",
+        "tv\\s*8\\s*bu[cç]uk",
+        "tv85"
+      ],
+      "defaultStreams": [
+        "https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8"
+      ]
+    }
+  ]
+}

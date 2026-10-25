@@ -1,0 +1,82 @@
+{
+  "hdfilmcehennemi": {
+    "name": "Hdfilmcehennemi",
+    "url": "https://www.hdfilmcehennemi.pw",
+    "latencyMs": 779,
+    "verifiedAt": "2026-10-25T21:08:16.416Z",
+    "mirrorCount": 2,
+    "status": "ONLINE"
+  },
+  "fullhdfilmizlesene": {
+    "name": "FullHDFilmizlesene",
+    "url": "https://www.fullhdfilmizlesene.de",
+    "latencyMs": 2433,
+    "verifiedAt": "2026-10-25T21:08:19.936Z",
+    "mirrorCount": 2,
+    "status": "ONLINE"
+  },
+  "filmmakinesi": {
+    "name": "FilmMakinesi",
+    "url": "https://filmmakinesi.org",
+    "latencyMs": 642,
+    "verifiedAt": "2026-10-25T21:08:20.998Z",
+    "mirrorCount": 3,
+    "status": "ONLINE"
+  },
+  "dizipal": {
+    "name": "Dizipal",
+    "url": "https://dizipal2216.com",
+    "latencyMs": 708,
+    "verifiedAt": "2026-10-25T21:08:24.507Z",
+    "mirrorCount": 4,
+    "status": "ONLINE"
+  },
+  "jetfilmizle": {
+    "name": "JetFilmizle",
+    "url": "https://jetfilmizle.app",
+    "latencyMs": 770,
+    "verifiedAt": "2026-10-25T21:08:27.250Z",
+    "mirrorCount": 5,
+    "status": "ONLINE"
+  },
+  "sezonlukdizi": {
+    "name": "SezonlukDizi",
+    "url": "https://sezonlukdizi.cc",
+    "latencyMs": 652,
+    "verifiedAt": "2026-10-25T21:08:30.755Z",
+    "mirrorCount": 3,
+    "status": "ONLINE"
+  },
+  "webteizle": {
+    "name": "WebteIzle",
+    "url": "https://webteizle.xyz",
+    "latencyMs": 867,
+    "verifiedAt": "2026-10-25T21:08:31.847Z",
+    "mirrorCount": 2,
+    "status": "ONLINE"
+  },
+  "yabancidizi": {
+    "name": "YabanciDizi",
+    "url": "https://yabanci-dizi.now",
+    "latencyMs": 805,
+    "verifiedAt": "2026-10-25T21:08:35.348Z",
+    "mirrorCount": 3,
+    "status": "ONLINE"
+  },
+  "rec": {
+    "name": "RecTV API",
+    "url": "https://a.prectv70.lol",
+    "latencyMs": 521,
+    "verifiedAt": "2026-10-25T21:08:38.855Z",
+    "mirrorCount": 1,
+    "status": "ONLINE"
+  },
+  "sinewix": {
+    "name": "SineWix API",
+    "url": "https://www.sinewix.com",
+    "latencyMs": 1204,
+    "verifiedAt": "2026-10-25T21:08:40.062Z",
+    "mirrorCount": 1,
+    "status": "ONLINE"
+  }
+}

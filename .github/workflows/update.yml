@@ -1,0 +1,39 @@
+name: Aslan 5x Daily Master Update
+
+on:
+  schedule:
+    # 5 times daily (UTC times corresponding to Turkey GMT+3):
+    # 11:30 TRT -> 08:30 UTC
+    # 15:30 TRT -> 12:30 UTC
+    # 18:30 TRT -> 15:30 UTC
+    # 20:30 TRT -> 17:30 UTC
+    # 22:30 TRT -> 19:30 UTC
+    - cron: '30 8,12,15,17,19 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js Runtime
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Execute Master Update Daemon
+        run: |
+          node scripts/update-all.js
+
+      - name: Commit and Push Verified Databases
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "Auto-Update: Refresh provider domains & verified sports streams [skip ci]" || echo "No changes to commit"
+          git push

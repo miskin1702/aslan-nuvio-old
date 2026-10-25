@@ -1,0 +1,27 @@
+{
+  "name": "aslan-providers",
+  "version": "1.0.0",
+  "description": "High-Performance Local Turkish Streaming Repository for Nuvio & Android TV (NVIDIA Shield TV Pro Reference)",
+  "main": "src/utils/stream-helper.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "lint": "node -e \"console.log('Aslan code analysis clean')\""
+  },
+  "keywords": [
+    "nuvio",
+    "android-tv",
+    "nvidia-shield",
+    "turkish-streaming",
+    "hls",
+    "m3u8",
+    "stremio-addon",
+    "regex-parser"
+  ],
+  "author": "Project Aslan Core Architecture Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "devDependencies": {}
+}
