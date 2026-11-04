@@ -2,8 +2,8 @@
   "hdfilmcehennemi": {
     "name": "Hdfilmcehennemi",
     "url": "https://www.hdfilmcehennemi.biz",
-    "latencyMs": 621,
-    "verifiedAt": "2026-11-04T16:30:20.243Z",
+    "latencyMs": 572,
+    "verifiedAt": "2026-11-04T22:48:20.209Z",
     "mirrorCount": 1,
     "status": "ONLINE"
   },
@@ -11,7 +11,7 @@
     "name": "FullHDFilmizlesene",
     "url": "https://www.fullhdfilmizlesene.live",
     "latencyMs": 9999,
-    "verifiedAt": "2026-11-04T16:30:20.728Z",
+    "verifiedAt": "2026-11-04T22:48:20.534Z",
     "mirrorCount": 0,
     "status": "FALLBACK"
   },
@@ -19,39 +19,39 @@
     "name": "FilmMakinesi",
     "url": "https://filmmakinesi.ch",
     "latencyMs": 9999,
-    "verifiedAt": "2026-11-04T16:30:21.055Z",
+    "verifiedAt": "2026-11-04T22:48:20.810Z",
     "mirrorCount": 0,
     "status": "FALLBACK"
   },
   "dizipal": {
     "name": "Dizipal",
     "url": "https://dizipal1063.com",
-    "latencyMs": 690,
-    "verifiedAt": "2026-11-04T16:30:22.986Z",
+    "latencyMs": 652,
+    "verifiedAt": "2026-11-04T22:48:22.390Z",
     "mirrorCount": 3,
     "status": "ONLINE"
   },
   "jetfilmizle": {
     "name": "JetFilmizle",
     "url": "https://jetfilmizle.app",
-    "latencyMs": 165,
-    "verifiedAt": "2026-11-04T16:30:23.672Z",
+    "latencyMs": 135,
+    "verifiedAt": "2026-11-04T22:48:22.869Z",
     "mirrorCount": 4,
     "status": "ONLINE"
   },
   "sezonlukdizi": {
     "name": "SezonlukDizi",
     "url": "https://sezonlukdizi.cc",
-    "latencyMs": 371,
-    "verifiedAt": "2026-11-04T16:30:27.172Z",
+    "latencyMs": 327,
+    "verifiedAt": "2026-11-04T22:48:26.370Z",
     "mirrorCount": 2,
     "status": "ONLINE"
   },
   "webteizle": {
     "name": "WebteIzle",
     "url": "https://webteizle.info",
-    "latencyMs": 436,
-    "verifiedAt": "2026-11-04T16:30:27.999Z",
+    "latencyMs": 377,
+    "verifiedAt": "2026-11-04T22:48:27.120Z",
     "mirrorCount": 3,
     "status": "ONLINE"
   },
@@ -59,23 +59,23 @@
     "name": "YabanciDizi",
     "url": "https://yabancidizi.co",
     "latencyMs": 9999,
-    "verifiedAt": "2026-11-04T16:30:28.427Z",
+    "verifiedAt": "2026-11-04T22:48:27.541Z",
     "mirrorCount": 0,
     "status": "FALLBACK"
   },
   "rec": {
     "name": "RecTV API",
     "url": "https://a.prectv70.lol",
-    "latencyMs": 531,
-    "verifiedAt": "2026-11-04T16:30:29.080Z",
+    "latencyMs": 431,
+    "verifiedAt": "2026-11-04T22:48:28.188Z",
     "mirrorCount": 1,
     "status": "ONLINE"
   },
   "sinewix": {
     "name": "SineWix API",
     "url": "https://www.sinewix.com",
-    "latencyMs": 250,
-    "verifiedAt": "2026-11-04T16:30:29.331Z",
+    "latencyMs": 236,
+    "verifiedAt": "2026-11-04T22:48:28.425Z",
     "mirrorCount": 1,
     "status": "ONLINE"
   },
@@ -83,7 +83,7 @@
     "name": "İnat Box API",
     "url": "https://sprboxs.bar",
     "latencyMs": 9999,
-    "verifiedAt": "2026-11-04T16:30:29.982Z",
+    "verifiedAt": "2026-11-04T22:48:28.949Z",
     "mirrorCount": 0,
     "status": "FALLBACK"
   }
