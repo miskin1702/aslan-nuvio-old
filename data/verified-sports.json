@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T02:22:12.216Z",
+  "updatedAt": "2026-11-10T16:34:26.678Z",
   "version": "1.0.0",
   "totalChannels": 33,
   "activeChannels": 27,
@@ -13,7 +13,7 @@
         {
           "url": "https://sporligtv600.live/restrm/cek.m3u8?u=https://h0.b4c8d3e9f1a2b7c5d58.cfd/yayint24.m3u8&a=&aa=h0.b4c8d3e9f1a2b7c5d58.cfd",
           "headers": {},
-          "latencyMs": 842,
+          "latencyMs": 920,
           "score": 50,
           "feedSource": "IPTV Multi-Backup Sports",
           "feedRepo": "https://github.com/berkaygulerr/IPTV",
@@ -107,13 +107,13 @@
       "formattedStreams": [
         {
           "name": "⌜ ASLAN SPOR ⌟",
-          "title": "[★ EN İYİ PERFORMANS] beIN SPORTS 1 HD (842ms - 1080p)",
+          "title": "[★ EN İYİ PERFORMANS] beIN SPORTS 1 HD (920ms - 1080p)",
           "url": "https://sporligtv600.live/restrm/cek.m3u8?u=https://h0.b4c8d3e9f1a2b7c5d58.cfd/yayint24.m3u8&a=&aa=h0.b4c8d3e9f1a2b7c5d58.cfd",
           "quality": "1080p",
           "isLive": true,
           "primary": true,
           "headers": {},
-          "latencyMs": 842,
+          "latencyMs": 920,
           "sourceInfo": "IPTV Multi-Backup Sports"
         },
         {
